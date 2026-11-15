@@ -1,0 +1,2001 @@
+appt_id,date,doctor,city,specialty,type,status,fee,satisfied
+A00001,2026-10-18,Dr. Sample Beta,Lahore,Psychologist,Paid VC,Completed,2000,Yes
+A00002,2026-10-03,Dr. Sample Beta,Lahore,Psychologist,Instant VC,Completed,1200,Yes
+A00003,2026-11-11,Dr. Sample Alpha,Lahore,Psychologist,Instant VC,Completed,1700,Yes
+A00004,2026-10-01,Dr. Sample Theta,Rawalpindi,Dermatologist,Instant VC,Completed,1200,No
+A00005,2026-10-14,Dr. Sample Zeta,Islamabad,Psychologist,Paid VC,No-show,2000,
+A00006,2026-10-07,Dr. Sample Beta,Lahore,Psychologist,Paid VC,Completed,2000,Yes
+A00007,2026-11-04,Dr. Sample Alpha,Lahore,Psychologist,Physical,Completed,3000,Yes
+A00008,2026-11-09,Dr. Sample Epsilon,Islamabad,Pediatrician,Physical,Cancelled,2500,
+A00009,2026-10-03,Dr. Sample Delta,Karachi,Gynecologist,Physical,Completed,2500,Yes
+A00010,2026-10-25,Dr. Sample Delta,Karachi,Gynecologist,Physical,Completed,2500,Yes
+A00011,2026-10-18,Dr. Sample Zeta,Islamabad,Psychologist,Paid VC,Completed,1800,Yes
+A00012,2026-10-25,Dr. Sample Delta,Karachi,Gynecologist,Paid VC,Completed,2000,Yes
+A00013,2026-10-03,Dr. Sample Alpha,Lahore,Psychologist,Paid VC,Cancelled,2500,
+A00014,2026-11-06,Dr. Sample Epsilon,Islamabad,Pediatrician,Paid VC,Cancelled,2000,
+A00015,2026-10-26,Dr. Sample Delta,Karachi,Gynecologist,Physical,Cancelled,3000,
+A00016,2026-10-16,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,Completed,2000,No
+A00017,2026-10-09,Dr. Sample Eta,Lahore,General Physician,Paid VC,Completed,1800,Yes
+A00018,2026-10-11,Dr. Sample Beta,Lahore,Psychologist,Paid VC,Cancelled,2500,
+A00019,2026-11-08,Dr. Sample Beta,Lahore,Psychologist,Paid VC,No-show,2000,
+A00020,2026-10-08,Dr. Sample Alpha,Lahore,Psychologist,Physical,Completed,2500,Yes
+A00021,2026-10-11,Dr. Sample Beta,Lahore,Psychologist,Paid VC,Completed,2000,Yes
+A00022,2026-10-20,Dr. Sample Beta,Lahore,Psychologist,Physical,Cancelled,2500,
+A00023,2026-10-11,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,Completed,1800,Yes
+A00024,2026-10-24,Dr. Sample Theta,Rawalpindi,Dermatologist,Paid VC,Cancelled,2000,
+A00025,2026-11-06,Dr. Sample Delta,Karachi,Gynecologist,Paid VC,No-show,1800,
+A00026,2026-11-04,Dr. Sample Theta,Rawalpindi,Dermatologist,Physical,Completed,2500,No
+A00027,2026-11-08,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,Completed,2000,Yes
+A00028,2026-11-11,Dr. Sample Epsilon,Islamabad,Pediatrician,Paid VC,Completed,2500,Yes
+A00029,2026-10-22,Dr. Sample Delta,Karachi,Gynecologist,Paid VC,Completed,2000,Yes
+A00030,2026-11-10,Dr. Sample Alpha,Lahore,Psychologist,Paid VC,Completed,1800,Yes
+A00031,2026-10-16,Dr. Sample Zeta,Islamabad,Psychologist,Paid VC,Completed,2500,Yes
+A00032,2026-11-06,Dr. Sample Gamma,Karachi,Dermatologist,Physical,Completed,2500,No
+A00033,2026-10-07,Dr. Sample Eta,Lahore,General Physician,Paid VC,Completed,2000,No
+A00034,2026-10-04,Dr. Sample Eta,Lahore,General Physician,Instant VC,Completed,1000,Yes
+A00035,2026-10-07,Dr. Sample Eta,Lahore,General Physician,Physical,Completed,2500,No
+A00036,2026-10-18,Dr. Sample Gamma,Karachi,Dermatologist,Instant VC,Completed,1000,No
+A00037,2026-11-04,Dr. Sample Beta,Lahore,Psychologist,Paid VC,Cancelled,1800,
+A00038,2026-11-01,Dr. Sample Delta,Karachi,Gynecologist,Paid VC,Completed,2500,Yes
+A00039,2026-10-25,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,Completed,2500,Yes
+A00040,2026-11-05,Dr. Sample Eta,Lahore,General Physician,Physical,Completed,3000,Yes
+A00041,2026-10-04,Dr. Sample Delta,Karachi,Gynecologist,Paid VC,Completed,1800,Yes
+A00042,2026-10-31,Dr. Sample Alpha,Lahore,Psychologist,Paid VC,Completed,2000,Yes
+A00043,2026-10-05,Dr. Sample Beta,Lahore,Psychologist,Physical,Completed,2500,No
+A00044,2026-11-06,Dr. Sample Beta,Lahore,Psychologist,Lab Booking,Completed,1300,Yes
+A00045,2026-11-06,Dr. Sample Eta,Lahore,General Physician,Physical,Completed,2500,Yes
+A00046,2026-10-26,Dr. Sample Zeta,Islamabad,Psychologist,Paid VC,Completed,2000,No
+A00047,2026-10-05,Dr. Sample Zeta,Islamabad,Psychologist,Lab Booking,Completed,1300,Yes
+A00048,2026-10-09,Dr. Sample Delta,Karachi,Gynecologist,Instant VC,No-show,1000,
+A00049,2026-10-11,Dr. Sample Delta,Karachi,Gynecologist,Paid VC,Completed,2000,Yes
+A00050,2026-10-07,Dr. Sample Epsilon,Islamabad,Pediatrician,Lab Booking,No-show,1500,
+A00051,2026-10-07,Dr. Sample Epsilon,Islamabad,Pediatrician,Paid VC,Completed,2000,Yes
+A00052,2026-10-22,Dr. Sample Epsilon,Islamabad,Pediatrician,Instant VC,Completed,1200,No
+A00053,2026-10-04,Dr. Sample Epsilon,Islamabad,Pediatrician,Lab Booking,Completed,2000,Yes
+A00054,2026-10-09,Dr. Sample Alpha,Lahore,Psychologist,Paid VC,Completed,2000,Yes
+A00055,2026-10-28,Dr. Sample Theta,Rawalpindi,Dermatologist,Instant VC,Completed,1000,Yes
+A00056,2026-10-24,Dr. Sample Gamma,Karachi,Dermatologist,Instant VC,Completed,1200,No
+A00057,2026-10-24,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,Cancelled,1800,
+A00058,2026-10-16,Dr. Sample Zeta,Islamabad,Psychologist,Paid VC,Completed,2000,No
+A00059,2026-10-16,Dr. Sample Gamma,Karachi,Dermatologist,Lab Booking,Cancelled,1500,
+A00060,2026-10-22,Dr. Sample Eta,Lahore,General Physician,Paid VC,Cancelled,2500,
+A00061,2026-10-07,Dr. Sample Delta,Karachi,Gynecologist,Paid VC,Completed,1800,No
+A00062,2026-10-30,Dr. Sample Delta,Karachi,Gynecologist,Paid VC,Completed,2000,Yes
+A00063,2026-10-26,Dr. Sample Alpha,Lahore,Psychologist,Physical,Completed,2300,Yes
+A00064,2026-10-26,Dr. Sample Zeta,Islamabad,Psychologist,Instant VC,Completed,1200,Yes
+A00065,2026-10-17,Dr. Sample Beta,Lahore,Psychologist,Physical,Completed,2500,Yes
+A00066,2026-10-23,Dr. Sample Beta,Lahore,Psychologist,Instant VC,Completed,1200,No
+A00067,2026-11-06,Dr. Sample Beta,Lahore,Psychologist,Paid VC,Completed,1800,No
+A00068,2026-11-04,Dr. Sample Alpha,Lahore,Psychologist,Instant VC,Completed,1200,Yes
+A00069,2026-10-22,Dr. Sample Eta,Lahore,General Physician,Paid VC,Completed,1800,Yes
+A00070,2026-10-21,Dr. Sample Epsilon,Islamabad,Pediatrician,Physical,Completed,2500,Yes
+A00071,2026-10-25,Dr. Sample Delta,Karachi,Gynecologist,Instant VC,Completed,1200,Yes
+A00072,2026-10-01,Dr. Sample Eta,Lahore,General Physician,Instant VC,Completed,1200,No
+A00073,2026-10-29,Dr. Sample Zeta,Islamabad,Psychologist,Instant VC,Completed,1700,Yes
+A00074,2026-11-10,Dr. Sample Beta,Lahore,Psychologist,Paid VC,Completed,1800,Yes
+A00075,2026-10-13,Dr. Sample Epsilon,Islamabad,Pediatrician,Paid VC,Completed,1800,Yes
+A00076,2026-10-05,Dr. Sample Theta,Rawalpindi,Dermatologist,Instant VC,Completed,1200,No
+A00077,2026-10-10,Dr. Sample Theta,Rawalpindi,Dermatologist,Paid VC,Completed,1800,Yes
+A00078,2026-11-03,Dr. Sample Eta,Lahore,General Physician,Paid VC,Completed,2000,Yes
+A00079,2026-10-30,Dr. Sample Theta,Rawalpindi,Dermatologist,Paid VC,Completed,2000,No
+A00080,2026-11-05,Dr. Sample Eta,Lahore,General Physician,Physical,Completed,2500,No
+A00081,2026-10-16,Dr. Sample Theta,Rawalpindi,Dermatologist,Paid VC,Cancelled,2000,
+A00082,2026-10-18,Dr. Sample Theta,Rawalpindi,Dermatologist,Instant VC,Completed,1200,Yes
+A00083,2026-11-04,Dr. Sample Epsilon,Islamabad,Pediatrician,Paid VC,Completed,2000,Yes
+A00084,2026-10-14,Dr. Sample Eta,Lahore,General Physician,Physical,Completed,3000,Yes
+A00085,2026-10-14,Dr. Sample Theta,Rawalpindi,Dermatologist,Instant VC,Cancelled,1700,
+A00086,2026-11-06,Dr. Sample Alpha,Lahore,Psychologist,Physical,Completed,2300,Yes
+A00087,2026-10-27,Dr. Sample Epsilon,Islamabad,Pediatrician,Physical,Completed,2500,No
+A00088,2026-11-01,Dr. Sample Delta,Karachi,Gynecologist,Paid VC,Completed,2000,No
+A00089,2026-10-09,Dr. Sample Gamma,Karachi,Dermatologist,Physical,No-show,2300,
+A00090,2026-10-02,Dr. Sample Eta,Lahore,General Physician,Instant VC,Completed,1700,Yes
+A00091,2026-10-17,Dr. Sample Theta,Rawalpindi,Dermatologist,Paid VC,Completed,2000,No
+A00092,2026-10-25,Dr. Sample Zeta,Islamabad,Psychologist,Paid VC,Completed,2500,Yes
+A00093,2026-11-04,Dr. Sample Beta,Lahore,Psychologist,Instant VC,Completed,1200,Yes
+A00094,2026-11-11,Dr. Sample Beta,Lahore,Psychologist,Physical,Completed,2300,Yes
+A00095,2026-11-09,Dr. Sample Delta,Karachi,Gynecologist,Physical,Completed,2500,No
+A00096,2026-10-14,Dr. Sample Beta,Lahore,Psychologist,Instant VC,Completed,1200,Yes
+A00097,2026-10-08,Dr. Sample Gamma,Karachi,Dermatologist,Instant VC,Completed,1200,Yes
+A00098,2026-10-20,Dr. Sample Beta,Lahore,Psychologist,Instant VC,Completed,1700,No
+A00099,2026-11-10,Dr. Sample Delta,Karachi,Gynecologist,Paid VC,Completed,2000,Yes
+A00100,2026-10-28,Dr. Sample Alpha,Lahore,Psychologist,Paid VC,Completed,1800,Yes
+A00101,2026-11-01,Dr. Sample Alpha,Lahore,Psychologist,Physical,Completed,2500,No
+A00102,2026-11-03,Dr. Sample Gamma,Karachi,Dermatologist,Instant VC,No-show,1200,
+A00103,2026-11-07,Dr. Sample Theta,Rawalpindi,Dermatologist,Instant VC,Completed,1200,Yes
+A00104,2026-10-16,Dr. Sample Epsilon,Islamabad,Pediatrician,Physical,Completed,3000,Yes
+A00105,2026-10-21,Dr. Sample Alpha,Lahore,Psychologist,Instant VC,Completed,1200,Yes
+A00106,2026-11-08,Dr. Sample Epsilon,Islamabad,Pediatrician,Paid VC,Completed,2000,Yes
+A00107,2026-10-27,Dr. Sample Delta,Karachi,Gynecologist,Paid VC,Completed,2000,No
+A00108,2026-10-02,Dr. Sample Theta,Rawalpindi,Dermatologist,Instant VC,Completed,1200,No
+A00109,2026-11-07,Dr. Sample Delta,Karachi,Gynecologist,Paid VC,Completed,2000,No
+A00110,2026-10-30,Dr. Sample Zeta,Islamabad,Psychologist,Paid VC,Completed,2000,Yes
+A00111,2026-10-21,Dr. Sample Beta,Lahore,Psychologist,Physical,Completed,2500,Yes
+A00112,2026-10-18,Dr. Sample Delta,Karachi,Gynecologist,Physical,Completed,2500,Yes
+A00113,2026-10-24,Dr. Sample Delta,Karachi,Gynecologist,Paid VC,Completed,1800,Yes
+A00114,2026-10-04,Dr. Sample Epsilon,Islamabad,Pediatrician,Paid VC,Completed,2000,No
+A00115,2026-11-06,Dr. Sample Beta,Lahore,Psychologist,Physical,Completed,3000,No
+A00116,2026-10-04,Dr. Sample Zeta,Islamabad,Psychologist,Paid VC,Completed,2500,Yes
+A00117,2026-10-05,Dr. Sample Beta,Lahore,Psychologist,Instant VC,Completed,1000,Yes
+A00118,2026-10-20,Dr. Sample Gamma,Karachi,Dermatologist,Physical,Completed,2500,Yes
+A00119,2026-11-09,Dr. Sample Eta,Lahore,General Physician,Instant VC,Completed,1700,No
+A00120,2026-11-07,Dr. Sample Theta,Rawalpindi,Dermatologist,Paid VC,No-show,2000,
+A00121,2026-10-07,Dr. Sample Alpha,Lahore,Psychologist,Instant VC,No-show,1200,
+A00122,2026-10-06,Dr. Sample Delta,Karachi,Gynecologist,Paid VC,Completed,2000,Yes
+A00123,2026-10-29,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,Completed,2500,Yes
+A00124,2026-10-19,Dr. Sample Alpha,Lahore,Psychologist,Paid VC,Completed,2500,Yes
+A00125,2026-11-10,Dr. Sample Delta,Karachi,Gynecologist,Lab Booking,Completed,1500,No
+A00126,2026-11-11,Dr. Sample Beta,Lahore,Psychologist,Instant VC,Completed,1200,Yes
+A00127,2026-10-20,Dr. Sample Beta,Lahore,Psychologist,Paid VC,Completed,2000,No
+A00128,2026-10-20,Dr. Sample Beta,Lahore,Psychologist,Instant VC,Completed,1200,No
+A00129,2026-10-03,Dr. Sample Theta,Rawalpindi,Dermatologist,Paid VC,Cancelled,2000,
+A00130,2026-10-15,Dr. Sample Epsilon,Islamabad,Pediatrician,Paid VC,No-show,1800,
+A00131,2026-10-12,Dr. Sample Epsilon,Islamabad,Pediatrician,Instant VC,Completed,1700,Yes
+A00132,2026-10-28,Dr. Sample Gamma,Karachi,Dermatologist,Lab Booking,Completed,2000,Yes
+A00133,2026-10-22,Dr. Sample Theta,Rawalpindi,Dermatologist,Paid VC,Completed,1800,Yes
+A00134,2026-11-01,Dr. Sample Zeta,Islamabad,Psychologist,Instant VC,Completed,1700,Yes
+A00135,2026-10-17,Dr. Sample Theta,Rawalpindi,Dermatologist,Paid VC,Completed,2500,Yes
+A00136,2026-10-13,Dr. Sample Theta,Rawalpindi,Dermatologist,Instant VC,Completed,1700,No
+A00137,2026-11-05,Dr. Sample Alpha,Lahore,Psychologist,Paid VC,Completed,2000,No
+A00138,2026-11-10,Dr. Sample Theta,Rawalpindi,Dermatologist,Paid VC,Completed,2000,Yes
+A00139,2026-11-05,Dr. Sample Epsilon,Islamabad,Pediatrician,Instant VC,Completed,1200,Yes
+A00140,2026-11-11,Dr. Sample Theta,Rawalpindi,Dermatologist,Lab Booking,Cancelled,2000,
+A00141,2026-10-18,Dr. Sample Epsilon,Islamabad,Pediatrician,Instant VC,Completed,1700,No
+A00142,2026-10-10,Dr. Sample Delta,Karachi,Gynecologist,Instant VC,Completed,1200,Yes
+A00143,2026-10-27,Dr. Sample Epsilon,Islamabad,Pediatrician,Physical,Completed,2500,Yes
+A00144,2026-11-07,Dr. Sample Epsilon,Islamabad,Pediatrician,Physical,Completed,3000,Yes
+A00145,2026-10-23,Dr. Sample Theta,Rawalpindi,Dermatologist,Instant VC,Completed,1700,No
+A00146,2026-10-16,Dr. Sample Zeta,Islamabad,Psychologist,Physical,Completed,2500,No
+A00147,2026-10-31,Dr. Sample Alpha,Lahore,Psychologist,Paid VC,Completed,2500,No
+A00148,2026-10-03,Dr. Sample Gamma,Karachi,Dermatologist,Instant VC,Completed,1200,Yes
+A00149,2026-10-30,Dr. Sample Theta,Rawalpindi,Dermatologist,Paid VC,Completed,2000,No
+A00150,2026-10-17,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,Completed,2500,Yes
+A00151,2026-11-04,Dr. Sample Zeta,Islamabad,Psychologist,Physical,Completed,2500,No
+A00152,2026-10-16,Dr. Sample Alpha,Lahore,Psychologist,Instant VC,Completed,1200,Yes
+A00153,2026-10-07,Dr. Sample Beta,Lahore,Psychologist,Instant VC,Completed,1000,No
+A00154,2026-10-02,Dr. Sample Gamma,Karachi,Dermatologist,Physical,Completed,2300,Yes
+A00155,2026-10-10,Dr. Sample Zeta,Islamabad,Psychologist,Paid VC,Completed,2500,Yes
+A00156,2026-11-09,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,Cancelled,2000,
+A00157,2026-10-10,Dr. Sample Theta,Rawalpindi,Dermatologist,Lab Booking,Completed,1500,No
+A00158,2026-10-30,Dr. Sample Epsilon,Islamabad,Pediatrician,Physical,No-show,2500,
+A00159,2026-10-23,Dr. Sample Beta,Lahore,Psychologist,Instant VC,No-show,1200,
+A00160,2026-10-30,Dr. Sample Eta,Lahore,General Physician,Physical,Cancelled,2500,
+A00161,2026-10-07,Dr. Sample Eta,Lahore,General Physician,Physical,Completed,2500,Yes
+A00162,2026-10-26,Dr. Sample Epsilon,Islamabad,Pediatrician,Paid VC,Completed,1800,No
+A00163,2026-10-15,Dr. Sample Epsilon,Islamabad,Pediatrician,Physical,Completed,2500,Yes
+A00164,2026-10-09,Dr. Sample Delta,Karachi,Gynecologist,Instant VC,Completed,1000,Yes
+A00165,2026-10-24,Dr. Sample Theta,Rawalpindi,Dermatologist,Paid VC,Completed,1800,Yes
+A00166,2026-10-12,Dr. Sample Zeta,Islamabad,Psychologist,Physical,Completed,2500,Yes
+A00167,2026-10-31,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,No-show,2000,
+A00168,2026-10-30,Dr. Sample Zeta,Islamabad,Psychologist,Physical,No-show,2500,
+A00169,2026-10-26,Dr. Sample Delta,Karachi,Gynecologist,Physical,No-show,2500,
+A00170,2026-10-01,Dr. Sample Beta,Lahore,Psychologist,Physical,Completed,2300,No
+A00171,2026-10-17,Dr. Sample Zeta,Islamabad,Psychologist,Physical,Completed,2500,Yes
+A00172,2026-11-09,Dr. Sample Delta,Karachi,Gynecologist,Instant VC,Cancelled,1200,
+A00173,2026-11-10,Dr. Sample Delta,Karachi,Gynecologist,Instant VC,Cancelled,1200,
+A00174,2026-10-03,Dr. Sample Eta,Lahore,General Physician,Paid VC,No-show,2000,
+A00175,2026-10-16,Dr. Sample Theta,Rawalpindi,Dermatologist,Paid VC,Cancelled,2000,
+A00176,2026-11-04,Dr. Sample Eta,Lahore,General Physician,Instant VC,Completed,1200,No
+A00177,2026-11-09,Dr. Sample Beta,Lahore,Psychologist,Physical,Completed,2500,Yes
+A00178,2026-10-29,Dr. Sample Zeta,Islamabad,Psychologist,Paid VC,No-show,2000,
+A00179,2026-10-24,Dr. Sample Beta,Lahore,Psychologist,Lab Booking,Completed,1500,Yes
+A00180,2026-10-08,Dr. Sample Eta,Lahore,General Physician,Paid VC,No-show,2500,
+A00181,2026-11-11,Dr. Sample Beta,Lahore,Psychologist,Physical,Completed,2300,Yes
+A00182,2026-10-09,Dr. Sample Zeta,Islamabad,Psychologist,Paid VC,Cancelled,2000,
+A00183,2026-11-05,Dr. Sample Beta,Lahore,Psychologist,Physical,Completed,2500,Yes
+A00184,2026-11-08,Dr. Sample Zeta,Islamabad,Psychologist,Physical,Completed,2500,Yes
+A00185,2026-10-08,Dr. Sample Epsilon,Islamabad,Pediatrician,Physical,Completed,2300,Yes
+A00186,2026-10-16,Dr. Sample Alpha,Lahore,Psychologist,Paid VC,Completed,1800,Yes
+A00187,2026-10-27,Dr. Sample Epsilon,Islamabad,Pediatrician,Paid VC,Completed,1800,No
+A00188,2026-11-02,Dr. Sample Theta,Rawalpindi,Dermatologist,Physical,Completed,3000,Yes
+A00189,2026-11-03,Dr. Sample Alpha,Lahore,Psychologist,Physical,Completed,2300,Yes
+A00190,2026-10-28,Dr. Sample Theta,Rawalpindi,Dermatologist,Physical,Completed,3000,No
+A00191,2026-10-21,Dr. Sample Beta,Lahore,Psychologist,Physical,Completed,2300,Yes
+A00192,2026-11-07,Dr. Sample Epsilon,Islamabad,Pediatrician,Instant VC,Completed,1200,No
+A00193,2026-11-08,Dr. Sample Epsilon,Islamabad,Pediatrician,Instant VC,Completed,1000,Yes
+A00194,2026-10-15,Dr. Sample Eta,Lahore,General Physician,Instant VC,Completed,1700,No
+A00195,2026-10-21,Dr. Sample Eta,Lahore,General Physician,Physical,Completed,2500,Yes
+A00196,2026-10-31,Dr. Sample Gamma,Karachi,Dermatologist,Physical,Completed,2300,Yes
+A00197,2026-10-24,Dr. Sample Eta,Lahore,General Physician,Paid VC,Cancelled,1800,
+A00198,2026-10-27,Dr. Sample Zeta,Islamabad,Psychologist,Physical,Completed,3000,Yes
+A00199,2026-10-23,Dr. Sample Epsilon,Islamabad,Pediatrician,Instant VC,Completed,1200,Yes
+A00200,2026-10-07,Dr. Sample Theta,Rawalpindi,Dermatologist,Paid VC,Completed,2000,Yes
+A00201,2026-10-28,Dr. Sample Epsilon,Islamabad,Pediatrician,Instant VC,Cancelled,1000,
+A00202,2026-10-18,Dr. Sample Epsilon,Islamabad,Pediatrician,Paid VC,Completed,2000,Yes
+A00203,2026-10-10,Dr. Sample Zeta,Islamabad,Psychologist,Paid VC,Completed,2500,Yes
+A00204,2026-10-02,Dr. Sample Gamma,Karachi,Dermatologist,Physical,Completed,2500,No
+A00205,2026-10-11,Dr. Sample Eta,Lahore,General Physician,Instant VC,Completed,1200,Yes
+A00206,2026-11-09,Dr. Sample Alpha,Lahore,Psychologist,Paid VC,Completed,1800,Yes
+A00207,2026-11-01,Dr. Sample Theta,Rawalpindi,Dermatologist,Physical,Completed,3000,Yes
+A00208,2026-10-08,Dr. Sample Delta,Karachi,Gynecologist,Physical,Completed,2300,Yes
+A00209,2026-10-20,Dr. Sample Theta,Rawalpindi,Dermatologist,Instant VC,Completed,1700,Yes
+A00210,2026-10-14,Dr. Sample Alpha,Lahore,Psychologist,Paid VC,Completed,2000,Yes
+A00211,2026-11-01,Dr. Sample Zeta,Islamabad,Psychologist,Paid VC,Completed,2000,Yes
+A00212,2026-10-15,Dr. Sample Eta,Lahore,General Physician,Instant VC,Completed,1200,Yes
+A00213,2026-10-03,Dr. Sample Eta,Lahore,General Physician,Physical,Completed,3000,Yes
+A00214,2026-11-06,Dr. Sample Zeta,Islamabad,Psychologist,Instant VC,Completed,1700,Yes
+A00215,2026-10-21,Dr. Sample Beta,Lahore,Psychologist,Instant VC,Completed,1700,Yes
+A00216,2026-10-07,Dr. Sample Beta,Lahore,Psychologist,Instant VC,Completed,1700,Yes
+A00217,2026-10-22,Dr. Sample Eta,Lahore,General Physician,Physical,Completed,2500,Yes
+A00218,2026-10-13,Dr. Sample Beta,Lahore,Psychologist,Instant VC,No-show,1200,
+A00219,2026-11-11,Dr. Sample Zeta,Islamabad,Psychologist,Physical,Cancelled,2500,
+A00220,2026-10-13,Dr. Sample Beta,Lahore,Psychologist,Paid VC,Completed,2000,Yes
+A00221,2026-11-10,Dr. Sample Gamma,Karachi,Dermatologist,Lab Booking,Completed,2000,Yes
+A00222,2026-10-05,Dr. Sample Zeta,Islamabad,Psychologist,Paid VC,Completed,2000,Yes
+A00223,2026-10-05,Dr. Sample Alpha,Lahore,Psychologist,Paid VC,Completed,2500,Yes
+A00224,2026-10-19,Dr. Sample Alpha,Lahore,Psychologist,Paid VC,Completed,1800,No
+A00225,2026-10-03,Dr. Sample Theta,Rawalpindi,Dermatologist,Instant VC,Completed,1200,Yes
+A00226,2026-10-04,Dr. Sample Theta,Rawalpindi,Dermatologist,Instant VC,Completed,1200,Yes
+A00227,2026-10-29,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,No-show,2000,
+A00228,2026-10-19,Dr. Sample Zeta,Islamabad,Psychologist,Paid VC,Completed,2000,Yes
+A00229,2026-10-07,Dr. Sample Zeta,Islamabad,Psychologist,Paid VC,Completed,2500,Yes
+A00230,2026-11-08,Dr. Sample Epsilon,Islamabad,Pediatrician,Physical,Cancelled,2500,
+A00231,2026-10-10,Dr. Sample Beta,Lahore,Psychologist,Instant VC,No-show,1200,
+A00232,2026-10-06,Dr. Sample Eta,Lahore,General Physician,Paid VC,Completed,2500,Yes
+A00233,2026-11-03,Dr. Sample Gamma,Karachi,Dermatologist,Physical,Completed,3000,Yes
+A00234,2026-10-12,Dr. Sample Alpha,Lahore,Psychologist,Paid VC,No-show,2000,
+A00235,2026-10-09,Dr. Sample Theta,Rawalpindi,Dermatologist,Paid VC,Completed,2000,Yes
+A00236,2026-11-09,Dr. Sample Alpha,Lahore,Psychologist,Physical,Completed,3000,Yes
+A00237,2026-11-09,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,Cancelled,2000,
+A00238,2026-10-24,Dr. Sample Theta,Rawalpindi,Dermatologist,Paid VC,Completed,2000,No
+A00239,2026-10-29,Dr. Sample Epsilon,Islamabad,Pediatrician,Physical,Completed,2500,Yes
+A00240,2026-10-13,Dr. Sample Theta,Rawalpindi,Dermatologist,Lab Booking,Completed,2000,No
+A00241,2026-11-02,Dr. Sample Epsilon,Islamabad,Pediatrician,Physical,Completed,2500,Yes
+A00242,2026-10-04,Dr. Sample Gamma,Karachi,Dermatologist,Physical,Completed,2500,Yes
+A00243,2026-10-11,Dr. Sample Beta,Lahore,Psychologist,Paid VC,Completed,2000,No
+A00244,2026-10-15,Dr. Sample Beta,Lahore,Psychologist,Lab Booking,Cancelled,1500,
+A00245,2026-10-26,Dr. Sample Alpha,Lahore,Psychologist,Instant VC,Completed,1200,No
+A00246,2026-10-02,Dr. Sample Beta,Lahore,Psychologist,Paid VC,Completed,1800,Yes
+A00247,2026-10-19,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,No-show,2500,
+A00248,2026-10-31,Dr. Sample Gamma,Karachi,Dermatologist,Physical,Completed,2300,Yes
+A00249,2026-10-10,Dr. Sample Alpha,Lahore,Psychologist,Paid VC,Completed,2500,Yes
+A00250,2026-10-08,Dr. Sample Epsilon,Islamabad,Pediatrician,Paid VC,Completed,2500,No
+A00251,2026-11-01,Dr. Sample Beta,Lahore,Psychologist,Paid VC,Completed,1800,Yes
+A00252,2026-10-01,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,Completed,2000,No
+A00253,2026-10-06,Dr. Sample Gamma,Karachi,Dermatologist,Physical,Completed,2500,Yes
+A00254,2026-10-31,Dr. Sample Alpha,Lahore,Psychologist,Paid VC,Completed,2500,Yes
+A00255,2026-10-23,Dr. Sample Epsilon,Islamabad,Pediatrician,Physical,Cancelled,2500,
+A00256,2026-11-10,Dr. Sample Delta,Karachi,Gynecologist,Physical,Completed,2500,Yes
+A00257,2026-10-22,Dr. Sample Alpha,Lahore,Psychologist,Paid VC,Cancelled,2000,
+A00258,2026-10-31,Dr. Sample Theta,Rawalpindi,Dermatologist,Lab Booking,Completed,1500,Yes
+A00259,2026-10-13,Dr. Sample Theta,Rawalpindi,Dermatologist,Paid VC,Completed,2000,Yes
+A00260,2026-11-02,Dr. Sample Zeta,Islamabad,Psychologist,Lab Booking,Completed,2000,Yes
+A00261,2026-10-13,Dr. Sample Alpha,Lahore,Psychologist,Physical,Completed,2300,Yes
+A00262,2026-10-24,Dr. Sample Epsilon,Islamabad,Pediatrician,Paid VC,Completed,2500,No
+A00263,2026-10-12,Dr. Sample Eta,Lahore,General Physician,Paid VC,Completed,2500,Yes
+A00264,2026-10-28,Dr. Sample Epsilon,Islamabad,Pediatrician,Physical,Completed,2500,Yes
+A00265,2026-10-21,Dr. Sample Zeta,Islamabad,Psychologist,Paid VC,Completed,2000,No
+A00266,2026-10-29,Dr. Sample Eta,Lahore,General Physician,Paid VC,Completed,1800,Yes
+A00267,2026-10-04,Dr. Sample Eta,Lahore,General Physician,Paid VC,Completed,2500,Yes
+A00268,2026-10-10,Dr. Sample Gamma,Karachi,Dermatologist,Lab Booking,Cancelled,2000,
+A00269,2026-10-16,Dr. Sample Alpha,Lahore,Psychologist,Paid VC,Completed,2000,Yes
+A00270,2026-10-03,Dr. Sample Eta,Lahore,General Physician,Lab Booking,Completed,2000,Yes
+A00271,2026-10-05,Dr. Sample Zeta,Islamabad,Psychologist,Instant VC,Completed,1200,No
+A00272,2026-10-16,Dr. Sample Zeta,Islamabad,Psychologist,Instant VC,No-show,1000,
+A00273,2026-10-25,Dr. Sample Gamma,Karachi,Dermatologist,Instant VC,No-show,1000,
+A00274,2026-10-29,Dr. Sample Epsilon,Islamabad,Pediatrician,Physical,Completed,2500,No
+A00275,2026-10-05,Dr. Sample Delta,Karachi,Gynecologist,Paid VC,Completed,2500,Yes
+A00276,2026-10-05,Dr. Sample Zeta,Islamabad,Psychologist,Physical,Completed,2500,Yes
+A00277,2026-11-10,Dr. Sample Gamma,Karachi,Dermatologist,Physical,Completed,2500,Yes
+A00278,2026-10-09,Dr. Sample Beta,Lahore,Psychologist,Lab Booking,Completed,2000,Yes
+A00279,2026-10-24,Dr. Sample Zeta,Islamabad,Psychologist,Instant VC,Completed,1200,Yes
+A00280,2026-10-31,Dr. Sample Beta,Lahore,Psychologist,Paid VC,Completed,2500,Yes
+A00281,2026-11-11,Dr. Sample Gamma,Karachi,Dermatologist,Lab Booking,Completed,2000,Yes
+A00282,2026-11-05,Dr. Sample Gamma,Karachi,Dermatologist,Physical,Completed,2500,Yes
+A00283,2026-10-04,Dr. Sample Eta,Lahore,General Physician,Instant VC,Cancelled,1200,
+A00284,2026-10-21,Dr. Sample Epsilon,Islamabad,Pediatrician,Paid VC,No-show,2000,
+A00285,2026-11-03,Dr. Sample Zeta,Islamabad,Psychologist,Lab Booking,Cancelled,1300,
+A00286,2026-11-05,Dr. Sample Epsilon,Islamabad,Pediatrician,Paid VC,Completed,2000,Yes
+A00287,2026-11-07,Dr. Sample Gamma,Karachi,Dermatologist,Instant VC,Completed,1200,Yes
+A00288,2026-11-11,Dr. Sample Alpha,Lahore,Psychologist,Paid VC,Completed,2000,Yes
+A00289,2026-10-02,Dr. Sample Eta,Lahore,General Physician,Instant VC,Completed,1200,Yes
+A00290,2026-10-26,Dr. Sample Theta,Rawalpindi,Dermatologist,Paid VC,Completed,1800,Yes
+A00291,2026-10-31,Dr. Sample Gamma,Karachi,Dermatologist,Instant VC,Completed,1200,Yes
+A00292,2026-10-21,Dr. Sample Zeta,Islamabad,Psychologist,Physical,Completed,2500,No
+A00293,2026-11-02,Dr. Sample Gamma,Karachi,Dermatologist,Physical,Completed,2500,Yes
+A00294,2026-10-29,Dr. Sample Theta,Rawalpindi,Dermatologist,Paid VC,Completed,1800,Yes
+A00295,2026-11-09,Dr. Sample Epsilon,Islamabad,Pediatrician,Lab Booking,Completed,1500,Yes
+A00296,2026-10-11,Dr. Sample Zeta,Islamabad,Psychologist,Paid VC,Completed,2500,No
+A00297,2026-10-06,Dr. Sample Epsilon,Islamabad,Pediatrician,Instant VC,No-show,1700,
+A00298,2026-10-23,Dr. Sample Delta,Karachi,Gynecologist,Paid VC,Completed,2000,No
+A00299,2026-10-01,Dr. Sample Theta,Rawalpindi,Dermatologist,Paid VC,Cancelled,2500,
+A00300,2026-10-24,Dr. Sample Gamma,Karachi,Dermatologist,Physical,Completed,2500,Yes
+A00301,2026-11-05,Dr. Sample Eta,Lahore,General Physician,Paid VC,Completed,2000,Yes
+A00302,2026-11-05,Dr. Sample Eta,Lahore,General Physician,Instant VC,Completed,1000,Yes
+A00303,2026-10-22,Dr. Sample Beta,Lahore,Psychologist,Paid VC,Completed,2000,Yes
+A00304,2026-10-26,Dr. Sample Delta,Karachi,Gynecologist,Instant VC,Completed,1000,Yes
+A00305,2026-10-31,Dr. Sample Gamma,Karachi,Dermatologist,Physical,Completed,2500,Yes
+A00306,2026-10-21,Dr. Sample Zeta,Islamabad,Psychologist,Lab Booking,Completed,1500,Yes
+A00307,2026-10-20,Dr. Sample Theta,Rawalpindi,Dermatologist,Physical,Completed,2300,Yes
+A00308,2026-10-27,Dr. Sample Zeta,Islamabad,Psychologist,Physical,Completed,2300,No
+A00309,2026-11-07,Dr. Sample Epsilon,Islamabad,Pediatrician,Lab Booking,Completed,1300,No
+A00310,2026-11-09,Dr. Sample Gamma,Karachi,Dermatologist,Instant VC,Completed,1700,Yes
+A00311,2026-10-08,Dr. Sample Delta,Karachi,Gynecologist,Paid VC,Completed,2500,Yes
+A00312,2026-10-14,Dr. Sample Eta,Lahore,General Physician,Paid VC,Completed,2500,Yes
+A00313,2026-11-05,Dr. Sample Gamma,Karachi,Dermatologist,Instant VC,Completed,1700,No
+A00314,2026-10-30,Dr. Sample Zeta,Islamabad,Psychologist,Lab Booking,No-show,1500,
+A00315,2026-11-11,Dr. Sample Zeta,Islamabad,Psychologist,Physical,Cancelled,2500,
+A00316,2026-10-16,Dr. Sample Theta,Rawalpindi,Dermatologist,Paid VC,Completed,2000,Yes
+A00317,2026-10-14,Dr. Sample Epsilon,Islamabad,Pediatrician,Physical,Completed,3000,Yes
+A00318,2026-10-18,Dr. Sample Theta,Rawalpindi,Dermatologist,Paid VC,Completed,2500,No
+A00319,2026-10-10,Dr. Sample Zeta,Islamabad,Psychologist,Lab Booking,Completed,1500,Yes
+A00320,2026-11-11,Dr. Sample Zeta,Islamabad,Psychologist,Lab Booking,Completed,2000,Yes
+A00321,2026-10-18,Dr. Sample Delta,Karachi,Gynecologist,Physical,No-show,2500,
+A00322,2026-11-07,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,Completed,1800,Yes
+A00323,2026-10-27,Dr. Sample Delta,Karachi,Gynecologist,Paid VC,Completed,2500,Yes
+A00324,2026-11-05,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,No-show,2000,
+A00325,2026-10-31,Dr. Sample Eta,Lahore,General Physician,Physical,Completed,2500,Yes
+A00326,2026-10-04,Dr. Sample Zeta,Islamabad,Psychologist,Paid VC,No-show,1800,
+A00327,2026-10-03,Dr. Sample Delta,Karachi,Gynecologist,Instant VC,No-show,1200,
+A00328,2026-10-12,Dr. Sample Eta,Lahore,General Physician,Physical,No-show,2300,
+A00329,2026-10-12,Dr. Sample Eta,Lahore,General Physician,Physical,No-show,2500,
+A00330,2026-11-06,Dr. Sample Alpha,Lahore,Psychologist,Paid VC,Completed,2000,Yes
+A00331,2026-11-04,Dr. Sample Theta,Rawalpindi,Dermatologist,Lab Booking,Completed,1500,No
+A00332,2026-10-08,Dr. Sample Epsilon,Islamabad,Pediatrician,Paid VC,Completed,2500,Yes
+A00333,2026-10-22,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,Cancelled,2000,
+A00334,2026-11-10,Dr. Sample Gamma,Karachi,Dermatologist,Instant VC,Cancelled,1700,
+A00335,2026-10-07,Dr. Sample Zeta,Islamabad,Psychologist,Paid VC,Completed,2000,No
+A00336,2026-10-01,Dr. Sample Zeta,Islamabad,Psychologist,Lab Booking,Completed,1500,No
+A00337,2026-10-20,Dr. Sample Epsilon,Islamabad,Pediatrician,Lab Booking,Completed,1300,Yes
+A00338,2026-10-04,Dr. Sample Zeta,Islamabad,Psychologist,Physical,Completed,3000,Yes
+A00339,2026-11-02,Dr. Sample Gamma,Karachi,Dermatologist,Instant VC,No-show,1200,
+A00340,2026-10-19,Dr. Sample Beta,Lahore,Psychologist,Instant VC,Completed,1200,Yes
+A00341,2026-10-30,Dr. Sample Gamma,Karachi,Dermatologist,Instant VC,Completed,1200,No
+A00342,2026-10-14,Dr. Sample Theta,Rawalpindi,Dermatologist,Physical,Completed,2300,No
+A00343,2026-11-06,Dr. Sample Zeta,Islamabad,Psychologist,Paid VC,Completed,2000,Yes
+A00344,2026-11-03,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,Completed,2000,No
+A00345,2026-10-29,Dr. Sample Beta,Lahore,Psychologist,Physical,Cancelled,3000,
+A00346,2026-10-30,Dr. Sample Gamma,Karachi,Dermatologist,Instant VC,Completed,1700,Yes
+A00347,2026-10-01,Dr. Sample Alpha,Lahore,Psychologist,Paid VC,Completed,1800,Yes
+A00348,2026-10-05,Dr. Sample Eta,Lahore,General Physician,Paid VC,Completed,1800,Yes
+A00349,2026-10-27,Dr. Sample Theta,Rawalpindi,Dermatologist,Paid VC,Completed,2000,No
+A00350,2026-10-25,Dr. Sample Zeta,Islamabad,Psychologist,Lab Booking,Completed,2000,No
+A00351,2026-11-04,Dr. Sample Beta,Lahore,Psychologist,Physical,Completed,2500,Yes
+A00352,2026-10-26,Dr. Sample Gamma,Karachi,Dermatologist,Lab Booking,Completed,1500,Yes
+A00353,2026-10-30,Dr. Sample Alpha,Lahore,Psychologist,Lab Booking,Completed,2000,No
+A00354,2026-10-23,Dr. Sample Delta,Karachi,Gynecologist,Paid VC,Completed,2000,Yes
+A00355,2026-10-27,Dr. Sample Alpha,Lahore,Psychologist,Physical,Completed,2300,Yes
+A00356,2026-11-08,Dr. Sample Delta,Karachi,Gynecologist,Paid VC,Completed,1800,Yes
+A00357,2026-10-15,Dr. Sample Alpha,Lahore,Psychologist,Instant VC,Completed,1000,Yes
+A00358,2026-11-06,Dr. Sample Epsilon,Islamabad,Pediatrician,Paid VC,Completed,2000,Yes
+A00359,2026-11-03,Dr. Sample Epsilon,Islamabad,Pediatrician,Physical,Completed,2500,Yes
+A00360,2026-11-07,Dr. Sample Alpha,Lahore,Psychologist,Instant VC,Cancelled,1200,
+A00361,2026-10-04,Dr. Sample Eta,Lahore,General Physician,Instant VC,No-show,1700,
+A00362,2026-10-27,Dr. Sample Zeta,Islamabad,Psychologist,Physical,Completed,3000,Yes
+A00363,2026-10-15,Dr. Sample Theta,Rawalpindi,Dermatologist,Paid VC,Completed,2000,No
+A00364,2026-10-27,Dr. Sample Alpha,Lahore,Psychologist,Instant VC,Completed,1200,No
+A00365,2026-10-22,Dr. Sample Delta,Karachi,Gynecologist,Paid VC,Completed,2500,Yes
+A00366,2026-10-13,Dr. Sample Beta,Lahore,Psychologist,Instant VC,Completed,1700,Yes
+A00367,2026-11-07,Dr. Sample Beta,Lahore,Psychologist,Paid VC,Completed,2000,No
+A00368,2026-10-22,Dr. Sample Delta,Karachi,Gynecologist,Physical,Completed,2300,Yes
+A00369,2026-10-08,Dr. Sample Delta,Karachi,Gynecologist,Lab Booking,Completed,2000,Yes
+A00370,2026-10-16,Dr. Sample Delta,Karachi,Gynecologist,Paid VC,Completed,2000,No
+A00371,2026-10-23,Dr. Sample Theta,Rawalpindi,Dermatologist,Instant VC,Completed,1200,No
+A00372,2026-10-31,Dr. Sample Theta,Rawalpindi,Dermatologist,Paid VC,Completed,2000,Yes
+A00373,2026-10-03,Dr. Sample Zeta,Islamabad,Psychologist,Paid VC,Completed,2000,Yes
+A00374,2026-11-07,Dr. Sample Alpha,Lahore,Psychologist,Paid VC,Completed,2500,Yes
+A00375,2026-10-15,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,Completed,2000,No
+A00376,2026-11-01,Dr. Sample Zeta,Islamabad,Psychologist,Paid VC,No-show,2500,
+A00377,2026-10-23,Dr. Sample Theta,Rawalpindi,Dermatologist,Paid VC,Completed,2500,Yes
+A00378,2026-10-05,Dr. Sample Alpha,Lahore,Psychologist,Instant VC,No-show,1000,
+A00379,2026-11-10,Dr. Sample Alpha,Lahore,Psychologist,Instant VC,Completed,1200,Yes
+A00380,2026-10-24,Dr. Sample Delta,Karachi,Gynecologist,Instant VC,Completed,1700,No
+A00381,2026-11-05,Dr. Sample Alpha,Lahore,Psychologist,Paid VC,Completed,1800,Yes
+A00382,2026-10-28,Dr. Sample Epsilon,Islamabad,Pediatrician,Paid VC,Cancelled,2000,
+A00383,2026-11-03,Dr. Sample Beta,Lahore,Psychologist,Lab Booking,Completed,1500,Yes
+A00384,2026-10-26,Dr. Sample Zeta,Islamabad,Psychologist,Paid VC,Completed,2500,No
+A00385,2026-10-15,Dr. Sample Delta,Karachi,Gynecologist,Lab Booking,Completed,1300,Yes
+A00386,2026-10-25,Dr. Sample Beta,Lahore,Psychologist,Instant VC,Completed,1000,Yes
+A00387,2026-10-28,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,Completed,2000,Yes
+A00388,2026-11-06,Dr. Sample Alpha,Lahore,Psychologist,Paid VC,Completed,1800,Yes
+A00389,2026-11-06,Dr. Sample Epsilon,Islamabad,Pediatrician,Physical,Completed,2500,Yes
+A00390,2026-11-07,Dr. Sample Alpha,Lahore,Psychologist,Lab Booking,Completed,2000,Yes
+A00391,2026-10-16,Dr. Sample Epsilon,Islamabad,Pediatrician,Paid VC,Completed,2500,Yes
+A00392,2026-10-09,Dr. Sample Eta,Lahore,General Physician,Physical,Cancelled,2300,
+A00393,2026-10-28,Dr. Sample Zeta,Islamabad,Psychologist,Paid VC,Completed,1800,Yes
+A00394,2026-10-21,Dr. Sample Eta,Lahore,General Physician,Lab Booking,Completed,1500,No
+A00395,2026-11-05,Dr. Sample Theta,Rawalpindi,Dermatologist,Paid VC,No-show,2500,
+A00396,2026-10-25,Dr. Sample Gamma,Karachi,Dermatologist,Physical,Completed,2500,Yes
+A00397,2026-10-10,Dr. Sample Beta,Lahore,Psychologist,Paid VC,Completed,2000,No
+A00398,2026-10-06,Dr. Sample Zeta,Islamabad,Psychologist,Paid VC,Completed,2000,No
+A00399,2026-10-07,Dr. Sample Zeta,Islamabad,Psychologist,Physical,Completed,2500,No
+A00400,2026-11-02,Dr. Sample Theta,Rawalpindi,Dermatologist,Instant VC,Completed,1000,Yes
+A00401,2026-11-08,Dr. Sample Zeta,Islamabad,Psychologist,Instant VC,Completed,1200,No
+A00402,2026-10-25,Dr. Sample Alpha,Lahore,Psychologist,Paid VC,Completed,2000,Yes
+A00403,2026-10-18,Dr. Sample Eta,Lahore,General Physician,Paid VC,Completed,2500,Yes
+A00404,2026-10-18,Dr. Sample Beta,Lahore,Psychologist,Paid VC,Completed,2500,Yes
+A00405,2026-10-16,Dr. Sample Zeta,Islamabad,Psychologist,Paid VC,Completed,2500,Yes
+A00406,2026-10-20,Dr. Sample Theta,Rawalpindi,Dermatologist,Paid VC,Completed,2500,Yes
+A00407,2026-10-22,Dr. Sample Eta,Lahore,General Physician,Physical,Completed,3000,Yes
+A00408,2026-10-13,Dr. Sample Epsilon,Islamabad,Pediatrician,Paid VC,Completed,2000,No
+A00409,2026-11-10,Dr. Sample Zeta,Islamabad,Psychologist,Paid VC,Completed,2000,Yes
+A00410,2026-10-26,Dr. Sample Eta,Lahore,General Physician,Paid VC,Completed,2000,Yes
+A00411,2026-10-30,Dr. Sample Alpha,Lahore,Psychologist,Lab Booking,No-show,1500,
+A00412,2026-10-05,Dr. Sample Theta,Rawalpindi,Dermatologist,Physical,Cancelled,3000,
+A00413,2026-10-20,Dr. Sample Theta,Rawalpindi,Dermatologist,Paid VC,Completed,2000,No
+A00414,2026-11-08,Dr. Sample Eta,Lahore,General Physician,Paid VC,Completed,2500,No
+A00415,2026-10-24,Dr. Sample Alpha,Lahore,Psychologist,Physical,Completed,2300,Yes
+A00416,2026-10-23,Dr. Sample Delta,Karachi,Gynecologist,Physical,Completed,2300,No
+A00417,2026-10-28,Dr. Sample Zeta,Islamabad,Psychologist,Lab Booking,Completed,1300,Yes
+A00418,2026-11-03,Dr. Sample Delta,Karachi,Gynecologist,Instant VC,Completed,1200,No
+A00419,2026-11-07,Dr. Sample Zeta,Islamabad,Psychologist,Paid VC,Completed,2000,Yes
+A00420,2026-10-19,Dr. Sample Alpha,Lahore,Psychologist,Instant VC,Completed,1000,Yes
+A00421,2026-10-22,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,Completed,2000,No
+A00422,2026-10-29,Dr. Sample Zeta,Islamabad,Psychologist,Instant VC,Completed,1700,Yes
+A00423,2026-10-08,Dr. Sample Beta,Lahore,Psychologist,Paid VC,Completed,2000,Yes
+A00424,2026-10-16,Dr. Sample Gamma,Karachi,Dermatologist,Lab Booking,Completed,1500,Yes
+A00425,2026-10-15,Dr. Sample Eta,Lahore,General Physician,Lab Booking,Cancelled,1500,
+A00426,2026-10-28,Dr. Sample Gamma,Karachi,Dermatologist,Instant VC,Completed,1200,No
+A00427,2026-10-14,Dr. Sample Eta,Lahore,General Physician,Paid VC,Completed,1800,Yes
+A00428,2026-10-13,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,Completed,2000,No
+A00429,2026-11-09,Dr. Sample Zeta,Islamabad,Psychologist,Instant VC,Completed,1000,Yes
+A00430,2026-11-09,Dr. Sample Zeta,Islamabad,Psychologist,Physical,Completed,2500,Yes
+A00431,2026-10-16,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,Completed,2000,Yes
+A00432,2026-10-27,Dr. Sample Gamma,Karachi,Dermatologist,Instant VC,Completed,1700,No
+A00433,2026-11-04,Dr. Sample Gamma,Karachi,Dermatologist,Instant VC,Completed,1200,Yes
+A00434,2026-10-12,Dr. Sample Theta,Rawalpindi,Dermatologist,Paid VC,Completed,2500,Yes
+A00435,2026-11-01,Dr. Sample Zeta,Islamabad,Psychologist,Lab Booking,Completed,2000,No
+A00436,2026-10-27,Dr. Sample Eta,Lahore,General Physician,Physical,Completed,3000,No
+A00437,2026-10-02,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,Cancelled,2000,
+A00438,2026-10-15,Dr. Sample Epsilon,Islamabad,Pediatrician,Paid VC,Completed,2000,No
+A00439,2026-10-08,Dr. Sample Theta,Rawalpindi,Dermatologist,Instant VC,Completed,1200,Yes
+A00440,2026-10-29,Dr. Sample Alpha,Lahore,Psychologist,Physical,Completed,3000,Yes
+A00441,2026-10-03,Dr. Sample Delta,Karachi,Gynecologist,Paid VC,Completed,2000,Yes
+A00442,2026-10-08,Dr. Sample Theta,Rawalpindi,Dermatologist,Physical,Completed,2500,Yes
+A00443,2026-11-09,Dr. Sample Zeta,Islamabad,Psychologist,Physical,Completed,2500,Yes
+A00444,2026-10-04,Dr. Sample Delta,Karachi,Gynecologist,Physical,Completed,2500,Yes
+A00445,2026-10-19,Dr. Sample Zeta,Islamabad,Psychologist,Lab Booking,Completed,1500,Yes
+A00446,2026-10-27,Dr. Sample Gamma,Karachi,Dermatologist,Lab Booking,No-show,1500,
+A00447,2026-10-09,Dr. Sample Gamma,Karachi,Dermatologist,Physical,Completed,2500,Yes
+A00448,2026-11-06,Dr. Sample Eta,Lahore,General Physician,Instant VC,Completed,1700,No
+A00449,2026-10-06,Dr. Sample Theta,Rawalpindi,Dermatologist,Paid VC,Completed,2000,Yes
+A00450,2026-10-21,Dr. Sample Theta,Rawalpindi,Dermatologist,Lab Booking,Completed,1300,No
+A00451,2026-11-04,Dr. Sample Zeta,Islamabad,Psychologist,Physical,Completed,3000,Yes
+A00452,2026-10-19,Dr. Sample Theta,Rawalpindi,Dermatologist,Paid VC,Completed,2000,No
+A00453,2026-10-04,Dr. Sample Zeta,Islamabad,Psychologist,Physical,Completed,3000,Yes
+A00454,2026-10-11,Dr. Sample Beta,Lahore,Psychologist,Lab Booking,Completed,1300,No
+A00455,2026-10-09,Dr. Sample Delta,Karachi,Gynecologist,Lab Booking,Cancelled,1500,
+A00456,2026-10-18,Dr. Sample Gamma,Karachi,Dermatologist,Physical,Completed,2500,Yes
+A00457,2026-11-11,Dr. Sample Beta,Lahore,Psychologist,Paid VC,Completed,2500,Yes
+A00458,2026-10-06,Dr. Sample Delta,Karachi,Gynecologist,Instant VC,Completed,1000,Yes
+A00459,2026-11-07,Dr. Sample Theta,Rawalpindi,Dermatologist,Paid VC,Completed,2500,Yes
+A00460,2026-10-08,Dr. Sample Alpha,Lahore,Psychologist,Physical,No-show,3000,
+A00461,2026-10-15,Dr. Sample Gamma,Karachi,Dermatologist,Instant VC,Completed,1000,Yes
+A00462,2026-10-20,Dr. Sample Zeta,Islamabad,Psychologist,Paid VC,Completed,2000,Yes
+A00463,2026-10-01,Dr. Sample Beta,Lahore,Psychologist,Instant VC,Completed,1200,No
+A00464,2026-11-10,Dr. Sample Zeta,Islamabad,Psychologist,Physical,Completed,3000,No
+A00465,2026-10-07,Dr. Sample Delta,Karachi,Gynecologist,Paid VC,Completed,1800,No
+A00466,2026-10-21,Dr. Sample Zeta,Islamabad,Psychologist,Lab Booking,Cancelled,1500,
+A00467,2026-10-16,Dr. Sample Epsilon,Islamabad,Pediatrician,Instant VC,Completed,1200,Yes
+A00468,2026-11-08,Dr. Sample Epsilon,Islamabad,Pediatrician,Paid VC,Completed,2500,Yes
+A00469,2026-10-16,Dr. Sample Alpha,Lahore,Psychologist,Physical,Completed,2300,Yes
+A00470,2026-10-05,Dr. Sample Theta,Rawalpindi,Dermatologist,Instant VC,Completed,1000,Yes
+A00471,2026-11-06,Dr. Sample Zeta,Islamabad,Psychologist,Paid VC,Completed,2000,No
+A00472,2026-10-05,Dr. Sample Beta,Lahore,Psychologist,Paid VC,Completed,2000,Yes
+A00473,2026-10-26,Dr. Sample Alpha,Lahore,Psychologist,Lab Booking,Completed,2000,No
+A00474,2026-11-04,Dr. Sample Eta,Lahore,General Physician,Paid VC,Completed,2000,Yes
+A00475,2026-11-02,Dr. Sample Beta,Lahore,Psychologist,Paid VC,No-show,2000,
+A00476,2026-11-10,Dr. Sample Zeta,Islamabad,Psychologist,Paid VC,Completed,1800,Yes
+A00477,2026-10-16,Dr. Sample Eta,Lahore,General Physician,Physical,Completed,2300,No
+A00478,2026-11-08,Dr. Sample Beta,Lahore,Psychologist,Instant VC,Completed,1200,Yes
+A00479,2026-10-01,Dr. Sample Alpha,Lahore,Psychologist,Physical,Completed,2500,Yes
+A00480,2026-10-18,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,Completed,1800,Yes
+A00481,2026-10-18,Dr. Sample Zeta,Islamabad,Psychologist,Physical,Completed,2500,Yes
+A00482,2026-10-24,Dr. Sample Theta,Rawalpindi,Dermatologist,Instant VC,Completed,1200,Yes
+A00483,2026-10-07,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,Cancelled,1800,
+A00484,2026-10-01,Dr. Sample Delta,Karachi,Gynecologist,Physical,Completed,2300,Yes
+A00485,2026-10-25,Dr. Sample Alpha,Lahore,Psychologist,Instant VC,No-show,1200,
+A00486,2026-11-11,Dr. Sample Alpha,Lahore,Psychologist,Instant VC,Completed,1200,Yes
+A00487,2026-10-21,Dr. Sample Eta,Lahore,General Physician,Lab Booking,Completed,1300,Yes
+A00488,2026-10-04,Dr. Sample Beta,Lahore,Psychologist,Instant VC,Completed,1000,No
+A00489,2026-10-19,Dr. Sample Beta,Lahore,Psychologist,Physical,Completed,2500,Yes
+A00490,2026-10-01,Dr. Sample Beta,Lahore,Psychologist,Instant VC,Completed,1200,Yes
+A00491,2026-11-07,Dr. Sample Delta,Karachi,Gynecologist,Instant VC,No-show,1200,
+A00492,2026-10-27,Dr. Sample Delta,Karachi,Gynecologist,Paid VC,Completed,2000,Yes
+A00493,2026-10-25,Dr. Sample Zeta,Islamabad,Psychologist,Paid VC,Cancelled,2000,
+A00494,2026-10-16,Dr. Sample Beta,Lahore,Psychologist,Paid VC,Completed,1800,Yes
+A00495,2026-10-15,Dr. Sample Epsilon,Islamabad,Pediatrician,Paid VC,Cancelled,2500,
+A00496,2026-10-06,Dr. Sample Zeta,Islamabad,Psychologist,Instant VC,Completed,1200,No
+A00497,2026-10-04,Dr. Sample Beta,Lahore,Psychologist,Instant VC,Completed,1200,Yes
+A00498,2026-10-21,Dr. Sample Epsilon,Islamabad,Pediatrician,Paid VC,No-show,2500,
+A00499,2026-10-18,Dr. Sample Zeta,Islamabad,Psychologist,Paid VC,Completed,2000,Yes
+A00500,2026-10-11,Dr. Sample Beta,Lahore,Psychologist,Paid VC,Completed,2000,No
+A00501,2026-10-14,Dr. Sample Beta,Lahore,Psychologist,Instant VC,Completed,1700,Yes
+A00502,2026-10-20,Dr. Sample Beta,Lahore,Psychologist,Paid VC,Cancelled,1800,
+A00503,2026-10-21,Dr. Sample Delta,Karachi,Gynecologist,Physical,Completed,2500,Yes
+A00504,2026-10-20,Dr. Sample Eta,Lahore,General Physician,Instant VC,Completed,1200,Yes
+A00505,2026-11-05,Dr. Sample Eta,Lahore,General Physician,Physical,Completed,2500,Yes
+A00506,2026-10-09,Dr. Sample Theta,Rawalpindi,Dermatologist,Paid VC,Completed,1800,Yes
+A00507,2026-10-26,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,Completed,1800,Yes
+A00508,2026-10-05,Dr. Sample Beta,Lahore,Psychologist,Paid VC,Completed,2500,Yes
+A00509,2026-10-22,Dr. Sample Beta,Lahore,Psychologist,Lab Booking,Completed,2000,Yes
+A00510,2026-10-28,Dr. Sample Gamma,Karachi,Dermatologist,Lab Booking,Cancelled,2000,
+A00511,2026-10-28,Dr. Sample Theta,Rawalpindi,Dermatologist,Paid VC,Completed,2000,Yes
+A00512,2026-10-10,Dr. Sample Epsilon,Islamabad,Pediatrician,Paid VC,Completed,2000,Yes
+A00513,2026-11-05,Dr. Sample Theta,Rawalpindi,Dermatologist,Instant VC,Completed,1000,Yes
+A00514,2026-10-13,Dr. Sample Eta,Lahore,General Physician,Paid VC,Completed,2000,Yes
+A00515,2026-10-23,Dr. Sample Eta,Lahore,General Physician,Physical,Completed,3000,Yes
+A00516,2026-10-12,Dr. Sample Zeta,Islamabad,Psychologist,Paid VC,Completed,2000,Yes
+A00517,2026-10-31,Dr. Sample Epsilon,Islamabad,Pediatrician,Paid VC,Completed,2000,Yes
+A00518,2026-10-16,Dr. Sample Beta,Lahore,Psychologist,Paid VC,Completed,1800,Yes
+A00519,2026-10-12,Dr. Sample Eta,Lahore,General Physician,Paid VC,Completed,2000,Yes
+A00520,2026-10-23,Dr. Sample Alpha,Lahore,Psychologist,Physical,No-show,2500,
+A00521,2026-11-01,Dr. Sample Delta,Karachi,Gynecologist,Physical,Completed,2500,No
+A00522,2026-10-15,Dr. Sample Alpha,Lahore,Psychologist,Paid VC,Completed,1800,No
+A00523,2026-11-09,Dr. Sample Alpha,Lahore,Psychologist,Paid VC,Completed,2000,Yes
+A00524,2026-10-21,Dr. Sample Gamma,Karachi,Dermatologist,Lab Booking,Completed,1500,Yes
+A00525,2026-10-24,Dr. Sample Beta,Lahore,Psychologist,Physical,No-show,2500,
+A00526,2026-10-22,Dr. Sample Eta,Lahore,General Physician,Instant VC,Completed,1200,Yes
+A00527,2026-11-01,Dr. Sample Eta,Lahore,General Physician,Physical,Completed,2500,Yes
+A00528,2026-10-12,Dr. Sample Delta,Karachi,Gynecologist,Physical,Completed,2500,Yes
+A00529,2026-11-06,Dr. Sample Gamma,Karachi,Dermatologist,Physical,Completed,2300,Yes
+A00530,2026-11-09,Dr. Sample Zeta,Islamabad,Psychologist,Lab Booking,Completed,1300,No
+A00531,2026-10-05,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,Completed,2000,Yes
+A00532,2026-11-10,Dr. Sample Beta,Lahore,Psychologist,Physical,Completed,2500,No
+A00533,2026-10-16,Dr. Sample Alpha,Lahore,Psychologist,Paid VC,Completed,2000,Yes
+A00534,2026-10-04,Dr. Sample Beta,Lahore,Psychologist,Physical,Completed,3000,Yes
+A00535,2026-10-25,Dr. Sample Eta,Lahore,General Physician,Instant VC,Completed,1700,Yes
+A00536,2026-11-06,Dr. Sample Theta,Rawalpindi,Dermatologist,Physical,Completed,2500,Yes
+A00537,2026-10-03,Dr. Sample Theta,Rawalpindi,Dermatologist,Paid VC,Completed,2000,Yes
+A00538,2026-10-11,Dr. Sample Beta,Lahore,Psychologist,Paid VC,Cancelled,2000,
+A00539,2026-10-06,Dr. Sample Beta,Lahore,Psychologist,Instant VC,Completed,1700,Yes
+A00540,2026-10-11,Dr. Sample Eta,Lahore,General Physician,Lab Booking,Completed,2000,Yes
+A00541,2026-10-14,Dr. Sample Alpha,Lahore,Psychologist,Paid VC,No-show,2500,
+A00542,2026-10-20,Dr. Sample Epsilon,Islamabad,Pediatrician,Physical,Completed,2300,No
+A00543,2026-10-24,Dr. Sample Theta,Rawalpindi,Dermatologist,Paid VC,Completed,1800,Yes
+A00544,2026-10-02,Dr. Sample Theta,Rawalpindi,Dermatologist,Paid VC,Completed,2000,Yes
+A00545,2026-10-20,Dr. Sample Theta,Rawalpindi,Dermatologist,Physical,Cancelled,3000,
+A00546,2026-10-17,Dr. Sample Theta,Rawalpindi,Dermatologist,Physical,Completed,3000,Yes
+A00547,2026-10-24,Dr. Sample Zeta,Islamabad,Psychologist,Physical,Completed,2300,Yes
+A00548,2026-10-15,Dr. Sample Theta,Rawalpindi,Dermatologist,Instant VC,Cancelled,1000,
+A00549,2026-10-07,Dr. Sample Gamma,Karachi,Dermatologist,Physical,Completed,2500,No
+A00550,2026-10-25,Dr. Sample Delta,Karachi,Gynecologist,Instant VC,Cancelled,1700,
+A00551,2026-10-16,Dr. Sample Theta,Rawalpindi,Dermatologist,Instant VC,Completed,1000,No
+A00552,2026-11-03,Dr. Sample Alpha,Lahore,Psychologist,Instant VC,Cancelled,1200,
+A00553,2026-10-29,Dr. Sample Beta,Lahore,Psychologist,Lab Booking,Completed,1500,Yes
+A00554,2026-10-28,Dr. Sample Delta,Karachi,Gynecologist,Paid VC,Completed,2500,Yes
+A00555,2026-10-17,Dr. Sample Gamma,Karachi,Dermatologist,Physical,Completed,2300,Yes
+A00556,2026-11-05,Dr. Sample Eta,Lahore,General Physician,Instant VC,Completed,1200,No
+A00557,2026-11-09,Dr. Sample Alpha,Lahore,Psychologist,Physical,Completed,3000,Yes
+A00558,2026-11-06,Dr. Sample Eta,Lahore,General Physician,Paid VC,Completed,1800,Yes
+A00559,2026-11-04,Dr. Sample Beta,Lahore,Psychologist,Physical,Cancelled,3000,
+A00560,2026-11-01,Dr. Sample Epsilon,Islamabad,Pediatrician,Paid VC,Completed,2500,Yes
+A00561,2026-10-10,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,Completed,2500,Yes
+A00562,2026-10-22,Dr. Sample Eta,Lahore,General Physician,Physical,Completed,2300,No
+A00563,2026-10-02,Dr. Sample Epsilon,Islamabad,Pediatrician,Physical,Completed,2500,Yes
+A00564,2026-10-07,Dr. Sample Epsilon,Islamabad,Pediatrician,Physical,No-show,2500,
+A00565,2026-10-29,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,Completed,2000,Yes
+A00566,2026-10-06,Dr. Sample Eta,Lahore,General Physician,Instant VC,Completed,1200,No
+A00567,2026-10-24,Dr. Sample Theta,Rawalpindi,Dermatologist,Physical,Cancelled,2500,
+A00568,2026-11-02,Dr. Sample Beta,Lahore,Psychologist,Paid VC,Completed,1800,Yes
+A00569,2026-10-13,Dr. Sample Delta,Karachi,Gynecologist,Physical,Cancelled,2500,
+A00570,2026-10-24,Dr. Sample Alpha,Lahore,Psychologist,Instant VC,Completed,1200,Yes
+A00571,2026-11-10,Dr. Sample Theta,Rawalpindi,Dermatologist,Instant VC,No-show,1000,
+A00572,2026-11-08,Dr. Sample Delta,Karachi,Gynecologist,Paid VC,Completed,2500,Yes
+A00573,2026-10-17,Dr. Sample Zeta,Islamabad,Psychologist,Paid VC,Completed,1800,Yes
+A00574,2026-10-11,Dr. Sample Alpha,Lahore,Psychologist,Paid VC,Cancelled,2000,
+A00575,2026-10-14,Dr. Sample Delta,Karachi,Gynecologist,Instant VC,Completed,1700,Yes
+A00576,2026-10-09,Dr. Sample Alpha,Lahore,Psychologist,Instant VC,Completed,1000,Yes
+A00577,2026-10-20,Dr. Sample Epsilon,Islamabad,Pediatrician,Instant VC,Completed,1200,No
+A00578,2026-10-30,Dr. Sample Eta,Lahore,General Physician,Physical,Completed,3000,Yes
+A00579,2026-10-01,Dr. Sample Eta,Lahore,General Physician,Instant VC,Completed,1200,Yes
+A00580,2026-10-31,Dr. Sample Epsilon,Islamabad,Pediatrician,Physical,Completed,2500,Yes
+A00581,2026-11-11,Dr. Sample Epsilon,Islamabad,Pediatrician,Paid VC,Completed,2000,Yes
+A00582,2026-11-08,Dr. Sample Alpha,Lahore,Psychologist,Physical,Completed,2500,Yes
+A00583,2026-10-19,Dr. Sample Alpha,Lahore,Psychologist,Physical,Completed,3000,No
+A00584,2026-11-07,Dr. Sample Eta,Lahore,General Physician,Physical,Completed,2500,Yes
+A00585,2026-11-10,Dr. Sample Delta,Karachi,Gynecologist,Physical,Cancelled,2500,
+A00586,2026-11-05,Dr. Sample Epsilon,Islamabad,Pediatrician,Physical,Completed,2300,No
+A00587,2026-11-05,Dr. Sample Gamma,Karachi,Dermatologist,Physical,Completed,2500,Yes
+A00588,2026-10-15,Dr. Sample Beta,Lahore,Psychologist,Paid VC,Completed,2000,No
+A00589,2026-11-07,Dr. Sample Zeta,Islamabad,Psychologist,Paid VC,Completed,1800,No
+A00590,2026-11-07,Dr. Sample Alpha,Lahore,Psychologist,Physical,Completed,2300,No
+A00591,2026-10-25,Dr. Sample Delta,Karachi,Gynecologist,Instant VC,Completed,1700,Yes
+A00592,2026-10-13,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,Completed,2500,Yes
+A00593,2026-10-12,Dr. Sample Zeta,Islamabad,Psychologist,Physical,Completed,3000,Yes
+A00594,2026-10-04,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,Completed,2000,Yes
+A00595,2026-10-11,Dr. Sample Gamma,Karachi,Dermatologist,Instant VC,Completed,1000,Yes
+A00596,2026-10-26,Dr. Sample Eta,Lahore,General Physician,Instant VC,Completed,1700,No
+A00597,2026-10-13,Dr. Sample Alpha,Lahore,Psychologist,Paid VC,Completed,1800,Yes
+A00598,2026-10-01,Dr. Sample Delta,Karachi,Gynecologist,Paid VC,Completed,2000,Yes
+A00599,2026-10-07,Dr. Sample Zeta,Islamabad,Psychologist,Paid VC,Completed,2000,Yes
+A00600,2026-10-20,Dr. Sample Beta,Lahore,Psychologist,Physical,No-show,3000,
+A00601,2026-10-09,Dr. Sample Zeta,Islamabad,Psychologist,Instant VC,Completed,1700,Yes
+A00602,2026-10-26,Dr. Sample Delta,Karachi,Gynecologist,Paid VC,Completed,2000,Yes
+A00603,2026-11-07,Dr. Sample Delta,Karachi,Gynecologist,Physical,Completed,2300,Yes
+A00604,2026-11-10,Dr. Sample Alpha,Lahore,Psychologist,Paid VC,Completed,1800,Yes
+A00605,2026-10-02,Dr. Sample Beta,Lahore,Psychologist,Physical,Completed,2300,No
+A00606,2026-11-05,Dr. Sample Theta,Rawalpindi,Dermatologist,Paid VC,Completed,2000,Yes
+A00607,2026-10-07,Dr. Sample Alpha,Lahore,Psychologist,Paid VC,Completed,2000,Yes
+A00608,2026-10-07,Dr. Sample Eta,Lahore,General Physician,Physical,Completed,2300,Yes
+A00609,2026-11-01,Dr. Sample Beta,Lahore,Psychologist,Physical,Completed,2500,Yes
+A00610,2026-10-27,Dr. Sample Delta,Karachi,Gynecologist,Paid VC,Completed,1800,No
+A00611,2026-10-31,Dr. Sample Delta,Karachi,Gynecologist,Physical,Completed,2300,Yes
+A00612,2026-11-06,Dr. Sample Beta,Lahore,Psychologist,Lab Booking,Completed,1500,Yes
+A00613,2026-10-07,Dr. Sample Beta,Lahore,Psychologist,Physical,No-show,2500,
+A00614,2026-10-19,Dr. Sample Theta,Rawalpindi,Dermatologist,Lab Booking,Completed,1300,Yes
+A00615,2026-10-19,Dr. Sample Gamma,Karachi,Dermatologist,Physical,Completed,2500,No
+A00616,2026-10-03,Dr. Sample Beta,Lahore,Psychologist,Paid VC,Completed,2000,Yes
+A00617,2026-10-29,Dr. Sample Zeta,Islamabad,Psychologist,Paid VC,No-show,2000,
+A00618,2026-10-22,Dr. Sample Beta,Lahore,Psychologist,Paid VC,Completed,2500,No
+A00619,2026-10-25,Dr. Sample Theta,Rawalpindi,Dermatologist,Paid VC,Completed,2500,No
+A00620,2026-10-04,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,No-show,2000,
+A00621,2026-11-07,Dr. Sample Beta,Lahore,Psychologist,Instant VC,Completed,1700,Yes
+A00622,2026-11-09,Dr. Sample Eta,Lahore,General Physician,Physical,Completed,2500,No
+A00623,2026-10-27,Dr. Sample Theta,Rawalpindi,Dermatologist,Paid VC,Completed,1800,Yes
+A00624,2026-11-03,Dr. Sample Zeta,Islamabad,Psychologist,Paid VC,Completed,2000,Yes
+A00625,2026-10-16,Dr. Sample Beta,Lahore,Psychologist,Instant VC,Completed,1700,Yes
+A00626,2026-10-11,Dr. Sample Alpha,Lahore,Psychologist,Paid VC,Completed,2500,No
+A00627,2026-11-01,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,Completed,2000,Yes
+A00628,2026-11-05,Dr. Sample Alpha,Lahore,Psychologist,Instant VC,Completed,1700,Yes
+A00629,2026-11-06,Dr. Sample Beta,Lahore,Psychologist,Instant VC,Completed,1700,No
+A00630,2026-11-01,Dr. Sample Zeta,Islamabad,Psychologist,Paid VC,Completed,1800,Yes
+A00631,2026-11-05,Dr. Sample Eta,Lahore,General Physician,Instant VC,Completed,1000,Yes
+A00632,2026-10-30,Dr. Sample Delta,Karachi,Gynecologist,Physical,No-show,2500,
+A00633,2026-10-30,Dr. Sample Alpha,Lahore,Psychologist,Physical,Completed,3000,Yes
+A00634,2026-10-15,Dr. Sample Theta,Rawalpindi,Dermatologist,Paid VC,Completed,2000,Yes
+A00635,2026-10-03,Dr. Sample Zeta,Islamabad,Psychologist,Physical,Cancelled,3000,
+A00636,2026-10-27,Dr. Sample Gamma,Karachi,Dermatologist,Physical,Completed,2500,Yes
+A00637,2026-10-26,Dr. Sample Beta,Lahore,Psychologist,Lab Booking,Completed,1500,Yes
+A00638,2026-10-03,Dr. Sample Beta,Lahore,Psychologist,Physical,No-show,2300,
+A00639,2026-11-07,Dr. Sample Theta,Rawalpindi,Dermatologist,Instant VC,No-show,1200,
+A00640,2026-10-04,Dr. Sample Theta,Rawalpindi,Dermatologist,Paid VC,Completed,2500,No
+A00641,2026-10-12,Dr. Sample Gamma,Karachi,Dermatologist,Physical,Completed,2500,Yes
+A00642,2026-11-08,Dr. Sample Eta,Lahore,General Physician,Physical,Cancelled,3000,
+A00643,2026-10-16,Dr. Sample Eta,Lahore,General Physician,Lab Booking,Completed,1500,Yes
+A00644,2026-10-09,Dr. Sample Theta,Rawalpindi,Dermatologist,Physical,Completed,2500,Yes
+A00645,2026-11-09,Dr. Sample Delta,Karachi,Gynecologist,Paid VC,Completed,2000,Yes
+A00646,2026-11-10,Dr. Sample Gamma,Karachi,Dermatologist,Instant VC,Completed,1000,Yes
+A00647,2026-10-27,Dr. Sample Theta,Rawalpindi,Dermatologist,Instant VC,Completed,1200,No
+A00648,2026-10-02,Dr. Sample Alpha,Lahore,Psychologist,Instant VC,Completed,1000,Yes
+A00649,2026-10-11,Dr. Sample Delta,Karachi,Gynecologist,Paid VC,No-show,2000,
+A00650,2026-10-19,Dr. Sample Gamma,Karachi,Dermatologist,Physical,Completed,2300,Yes
+A00651,2026-11-05,Dr. Sample Theta,Rawalpindi,Dermatologist,Paid VC,Cancelled,2500,
+A00652,2026-10-19,Dr. Sample Delta,Karachi,Gynecologist,Instant VC,Completed,1000,No
+A00653,2026-10-21,Dr. Sample Eta,Lahore,General Physician,Instant VC,No-show,1000,
+A00654,2026-10-13,Dr. Sample Alpha,Lahore,Psychologist,Physical,Completed,3000,Yes
+A00655,2026-11-04,Dr. Sample Zeta,Islamabad,Psychologist,Physical,Completed,2500,Yes
+A00656,2026-10-05,Dr. Sample Epsilon,Islamabad,Pediatrician,Instant VC,Completed,1200,Yes
+A00657,2026-10-18,Dr. Sample Eta,Lahore,General Physician,Paid VC,Completed,2000,Yes
+A00658,2026-10-30,Dr. Sample Epsilon,Islamabad,Pediatrician,Paid VC,Completed,2000,Yes
+A00659,2026-11-08,Dr. Sample Gamma,Karachi,Dermatologist,Lab Booking,Completed,1500,No
+A00660,2026-10-21,Dr. Sample Zeta,Islamabad,Psychologist,Paid VC,Completed,2000,Yes
+A00661,2026-11-04,Dr. Sample Gamma,Karachi,Dermatologist,Instant VC,Completed,1200,Yes
+A00662,2026-10-22,Dr. Sample Delta,Karachi,Gynecologist,Physical,Completed,2500,No
+A00663,2026-10-23,Dr. Sample Alpha,Lahore,Psychologist,Paid VC,Completed,2000,Yes
+A00664,2026-10-08,Dr. Sample Zeta,Islamabad,Psychologist,Paid VC,Completed,2000,Yes
+A00665,2026-11-02,Dr. Sample Zeta,Islamabad,Psychologist,Instant VC,Completed,1000,Yes
+A00666,2026-10-06,Dr. Sample Delta,Karachi,Gynecologist,Paid VC,No-show,2000,
+A00667,2026-10-14,Dr. Sample Alpha,Lahore,Psychologist,Instant VC,Completed,1200,No
+A00668,2026-10-28,Dr. Sample Beta,Lahore,Psychologist,Paid VC,Completed,1800,Yes
+A00669,2026-10-22,Dr. Sample Alpha,Lahore,Psychologist,Instant VC,Completed,1000,Yes
+A00670,2026-11-05,Dr. Sample Gamma,Karachi,Dermatologist,Physical,Completed,2500,Yes
+A00671,2026-11-10,Dr. Sample Eta,Lahore,General Physician,Paid VC,Completed,2000,Yes
+A00672,2026-11-04,Dr. Sample Eta,Lahore,General Physician,Physical,Completed,2300,Yes
+A00673,2026-11-02,Dr. Sample Beta,Lahore,Psychologist,Paid VC,Completed,2000,Yes
+A00674,2026-10-29,Dr. Sample Epsilon,Islamabad,Pediatrician,Physical,Completed,2300,No
+A00675,2026-10-09,Dr. Sample Gamma,Karachi,Dermatologist,Instant VC,Completed,1200,Yes
+A00676,2026-11-11,Dr. Sample Epsilon,Islamabad,Pediatrician,Physical,Completed,2300,Yes
+A00677,2026-11-06,Dr. Sample Beta,Lahore,Psychologist,Paid VC,Completed,1800,Yes
+A00678,2026-10-23,Dr. Sample Delta,Karachi,Gynecologist,Physical,Completed,2500,Yes
+A00679,2026-10-17,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,Completed,2000,Yes
+A00680,2026-10-05,Dr. Sample Theta,Rawalpindi,Dermatologist,Instant VC,Completed,1000,Yes
+A00681,2026-11-07,Dr. Sample Beta,Lahore,Psychologist,Paid VC,Completed,2000,Yes
+A00682,2026-10-16,Dr. Sample Gamma,Karachi,Dermatologist,Physical,Completed,2300,Yes
+A00683,2026-10-22,Dr. Sample Zeta,Islamabad,Psychologist,Instant VC,Completed,1200,Yes
+A00684,2026-10-28,Dr. Sample Zeta,Islamabad,Psychologist,Physical,Completed,2500,Yes
+A00685,2026-11-11,Dr. Sample Delta,Karachi,Gynecologist,Physical,Completed,2500,Yes
+A00686,2026-10-30,Dr. Sample Zeta,Islamabad,Psychologist,Physical,Completed,2500,No
+A00687,2026-11-08,Dr. Sample Beta,Lahore,Psychologist,Paid VC,Completed,2000,Yes
+A00688,2026-11-10,Dr. Sample Delta,Karachi,Gynecologist,Paid VC,Completed,1800,Yes
+A00689,2026-11-07,Dr. Sample Alpha,Lahore,Psychologist,Physical,Completed,2500,Yes
+A00690,2026-11-04,Dr. Sample Epsilon,Islamabad,Pediatrician,Instant VC,Completed,1200,Yes
+A00691,2026-11-07,Dr. Sample Eta,Lahore,General Physician,Paid VC,Completed,2000,Yes
+A00692,2026-10-06,Dr. Sample Theta,Rawalpindi,Dermatologist,Instant VC,Completed,1000,Yes
+A00693,2026-10-09,Dr. Sample Gamma,Karachi,Dermatologist,Physical,Completed,2500,Yes
+A00694,2026-10-03,Dr. Sample Theta,Rawalpindi,Dermatologist,Lab Booking,Completed,2000,Yes
+A00695,2026-10-15,Dr. Sample Beta,Lahore,Psychologist,Paid VC,Completed,2000,Yes
+A00696,2026-10-30,Dr. Sample Eta,Lahore,General Physician,Instant VC,Cancelled,1000,
+A00697,2026-11-03,Dr. Sample Zeta,Islamabad,Psychologist,Paid VC,Completed,2000,Yes
+A00698,2026-10-25,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,Completed,1800,Yes
+A00699,2026-10-15,Dr. Sample Eta,Lahore,General Physician,Lab Booking,Completed,1500,Yes
+A00700,2026-11-08,Dr. Sample Theta,Rawalpindi,Dermatologist,Physical,Completed,2500,No
+A00701,2026-11-02,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,Completed,2000,Yes
+A00702,2026-11-08,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,Completed,1800,Yes
+A00703,2026-10-08,Dr. Sample Eta,Lahore,General Physician,Physical,Completed,3000,No
+A00704,2026-11-11,Dr. Sample Delta,Karachi,Gynecologist,Instant VC,Cancelled,1000,
+A00705,2026-11-06,Dr. Sample Delta,Karachi,Gynecologist,Paid VC,Completed,2000,Yes
+A00706,2026-10-17,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,No-show,2500,
+A00707,2026-10-19,Dr. Sample Alpha,Lahore,Psychologist,Physical,No-show,2500,
+A00708,2026-10-31,Dr. Sample Theta,Rawalpindi,Dermatologist,Instant VC,Cancelled,1200,
+A00709,2026-11-08,Dr. Sample Delta,Karachi,Gynecologist,Physical,Completed,2500,Yes
+A00710,2026-10-22,Dr. Sample Gamma,Karachi,Dermatologist,Physical,No-show,2300,
+A00711,2026-10-09,Dr. Sample Delta,Karachi,Gynecologist,Paid VC,Completed,2000,No
+A00712,2026-10-12,Dr. Sample Gamma,Karachi,Dermatologist,Instant VC,Completed,1000,Yes
+A00713,2026-10-09,Dr. Sample Beta,Lahore,Psychologist,Instant VC,No-show,1000,
+A00714,2026-10-24,Dr. Sample Eta,Lahore,General Physician,Instant VC,Cancelled,1700,
+A00715,2026-10-31,Dr. Sample Delta,Karachi,Gynecologist,Lab Booking,Cancelled,2000,
+A00716,2026-11-06,Dr. Sample Zeta,Islamabad,Psychologist,Instant VC,Completed,1200,Yes
+A00717,2026-10-06,Dr. Sample Theta,Rawalpindi,Dermatologist,Physical,Completed,3000,Yes
+A00718,2026-10-01,Dr. Sample Delta,Karachi,Gynecologist,Paid VC,Completed,1800,Yes
+A00719,2026-10-21,Dr. Sample Eta,Lahore,General Physician,Physical,Completed,2300,Yes
+A00720,2026-10-17,Dr. Sample Eta,Lahore,General Physician,Physical,Completed,3000,Yes
+A00721,2026-10-26,Dr. Sample Epsilon,Islamabad,Pediatrician,Lab Booking,Completed,2000,No
+A00722,2026-11-05,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,Completed,2000,Yes
+A00723,2026-10-08,Dr. Sample Eta,Lahore,General Physician,Physical,Completed,3000,Yes
+A00724,2026-10-26,Dr. Sample Beta,Lahore,Psychologist,Paid VC,Cancelled,1800,
+A00725,2026-11-10,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,Completed,1800,Yes
+A00726,2026-10-28,Dr. Sample Theta,Rawalpindi,Dermatologist,Lab Booking,Completed,1500,Yes
+A00727,2026-10-03,Dr. Sample Zeta,Islamabad,Psychologist,Paid VC,Completed,2500,Yes
+A00728,2026-10-12,Dr. Sample Alpha,Lahore,Psychologist,Lab Booking,Completed,2000,Yes
+A00729,2026-11-03,Dr. Sample Delta,Karachi,Gynecologist,Physical,Completed,2300,Yes
+A00730,2026-10-24,Dr. Sample Gamma,Karachi,Dermatologist,Physical,Completed,2300,Yes
+A00731,2026-10-26,Dr. Sample Beta,Lahore,Psychologist,Lab Booking,Completed,2000,No
+A00732,2026-10-05,Dr. Sample Delta,Karachi,Gynecologist,Instant VC,No-show,1200,
+A00733,2026-10-18,Dr. Sample Zeta,Islamabad,Psychologist,Paid VC,Completed,2000,No
+A00734,2026-10-17,Dr. Sample Eta,Lahore,General Physician,Instant VC,Completed,1000,Yes
+A00735,2026-10-08,Dr. Sample Epsilon,Islamabad,Pediatrician,Paid VC,Cancelled,2000,
+A00736,2026-10-25,Dr. Sample Epsilon,Islamabad,Pediatrician,Physical,Completed,2500,Yes
+A00737,2026-11-07,Dr. Sample Theta,Rawalpindi,Dermatologist,Physical,Cancelled,3000,
+A00738,2026-10-25,Dr. Sample Beta,Lahore,Psychologist,Paid VC,Completed,2000,Yes
+A00739,2026-10-23,Dr. Sample Zeta,Islamabad,Psychologist,Instant VC,Completed,1000,Yes
+A00740,2026-10-26,Dr. Sample Delta,Karachi,Gynecologist,Paid VC,Completed,2000,Yes
+A00741,2026-10-23,Dr. Sample Gamma,Karachi,Dermatologist,Instant VC,Completed,1200,Yes
+A00742,2026-10-13,Dr. Sample Delta,Karachi,Gynecologist,Instant VC,Completed,1200,Yes
+A00743,2026-10-16,Dr. Sample Delta,Karachi,Gynecologist,Paid VC,Cancelled,2000,
+A00744,2026-10-08,Dr. Sample Gamma,Karachi,Dermatologist,Physical,No-show,3000,
+A00745,2026-11-04,Dr. Sample Alpha,Lahore,Psychologist,Physical,No-show,3000,
+A00746,2026-11-01,Dr. Sample Zeta,Islamabad,Psychologist,Instant VC,Cancelled,1200,
+A00747,2026-11-02,Dr. Sample Theta,Rawalpindi,Dermatologist,Paid VC,Completed,2000,Yes
+A00748,2026-10-28,Dr. Sample Alpha,Lahore,Psychologist,Instant VC,Completed,1000,Yes
+A00749,2026-10-12,Dr. Sample Eta,Lahore,General Physician,Physical,Completed,2300,No
+A00750,2026-10-01,Dr. Sample Zeta,Islamabad,Psychologist,Physical,Completed,3000,Yes
+A00751,2026-10-17,Dr. Sample Zeta,Islamabad,Psychologist,Paid VC,Completed,2000,Yes
+A00752,2026-11-09,Dr. Sample Epsilon,Islamabad,Pediatrician,Instant VC,Completed,1200,No
+A00753,2026-10-24,Dr. Sample Eta,Lahore,General Physician,Paid VC,Completed,2500,Yes
+A00754,2026-10-09,Dr. Sample Theta,Rawalpindi,Dermatologist,Paid VC,No-show,2000,
+A00755,2026-10-16,Dr. Sample Beta,Lahore,Psychologist,Physical,Completed,3000,Yes
+A00756,2026-10-10,Dr. Sample Gamma,Karachi,Dermatologist,Physical,Completed,2300,Yes
+A00757,2026-11-10,Dr. Sample Eta,Lahore,General Physician,Instant VC,Completed,1200,No
+A00758,2026-11-06,Dr. Sample Epsilon,Islamabad,Pediatrician,Paid VC,Completed,1800,Yes
+A00759,2026-10-17,Dr. Sample Alpha,Lahore,Psychologist,Paid VC,Completed,1800,No
+A00760,2026-10-24,Dr. Sample Zeta,Islamabad,Psychologist,Paid VC,Completed,2000,Yes
+A00761,2026-10-23,Dr. Sample Alpha,Lahore,Psychologist,Instant VC,Cancelled,1200,
+A00762,2026-10-19,Dr. Sample Gamma,Karachi,Dermatologist,Lab Booking,Completed,2000,No
+A00763,2026-10-19,Dr. Sample Beta,Lahore,Psychologist,Paid VC,Completed,2000,Yes
+A00764,2026-11-09,Dr. Sample Zeta,Islamabad,Psychologist,Instant VC,Completed,1000,Yes
+A00765,2026-10-21,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,Completed,2000,Yes
+A00766,2026-10-29,Dr. Sample Eta,Lahore,General Physician,Paid VC,Cancelled,2000,
+A00767,2026-10-12,Dr. Sample Theta,Rawalpindi,Dermatologist,Instant VC,Cancelled,1200,
+A00768,2026-10-06,Dr. Sample Delta,Karachi,Gynecologist,Physical,Completed,3000,Yes
+A00769,2026-10-31,Dr. Sample Beta,Lahore,Psychologist,Paid VC,Completed,1800,No
+A00770,2026-11-09,Dr. Sample Beta,Lahore,Psychologist,Paid VC,Completed,2500,Yes
+A00771,2026-10-19,Dr. Sample Delta,Karachi,Gynecologist,Paid VC,Completed,2000,Yes
+A00772,2026-10-23,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,Cancelled,2000,
+A00773,2026-11-04,Dr. Sample Theta,Rawalpindi,Dermatologist,Instant VC,No-show,1700,
+A00774,2026-11-04,Dr. Sample Gamma,Karachi,Dermatologist,Lab Booking,Completed,2000,No
+A00775,2026-10-31,Dr. Sample Epsilon,Islamabad,Pediatrician,Lab Booking,Completed,1300,No
+A00776,2026-10-17,Dr. Sample Epsilon,Islamabad,Pediatrician,Paid VC,Completed,1800,Yes
+A00777,2026-10-31,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,Completed,2500,No
+A00778,2026-10-28,Dr. Sample Epsilon,Islamabad,Pediatrician,Paid VC,Cancelled,2000,
+A00779,2026-10-13,Dr. Sample Alpha,Lahore,Psychologist,Instant VC,Completed,1700,No
+A00780,2026-11-11,Dr. Sample Delta,Karachi,Gynecologist,Paid VC,Completed,2500,Yes
+A00781,2026-11-10,Dr. Sample Epsilon,Islamabad,Pediatrician,Paid VC,Completed,2000,Yes
+A00782,2026-10-05,Dr. Sample Epsilon,Islamabad,Pediatrician,Instant VC,Completed,1200,Yes
+A00783,2026-10-18,Dr. Sample Theta,Rawalpindi,Dermatologist,Instant VC,Completed,1700,Yes
+A00784,2026-10-04,Dr. Sample Zeta,Islamabad,Psychologist,Paid VC,No-show,1800,
+A00785,2026-10-19,Dr. Sample Gamma,Karachi,Dermatologist,Lab Booking,Completed,2000,Yes
+A00786,2026-10-01,Dr. Sample Delta,Karachi,Gynecologist,Paid VC,Completed,2000,No
+A00787,2026-11-01,Dr. Sample Epsilon,Islamabad,Pediatrician,Physical,No-show,3000,
+A00788,2026-10-10,Dr. Sample Alpha,Lahore,Psychologist,Paid VC,Completed,2500,Yes
+A00789,2026-10-17,Dr. Sample Theta,Rawalpindi,Dermatologist,Paid VC,Cancelled,1800,
+A00790,2026-10-16,Dr. Sample Beta,Lahore,Psychologist,Lab Booking,Completed,2000,Yes
+A00791,2026-10-07,Dr. Sample Alpha,Lahore,Psychologist,Paid VC,Completed,2000,No
+A00792,2026-10-20,Dr. Sample Eta,Lahore,General Physician,Physical,No-show,2500,
+A00793,2026-11-05,Dr. Sample Alpha,Lahore,Psychologist,Physical,Completed,2500,No
+A00794,2026-10-04,Dr. Sample Epsilon,Islamabad,Pediatrician,Paid VC,Cancelled,2000,
+A00795,2026-10-28,Dr. Sample Beta,Lahore,Psychologist,Paid VC,Completed,2000,Yes
+A00796,2026-10-16,Dr. Sample Beta,Lahore,Psychologist,Paid VC,Completed,1800,No
+A00797,2026-10-06,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,Completed,2500,Yes
+A00798,2026-11-10,Dr. Sample Zeta,Islamabad,Psychologist,Lab Booking,Completed,1500,Yes
+A00799,2026-10-15,Dr. Sample Beta,Lahore,Psychologist,Paid VC,Completed,2000,No
+A00800,2026-10-25,Dr. Sample Delta,Karachi,Gynecologist,Paid VC,Completed,2000,Yes
+A00801,2026-10-29,Dr. Sample Alpha,Lahore,Psychologist,Instant VC,Completed,1700,Yes
+A00802,2026-10-21,Dr. Sample Gamma,Karachi,Dermatologist,Instant VC,Completed,1200,Yes
+A00803,2026-10-29,Dr. Sample Beta,Lahore,Psychologist,Instant VC,Completed,1200,Yes
+A00804,2026-11-10,Dr. Sample Theta,Rawalpindi,Dermatologist,Paid VC,Completed,2000,Yes
+A00805,2026-10-16,Dr. Sample Zeta,Islamabad,Psychologist,Physical,Completed,2300,No
+A00806,2026-11-01,Dr. Sample Delta,Karachi,Gynecologist,Instant VC,Completed,1200,Yes
+A00807,2026-10-21,Dr. Sample Zeta,Islamabad,Psychologist,Instant VC,Completed,1000,Yes
+A00808,2026-10-03,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,Completed,2500,Yes
+A00809,2026-11-11,Dr. Sample Beta,Lahore,Psychologist,Paid VC,Cancelled,2500,
+A00810,2026-10-15,Dr. Sample Epsilon,Islamabad,Pediatrician,Paid VC,Completed,1800,Yes
+A00811,2026-10-06,Dr. Sample Delta,Karachi,Gynecologist,Physical,Completed,2300,Yes
+A00812,2026-10-04,Dr. Sample Eta,Lahore,General Physician,Physical,Cancelled,2500,
+A00813,2026-10-20,Dr. Sample Alpha,Lahore,Psychologist,Physical,Completed,2500,Yes
+A00814,2026-11-04,Dr. Sample Beta,Lahore,Psychologist,Physical,Completed,2500,Yes
+A00815,2026-11-05,Dr. Sample Gamma,Karachi,Dermatologist,Instant VC,Completed,1000,Yes
+A00816,2026-10-28,Dr. Sample Theta,Rawalpindi,Dermatologist,Physical,Cancelled,2500,
+A00817,2026-11-02,Dr. Sample Gamma,Karachi,Dermatologist,Instant VC,Completed,1200,No
+A00818,2026-11-05,Dr. Sample Zeta,Islamabad,Psychologist,Lab Booking,No-show,1500,
+A00819,2026-11-10,Dr. Sample Zeta,Islamabad,Psychologist,Instant VC,Completed,1200,Yes
+A00820,2026-11-05,Dr. Sample Delta,Karachi,Gynecologist,Paid VC,No-show,2000,
+A00821,2026-10-29,Dr. Sample Zeta,Islamabad,Psychologist,Lab Booking,No-show,1300,
+A00822,2026-11-08,Dr. Sample Alpha,Lahore,Psychologist,Lab Booking,Completed,1500,Yes
+A00823,2026-10-15,Dr. Sample Alpha,Lahore,Psychologist,Paid VC,Completed,2000,Yes
+A00824,2026-11-02,Dr. Sample Epsilon,Islamabad,Pediatrician,Lab Booking,Completed,1500,Yes
+A00825,2026-10-10,Dr. Sample Alpha,Lahore,Psychologist,Instant VC,Completed,1200,Yes
+A00826,2026-10-20,Dr. Sample Delta,Karachi,Gynecologist,Paid VC,Completed,2500,Yes
+A00827,2026-10-31,Dr. Sample Beta,Lahore,Psychologist,Physical,Completed,2300,Yes
+A00828,2026-11-06,Dr. Sample Alpha,Lahore,Psychologist,Physical,Completed,2300,Yes
+A00829,2026-10-28,Dr. Sample Zeta,Islamabad,Psychologist,Physical,Completed,2300,Yes
+A00830,2026-11-10,Dr. Sample Alpha,Lahore,Psychologist,Instant VC,Completed,1200,Yes
+A00831,2026-10-10,Dr. Sample Zeta,Islamabad,Psychologist,Instant VC,Completed,1200,Yes
+A00832,2026-10-26,Dr. Sample Alpha,Lahore,Psychologist,Physical,No-show,2300,
+A00833,2026-10-26,Dr. Sample Delta,Karachi,Gynecologist,Instant VC,Completed,1200,Yes
+A00834,2026-10-04,Dr. Sample Theta,Rawalpindi,Dermatologist,Instant VC,Completed,1200,Yes
+A00835,2026-10-09,Dr. Sample Eta,Lahore,General Physician,Instant VC,Completed,1700,Yes
+A00836,2026-11-06,Dr. Sample Theta,Rawalpindi,Dermatologist,Paid VC,Completed,2000,Yes
+A00837,2026-10-28,Dr. Sample Beta,Lahore,Psychologist,Paid VC,Completed,1800,Yes
+A00838,2026-10-23,Dr. Sample Eta,Lahore,General Physician,Instant VC,Completed,1200,Yes
+A00839,2026-10-23,Dr. Sample Epsilon,Islamabad,Pediatrician,Paid VC,Completed,2500,Yes
+A00840,2026-10-15,Dr. Sample Theta,Rawalpindi,Dermatologist,Paid VC,Completed,2000,Yes
+A00841,2026-10-04,Dr. Sample Beta,Lahore,Psychologist,Paid VC,Completed,2000,Yes
+A00842,2026-10-08,Dr. Sample Alpha,Lahore,Psychologist,Paid VC,Completed,2500,Yes
+A00843,2026-11-04,Dr. Sample Zeta,Islamabad,Psychologist,Paid VC,Completed,2000,No
+A00844,2026-10-02,Dr. Sample Gamma,Karachi,Dermatologist,Physical,Completed,2300,Yes
+A00845,2026-10-13,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,Cancelled,2000,
+A00846,2026-10-01,Dr. Sample Alpha,Lahore,Psychologist,Instant VC,Completed,1200,Yes
+A00847,2026-11-11,Dr. Sample Beta,Lahore,Psychologist,Paid VC,Completed,2500,Yes
+A00848,2026-11-08,Dr. Sample Zeta,Islamabad,Psychologist,Instant VC,Completed,1200,Yes
+A00849,2026-10-02,Dr. Sample Theta,Rawalpindi,Dermatologist,Instant VC,Completed,1200,Yes
+A00850,2026-10-11,Dr. Sample Theta,Rawalpindi,Dermatologist,Paid VC,Completed,2000,Yes
+A00851,2026-11-02,Dr. Sample Epsilon,Islamabad,Pediatrician,Paid VC,Completed,1800,Yes
+A00852,2026-10-02,Dr. Sample Eta,Lahore,General Physician,Physical,No-show,2500,
+A00853,2026-10-26,Dr. Sample Delta,Karachi,Gynecologist,Paid VC,Completed,1800,No
+A00854,2026-11-06,Dr. Sample Delta,Karachi,Gynecologist,Instant VC,Completed,1200,Yes
+A00855,2026-10-14,Dr. Sample Theta,Rawalpindi,Dermatologist,Instant VC,Completed,1200,Yes
+A00856,2026-11-03,Dr. Sample Epsilon,Islamabad,Pediatrician,Physical,No-show,3000,
+A00857,2026-11-06,Dr. Sample Gamma,Karachi,Dermatologist,Physical,No-show,2500,
+A00858,2026-10-08,Dr. Sample Beta,Lahore,Psychologist,Instant VC,Completed,1200,Yes
+A00859,2026-10-27,Dr. Sample Zeta,Islamabad,Psychologist,Physical,No-show,2500,
+A00860,2026-11-10,Dr. Sample Theta,Rawalpindi,Dermatologist,Physical,No-show,2500,
+A00861,2026-10-07,Dr. Sample Gamma,Karachi,Dermatologist,Physical,Completed,2300,Yes
+A00862,2026-10-15,Dr. Sample Delta,Karachi,Gynecologist,Instant VC,Completed,1200,Yes
+A00863,2026-11-08,Dr. Sample Theta,Rawalpindi,Dermatologist,Paid VC,Completed,2000,Yes
+A00864,2026-10-09,Dr. Sample Eta,Lahore,General Physician,Instant VC,Completed,1200,Yes
+A00865,2026-10-01,Dr. Sample Eta,Lahore,General Physician,Physical,No-show,3000,
+A00866,2026-10-13,Dr. Sample Delta,Karachi,Gynecologist,Physical,Completed,2300,Yes
+A00867,2026-11-01,Dr. Sample Theta,Rawalpindi,Dermatologist,Physical,Completed,3000,Yes
+A00868,2026-10-03,Dr. Sample Eta,Lahore,General Physician,Instant VC,Completed,1700,Yes
+A00869,2026-11-06,Dr. Sample Eta,Lahore,General Physician,Instant VC,Completed,1000,Yes
+A00870,2026-10-03,Dr. Sample Theta,Rawalpindi,Dermatologist,Instant VC,Cancelled,1200,
+A00871,2026-10-03,Dr. Sample Eta,Lahore,General Physician,Lab Booking,Completed,1300,Yes
+A00872,2026-10-20,Dr. Sample Epsilon,Islamabad,Pediatrician,Instant VC,Completed,1200,No
+A00873,2026-11-09,Dr. Sample Gamma,Karachi,Dermatologist,Instant VC,No-show,1200,
+A00874,2026-10-29,Dr. Sample Theta,Rawalpindi,Dermatologist,Physical,Completed,2300,Yes
+A00875,2026-10-21,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,Completed,2000,No
+A00876,2026-10-06,Dr. Sample Delta,Karachi,Gynecologist,Physical,Completed,2500,Yes
+A00877,2026-10-29,Dr. Sample Beta,Lahore,Psychologist,Paid VC,Completed,1800,No
+A00878,2026-10-25,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,Completed,2000,Yes
+A00879,2026-10-10,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,Completed,1800,No
+A00880,2026-10-29,Dr. Sample Epsilon,Islamabad,Pediatrician,Paid VC,Completed,2000,Yes
+A00881,2026-10-01,Dr. Sample Gamma,Karachi,Dermatologist,Lab Booking,Completed,1500,Yes
+A00882,2026-11-01,Dr. Sample Theta,Rawalpindi,Dermatologist,Instant VC,Completed,1000,No
+A00883,2026-10-31,Dr. Sample Delta,Karachi,Gynecologist,Paid VC,Completed,2500,Yes
+A00884,2026-11-05,Dr. Sample Alpha,Lahore,Psychologist,Paid VC,Completed,2000,Yes
+A00885,2026-11-11,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,Completed,2000,Yes
+A00886,2026-10-06,Dr. Sample Epsilon,Islamabad,Pediatrician,Paid VC,Completed,2500,Yes
+A00887,2026-11-09,Dr. Sample Gamma,Karachi,Dermatologist,Physical,Completed,2500,No
+A00888,2026-10-06,Dr. Sample Zeta,Islamabad,Psychologist,Lab Booking,Completed,1500,Yes
+A00889,2026-10-28,Dr. Sample Eta,Lahore,General Physician,Physical,Cancelled,2300,
+A00890,2026-10-08,Dr. Sample Epsilon,Islamabad,Pediatrician,Instant VC,Completed,1200,Yes
+A00891,2026-10-14,Dr. Sample Eta,Lahore,General Physician,Instant VC,Completed,1000,Yes
+A00892,2026-11-08,Dr. Sample Theta,Rawalpindi,Dermatologist,Physical,No-show,2500,
+A00893,2026-10-21,Dr. Sample Eta,Lahore,General Physician,Instant VC,Completed,1200,Yes
+A00894,2026-11-10,Dr. Sample Theta,Rawalpindi,Dermatologist,Instant VC,Completed,1200,Yes
+A00895,2026-10-01,Dr. Sample Epsilon,Islamabad,Pediatrician,Lab Booking,Completed,2000,Yes
+A00896,2026-10-27,Dr. Sample Delta,Karachi,Gynecologist,Physical,Completed,2500,Yes
+A00897,2026-10-13,Dr. Sample Delta,Karachi,Gynecologist,Paid VC,Completed,2000,Yes
+A00898,2026-11-05,Dr. Sample Epsilon,Islamabad,Pediatrician,Paid VC,Completed,1800,Yes
+A00899,2026-11-06,Dr. Sample Zeta,Islamabad,Psychologist,Paid VC,Completed,1800,Yes
+A00900,2026-10-22,Dr. Sample Delta,Karachi,Gynecologist,Paid VC,No-show,2500,
+A00901,2026-11-11,Dr. Sample Theta,Rawalpindi,Dermatologist,Physical,Completed,2500,No
+A00902,2026-10-27,Dr. Sample Zeta,Islamabad,Psychologist,Instant VC,No-show,1000,
+A00903,2026-10-21,Dr. Sample Epsilon,Islamabad,Pediatrician,Instant VC,Completed,1000,Yes
+A00904,2026-10-23,Dr. Sample Zeta,Islamabad,Psychologist,Physical,Completed,2500,Yes
+A00905,2026-10-25,Dr. Sample Alpha,Lahore,Psychologist,Paid VC,Completed,2000,No
+A00906,2026-10-20,Dr. Sample Gamma,Karachi,Dermatologist,Instant VC,Completed,1200,Yes
+A00907,2026-11-01,Dr. Sample Epsilon,Islamabad,Pediatrician,Instant VC,Cancelled,1200,
+A00908,2026-10-20,Dr. Sample Theta,Rawalpindi,Dermatologist,Physical,Completed,2500,Yes
+A00909,2026-10-03,Dr. Sample Beta,Lahore,Psychologist,Paid VC,Completed,1800,No
+A00910,2026-11-02,Dr. Sample Alpha,Lahore,Psychologist,Physical,Completed,2500,No
+A00911,2026-10-10,Dr. Sample Epsilon,Islamabad,Pediatrician,Physical,Completed,2300,Yes
+A00912,2026-10-30,Dr. Sample Delta,Karachi,Gynecologist,Physical,Completed,2300,Yes
+A00913,2026-11-08,Dr. Sample Epsilon,Islamabad,Pediatrician,Lab Booking,Cancelled,1500,
+A00914,2026-10-07,Dr. Sample Theta,Rawalpindi,Dermatologist,Physical,Completed,2500,Yes
+A00915,2026-10-14,Dr. Sample Epsilon,Islamabad,Pediatrician,Instant VC,Completed,1200,Yes
+A00916,2026-10-29,Dr. Sample Epsilon,Islamabad,Pediatrician,Instant VC,Completed,1200,Yes
+A00917,2026-10-01,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,No-show,1800,
+A00918,2026-11-05,Dr. Sample Delta,Karachi,Gynecologist,Instant VC,Completed,1200,Yes
+A00919,2026-10-20,Dr. Sample Delta,Karachi,Gynecologist,Paid VC,Completed,2000,No
+A00920,2026-10-31,Dr. Sample Alpha,Lahore,Psychologist,Paid VC,No-show,1800,
+A00921,2026-10-06,Dr. Sample Beta,Lahore,Psychologist,Paid VC,Completed,2000,No
+A00922,2026-10-13,Dr. Sample Zeta,Islamabad,Psychologist,Paid VC,Completed,1800,No
+A00923,2026-10-30,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,Completed,2000,No
+A00924,2026-10-15,Dr. Sample Theta,Rawalpindi,Dermatologist,Paid VC,Completed,2000,Yes
+A00925,2026-10-22,Dr. Sample Eta,Lahore,General Physician,Paid VC,Cancelled,2000,
+A00926,2026-10-05,Dr. Sample Theta,Rawalpindi,Dermatologist,Instant VC,Completed,1200,No
+A00927,2026-10-19,Dr. Sample Theta,Rawalpindi,Dermatologist,Physical,Completed,2500,Yes
+A00928,2026-10-07,Dr. Sample Eta,Lahore,General Physician,Physical,Completed,2300,Yes
+A00929,2026-10-27,Dr. Sample Theta,Rawalpindi,Dermatologist,Instant VC,Completed,1200,Yes
+A00930,2026-10-22,Dr. Sample Theta,Rawalpindi,Dermatologist,Paid VC,Completed,2500,No
+A00931,2026-10-16,Dr. Sample Zeta,Islamabad,Psychologist,Instant VC,Completed,1000,No
+A00932,2026-10-30,Dr. Sample Beta,Lahore,Psychologist,Instant VC,Completed,1000,No
+A00933,2026-10-26,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,Completed,1800,No
+A00934,2026-10-04,Dr. Sample Zeta,Islamabad,Psychologist,Instant VC,Completed,1200,Yes
+A00935,2026-10-29,Dr. Sample Gamma,Karachi,Dermatologist,Physical,Completed,3000,No
+A00936,2026-10-21,Dr. Sample Delta,Karachi,Gynecologist,Paid VC,Completed,2000,No
+A00937,2026-11-07,Dr. Sample Zeta,Islamabad,Psychologist,Lab Booking,Completed,2000,Yes
+A00938,2026-11-05,Dr. Sample Epsilon,Islamabad,Pediatrician,Paid VC,No-show,1800,
+A00939,2026-10-19,Dr. Sample Zeta,Islamabad,Psychologist,Paid VC,Cancelled,2000,
+A00940,2026-10-26,Dr. Sample Eta,Lahore,General Physician,Physical,Completed,3000,No
+A00941,2026-10-14,Dr. Sample Eta,Lahore,General Physician,Instant VC,Completed,1700,Yes
+A00942,2026-10-24,Dr. Sample Delta,Karachi,Gynecologist,Instant VC,Cancelled,1200,
+A00943,2026-10-09,Dr. Sample Epsilon,Islamabad,Pediatrician,Lab Booking,Completed,1300,Yes
+A00944,2026-11-01,Dr. Sample Gamma,Karachi,Dermatologist,Physical,Completed,2500,Yes
+A00945,2026-10-27,Dr. Sample Gamma,Karachi,Dermatologist,Instant VC,Cancelled,1700,
+A00946,2026-10-28,Dr. Sample Gamma,Karachi,Dermatologist,Instant VC,Completed,1700,No
+A00947,2026-10-28,Dr. Sample Zeta,Islamabad,Psychologist,Paid VC,Completed,2500,Yes
+A00948,2026-11-04,Dr. Sample Epsilon,Islamabad,Pediatrician,Instant VC,Completed,1000,Yes
+A00949,2026-10-08,Dr. Sample Theta,Rawalpindi,Dermatologist,Physical,Completed,2300,Yes
+A00950,2026-10-06,Dr. Sample Epsilon,Islamabad,Pediatrician,Instant VC,Completed,1000,Yes
+A00951,2026-10-05,Dr. Sample Theta,Rawalpindi,Dermatologist,Instant VC,Completed,1200,Yes
+A00952,2026-10-01,Dr. Sample Zeta,Islamabad,Psychologist,Instant VC,Completed,1700,Yes
+A00953,2026-10-19,Dr. Sample Eta,Lahore,General Physician,Paid VC,Completed,1800,Yes
+A00954,2026-10-31,Dr. Sample Epsilon,Islamabad,Pediatrician,Paid VC,Completed,1800,Yes
+A00955,2026-10-06,Dr. Sample Alpha,Lahore,Psychologist,Paid VC,Completed,1800,Yes
+A00956,2026-10-18,Dr. Sample Epsilon,Islamabad,Pediatrician,Paid VC,Completed,2000,Yes
+A00957,2026-11-07,Dr. Sample Beta,Lahore,Psychologist,Instant VC,Completed,1700,Yes
+A00958,2026-10-16,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,Completed,1800,Yes
+A00959,2026-11-08,Dr. Sample Beta,Lahore,Psychologist,Lab Booking,No-show,1500,
+A00960,2026-10-27,Dr. Sample Theta,Rawalpindi,Dermatologist,Physical,Completed,2500,No
+A00961,2026-10-23,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,Completed,2000,Yes
+A00962,2026-10-26,Dr. Sample Alpha,Lahore,Psychologist,Paid VC,Completed,2500,Yes
+A00963,2026-10-25,Dr. Sample Eta,Lahore,General Physician,Physical,Completed,2500,No
+A00964,2026-10-29,Dr. Sample Alpha,Lahore,Psychologist,Paid VC,Completed,2000,Yes
+A00965,2026-11-10,Dr. Sample Beta,Lahore,Psychologist,Lab Booking,Completed,2000,Yes
+A00966,2026-10-07,Dr. Sample Zeta,Islamabad,Psychologist,Paid VC,Completed,2500,No
+A00967,2026-11-07,Dr. Sample Delta,Karachi,Gynecologist,Physical,Completed,2500,Yes
+A00968,2026-10-01,Dr. Sample Zeta,Islamabad,Psychologist,Instant VC,Cancelled,1000,
+A00969,2026-10-07,Dr. Sample Eta,Lahore,General Physician,Paid VC,Completed,2000,Yes
+A00970,2026-10-03,Dr. Sample Epsilon,Islamabad,Pediatrician,Paid VC,Completed,1800,Yes
+A00971,2026-11-10,Dr. Sample Delta,Karachi,Gynecologist,Lab Booking,Completed,1300,Yes
+A00972,2026-11-11,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,Completed,2000,Yes
+A00973,2026-10-30,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,Completed,1800,No
+A00974,2026-10-21,Dr. Sample Epsilon,Islamabad,Pediatrician,Physical,Completed,2300,Yes
+A00975,2026-10-22,Dr. Sample Alpha,Lahore,Psychologist,Paid VC,No-show,2000,
+A00976,2026-10-05,Dr. Sample Epsilon,Islamabad,Pediatrician,Paid VC,Completed,2000,No
+A00977,2026-10-07,Dr. Sample Gamma,Karachi,Dermatologist,Instant VC,Completed,1700,Yes
+A00978,2026-10-17,Dr. Sample Beta,Lahore,Psychologist,Lab Booking,Completed,1300,Yes
+A00979,2026-10-02,Dr. Sample Epsilon,Islamabad,Pediatrician,Physical,Cancelled,2500,
+A00980,2026-10-25,Dr. Sample Alpha,Lahore,Psychologist,Lab Booking,Completed,1500,No
+A00981,2026-11-01,Dr. Sample Alpha,Lahore,Psychologist,Instant VC,Completed,1700,Yes
+A00982,2026-10-31,Dr. Sample Delta,Karachi,Gynecologist,Paid VC,Completed,2000,Yes
+A00983,2026-11-10,Dr. Sample Epsilon,Islamabad,Pediatrician,Instant VC,No-show,1000,
+A00984,2026-10-22,Dr. Sample Zeta,Islamabad,Psychologist,Instant VC,Completed,1700,Yes
+A00985,2026-10-03,Dr. Sample Delta,Karachi,Gynecologist,Paid VC,No-show,2000,
+A00986,2026-10-07,Dr. Sample Epsilon,Islamabad,Pediatrician,Physical,Completed,2500,No
+A00987,2026-10-29,Dr. Sample Beta,Lahore,Psychologist,Physical,Completed,2500,Yes
+A00988,2026-11-07,Dr. Sample Delta,Karachi,Gynecologist,Paid VC,Completed,2500,Yes
+A00989,2026-10-29,Dr. Sample Epsilon,Islamabad,Pediatrician,Instant VC,No-show,1000,
+A00990,2026-10-22,Dr. Sample Alpha,Lahore,Psychologist,Paid VC,Cancelled,1800,
+A00991,2026-11-11,Dr. Sample Eta,Lahore,General Physician,Paid VC,Completed,2500,Yes
+A00992,2026-10-03,Dr. Sample Delta,Karachi,Gynecologist,Lab Booking,Completed,2000,Yes
+A00993,2026-11-09,Dr. Sample Theta,Rawalpindi,Dermatologist,Lab Booking,Completed,1500,Yes
+A00994,2026-10-20,Dr. Sample Gamma,Karachi,Dermatologist,Instant VC,Cancelled,1000,
+A00995,2026-11-07,Dr. Sample Theta,Rawalpindi,Dermatologist,Instant VC,Completed,1000,Yes
+A00996,2026-11-09,Dr. Sample Theta,Rawalpindi,Dermatologist,Instant VC,Completed,1200,No
+A00997,2026-10-26,Dr. Sample Zeta,Islamabad,Psychologist,Physical,Completed,2500,Yes
+A00998,2026-11-07,Dr. Sample Delta,Karachi,Gynecologist,Physical,Completed,2300,Yes
+A00999,2026-10-27,Dr. Sample Epsilon,Islamabad,Pediatrician,Paid VC,Completed,2000,Yes
+A01000,2026-11-07,Dr. Sample Theta,Rawalpindi,Dermatologist,Paid VC,Completed,1800,No
+A01001,2026-11-01,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,Completed,1800,Yes
+A01002,2026-11-07,Dr. Sample Beta,Lahore,Psychologist,Physical,Cancelled,3000,
+A01003,2026-10-14,Dr. Sample Theta,Rawalpindi,Dermatologist,Physical,Completed,2500,No
+A01004,2026-10-12,Dr. Sample Eta,Lahore,General Physician,Paid VC,Completed,1800,Yes
+A01005,2026-10-06,Dr. Sample Theta,Rawalpindi,Dermatologist,Instant VC,Completed,1200,Yes
+A01006,2026-10-16,Dr. Sample Eta,Lahore,General Physician,Paid VC,Completed,1800,Yes
+A01007,2026-11-10,Dr. Sample Delta,Karachi,Gynecologist,Instant VC,Completed,1200,Yes
+A01008,2026-10-10,Dr. Sample Delta,Karachi,Gynecologist,Paid VC,Completed,2500,No
+A01009,2026-10-03,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,Completed,2000,Yes
+A01010,2026-10-22,Dr. Sample Delta,Karachi,Gynecologist,Instant VC,Completed,1700,Yes
+A01011,2026-11-04,Dr. Sample Beta,Lahore,Psychologist,Physical,Completed,2300,No
+A01012,2026-10-16,Dr. Sample Beta,Lahore,Psychologist,Paid VC,Completed,2000,No
+A01013,2026-10-21,Dr. Sample Delta,Karachi,Gynecologist,Physical,Completed,2300,Yes
+A01014,2026-10-27,Dr. Sample Delta,Karachi,Gynecologist,Paid VC,Cancelled,2500,
+A01015,2026-11-07,Dr. Sample Delta,Karachi,Gynecologist,Paid VC,Completed,2500,Yes
+A01016,2026-10-30,Dr. Sample Delta,Karachi,Gynecologist,Lab Booking,Completed,1500,Yes
+A01017,2026-11-10,Dr. Sample Theta,Rawalpindi,Dermatologist,Physical,Completed,2500,Yes
+A01018,2026-11-06,Dr. Sample Zeta,Islamabad,Psychologist,Paid VC,Completed,2000,Yes
+A01019,2026-10-11,Dr. Sample Theta,Rawalpindi,Dermatologist,Instant VC,Completed,1200,Yes
+A01020,2026-11-10,Dr. Sample Gamma,Karachi,Dermatologist,Physical,No-show,2500,
+A01021,2026-11-03,Dr. Sample Delta,Karachi,Gynecologist,Paid VC,Completed,2000,No
+A01022,2026-10-28,Dr. Sample Theta,Rawalpindi,Dermatologist,Paid VC,Completed,2000,Yes
+A01023,2026-10-15,Dr. Sample Zeta,Islamabad,Psychologist,Instant VC,Cancelled,1200,
+A01024,2026-10-03,Dr. Sample Alpha,Lahore,Psychologist,Instant VC,Completed,1700,Yes
+A01025,2026-10-31,Dr. Sample Eta,Lahore,General Physician,Instant VC,Cancelled,1000,
+A01026,2026-10-06,Dr. Sample Theta,Rawalpindi,Dermatologist,Instant VC,Completed,1000,No
+A01027,2026-10-19,Dr. Sample Delta,Karachi,Gynecologist,Paid VC,Completed,1800,Yes
+A01028,2026-10-11,Dr. Sample Theta,Rawalpindi,Dermatologist,Physical,Completed,2300,No
+A01029,2026-10-26,Dr. Sample Theta,Rawalpindi,Dermatologist,Physical,Completed,2500,No
+A01030,2026-10-05,Dr. Sample Alpha,Lahore,Psychologist,Physical,Completed,2500,Yes
+A01031,2026-10-18,Dr. Sample Epsilon,Islamabad,Pediatrician,Instant VC,Completed,1200,Yes
+A01032,2026-10-04,Dr. Sample Zeta,Islamabad,Psychologist,Physical,Completed,2500,Yes
+A01033,2026-10-30,Dr. Sample Beta,Lahore,Psychologist,Paid VC,Completed,2000,Yes
+A01034,2026-10-05,Dr. Sample Gamma,Karachi,Dermatologist,Instant VC,Completed,1200,Yes
+A01035,2026-10-08,Dr. Sample Zeta,Islamabad,Psychologist,Paid VC,Completed,2000,Yes
+A01036,2026-10-18,Dr. Sample Zeta,Islamabad,Psychologist,Paid VC,Completed,2500,Yes
+A01037,2026-10-23,Dr. Sample Alpha,Lahore,Psychologist,Paid VC,Completed,1800,No
+A01038,2026-10-24,Dr. Sample Epsilon,Islamabad,Pediatrician,Instant VC,Cancelled,1000,
+A01039,2026-10-30,Dr. Sample Delta,Karachi,Gynecologist,Physical,Completed,3000,Yes
+A01040,2026-10-05,Dr. Sample Epsilon,Islamabad,Pediatrician,Lab Booking,Completed,1500,Yes
+A01041,2026-10-14,Dr. Sample Gamma,Karachi,Dermatologist,Instant VC,Completed,1000,Yes
+A01042,2026-11-04,Dr. Sample Eta,Lahore,General Physician,Lab Booking,No-show,2000,
+A01043,2026-11-11,Dr. Sample Zeta,Islamabad,Psychologist,Instant VC,Completed,1200,Yes
+A01044,2026-10-15,Dr. Sample Alpha,Lahore,Psychologist,Physical,Cancelled,2500,
+A01045,2026-11-11,Dr. Sample Eta,Lahore,General Physician,Instant VC,Completed,1200,No
+A01046,2026-11-06,Dr. Sample Theta,Rawalpindi,Dermatologist,Instant VC,Completed,1200,Yes
+A01047,2026-10-24,Dr. Sample Epsilon,Islamabad,Pediatrician,Paid VC,No-show,1800,
+A01048,2026-10-30,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,No-show,2000,
+A01049,2026-10-12,Dr. Sample Epsilon,Islamabad,Pediatrician,Paid VC,Cancelled,2000,
+A01050,2026-10-03,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,No-show,2000,
+A01051,2026-10-12,Dr. Sample Theta,Rawalpindi,Dermatologist,Paid VC,Completed,1800,Yes
+A01052,2026-10-29,Dr. Sample Zeta,Islamabad,Psychologist,Paid VC,Completed,2000,Yes
+A01053,2026-10-26,Dr. Sample Beta,Lahore,Psychologist,Lab Booking,No-show,1500,
+A01054,2026-10-10,Dr. Sample Theta,Rawalpindi,Dermatologist,Lab Booking,Completed,1500,Yes
+A01055,2026-11-06,Dr. Sample Theta,Rawalpindi,Dermatologist,Physical,Completed,3000,Yes
+A01056,2026-10-03,Dr. Sample Beta,Lahore,Psychologist,Physical,Completed,2300,Yes
+A01057,2026-10-15,Dr. Sample Alpha,Lahore,Psychologist,Instant VC,Completed,1000,Yes
+A01058,2026-10-13,Dr. Sample Alpha,Lahore,Psychologist,Instant VC,Completed,1200,Yes
+A01059,2026-11-04,Dr. Sample Delta,Karachi,Gynecologist,Paid VC,Cancelled,1800,
+A01060,2026-10-21,Dr. Sample Eta,Lahore,General Physician,Paid VC,Completed,1800,Yes
+A01061,2026-10-28,Dr. Sample Eta,Lahore,General Physician,Paid VC,Completed,2000,Yes
+A01062,2026-10-20,Dr. Sample Epsilon,Islamabad,Pediatrician,Paid VC,No-show,1800,
+A01063,2026-10-29,Dr. Sample Delta,Karachi,Gynecologist,Physical,Completed,3000,No
+A01064,2026-10-28,Dr. Sample Epsilon,Islamabad,Pediatrician,Paid VC,Completed,2500,Yes
+A01065,2026-10-20,Dr. Sample Beta,Lahore,Psychologist,Paid VC,Completed,2000,Yes
+A01066,2026-10-27,Dr. Sample Eta,Lahore,General Physician,Paid VC,Completed,2000,No
+A01067,2026-11-06,Dr. Sample Gamma,Karachi,Dermatologist,Instant VC,Completed,1200,Yes
+A01068,2026-10-19,Dr. Sample Gamma,Karachi,Dermatologist,Physical,Completed,2300,Yes
+A01069,2026-10-30,Dr. Sample Epsilon,Islamabad,Pediatrician,Instant VC,Completed,1000,Yes
+A01070,2026-11-10,Dr. Sample Epsilon,Islamabad,Pediatrician,Paid VC,Cancelled,2500,
+A01071,2026-10-19,Dr. Sample Beta,Lahore,Psychologist,Physical,Completed,3000,Yes
+A01072,2026-10-18,Dr. Sample Alpha,Lahore,Psychologist,Paid VC,Completed,1800,Yes
+A01073,2026-10-17,Dr. Sample Theta,Rawalpindi,Dermatologist,Instant VC,Completed,1700,Yes
+A01074,2026-11-06,Dr. Sample Zeta,Islamabad,Psychologist,Instant VC,Completed,1200,Yes
+A01075,2026-10-30,Dr. Sample Alpha,Lahore,Psychologist,Paid VC,Cancelled,2000,
+A01076,2026-10-18,Dr. Sample Zeta,Islamabad,Psychologist,Paid VC,Completed,2000,Yes
+A01077,2026-11-10,Dr. Sample Epsilon,Islamabad,Pediatrician,Paid VC,No-show,2000,
+A01078,2026-11-08,Dr. Sample Gamma,Karachi,Dermatologist,Physical,Completed,2500,Yes
+A01079,2026-10-24,Dr. Sample Epsilon,Islamabad,Pediatrician,Paid VC,Completed,2000,Yes
+A01080,2026-10-19,Dr. Sample Alpha,Lahore,Psychologist,Paid VC,Completed,2500,No
+A01081,2026-10-11,Dr. Sample Zeta,Islamabad,Psychologist,Lab Booking,Completed,1500,Yes
+A01082,2026-11-05,Dr. Sample Delta,Karachi,Gynecologist,Physical,Completed,2300,No
+A01083,2026-10-08,Dr. Sample Theta,Rawalpindi,Dermatologist,Lab Booking,Cancelled,1300,
+A01084,2026-10-24,Dr. Sample Theta,Rawalpindi,Dermatologist,Paid VC,Completed,2500,Yes
+A01085,2026-10-02,Dr. Sample Gamma,Karachi,Dermatologist,Physical,Completed,2300,Yes
+A01086,2026-10-10,Dr. Sample Gamma,Karachi,Dermatologist,Physical,Completed,2500,Yes
+A01087,2026-10-06,Dr. Sample Delta,Karachi,Gynecologist,Paid VC,Completed,1800,Yes
+A01088,2026-10-28,Dr. Sample Alpha,Lahore,Psychologist,Physical,Completed,2300,Yes
+A01089,2026-10-17,Dr. Sample Alpha,Lahore,Psychologist,Instant VC,Completed,1200,Yes
+A01090,2026-11-08,Dr. Sample Beta,Lahore,Psychologist,Physical,Completed,2500,Yes
+A01091,2026-10-10,Dr. Sample Zeta,Islamabad,Psychologist,Paid VC,Cancelled,2000,
+A01092,2026-11-02,Dr. Sample Zeta,Islamabad,Psychologist,Paid VC,Cancelled,2000,
+A01093,2026-11-07,Dr. Sample Beta,Lahore,Psychologist,Paid VC,Completed,2000,Yes
+A01094,2026-11-04,Dr. Sample Epsilon,Islamabad,Pediatrician,Paid VC,Completed,1800,Yes
+A01095,2026-11-07,Dr. Sample Theta,Rawalpindi,Dermatologist,Paid VC,Completed,1800,Yes
+A01096,2026-10-28,Dr. Sample Zeta,Islamabad,Psychologist,Lab Booking,Completed,1500,No
+A01097,2026-10-21,Dr. Sample Beta,Lahore,Psychologist,Physical,Completed,2300,Yes
+A01098,2026-10-19,Dr. Sample Theta,Rawalpindi,Dermatologist,Physical,Completed,2300,Yes
+A01099,2026-10-25,Dr. Sample Zeta,Islamabad,Psychologist,Instant VC,Completed,1200,No
+A01100,2026-10-19,Dr. Sample Delta,Karachi,Gynecologist,Instant VC,No-show,1700,
+A01101,2026-10-31,Dr. Sample Delta,Karachi,Gynecologist,Physical,No-show,2500,
+A01102,2026-11-01,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,Completed,2500,No
+A01103,2026-10-26,Dr. Sample Beta,Lahore,Psychologist,Paid VC,Completed,1800,Yes
+A01104,2026-10-13,Dr. Sample Beta,Lahore,Psychologist,Paid VC,Completed,2500,Yes
+A01105,2026-11-01,Dr. Sample Delta,Karachi,Gynecologist,Physical,Completed,2500,No
+A01106,2026-11-08,Dr. Sample Zeta,Islamabad,Psychologist,Instant VC,No-show,1700,
+A01107,2026-10-30,Dr. Sample Epsilon,Islamabad,Pediatrician,Paid VC,Completed,2000,No
+A01108,2026-10-09,Dr. Sample Theta,Rawalpindi,Dermatologist,Paid VC,Completed,1800,Yes
+A01109,2026-10-12,Dr. Sample Theta,Rawalpindi,Dermatologist,Physical,Completed,2500,Yes
+A01110,2026-10-07,Dr. Sample Epsilon,Islamabad,Pediatrician,Instant VC,Completed,1700,No
+A01111,2026-11-01,Dr. Sample Delta,Karachi,Gynecologist,Paid VC,Completed,2000,Yes
+A01112,2026-10-03,Dr. Sample Alpha,Lahore,Psychologist,Lab Booking,No-show,1300,
+A01113,2026-10-25,Dr. Sample Eta,Lahore,General Physician,Instant VC,Completed,1000,Yes
+A01114,2026-10-20,Dr. Sample Gamma,Karachi,Dermatologist,Instant VC,Cancelled,1200,
+A01115,2026-10-20,Dr. Sample Theta,Rawalpindi,Dermatologist,Instant VC,Completed,1700,Yes
+A01116,2026-11-04,Dr. Sample Theta,Rawalpindi,Dermatologist,Physical,Completed,3000,Yes
+A01117,2026-11-01,Dr. Sample Alpha,Lahore,Psychologist,Paid VC,Completed,2500,Yes
+A01118,2026-10-02,Dr. Sample Epsilon,Islamabad,Pediatrician,Paid VC,Completed,2000,Yes
+A01119,2026-11-07,Dr. Sample Zeta,Islamabad,Psychologist,Physical,Completed,2500,No
+A01120,2026-10-23,Dr. Sample Beta,Lahore,Psychologist,Instant VC,Completed,1000,Yes
+A01121,2026-10-20,Dr. Sample Delta,Karachi,Gynecologist,Paid VC,Completed,1800,Yes
+A01122,2026-10-02,Dr. Sample Beta,Lahore,Psychologist,Paid VC,Completed,1800,No
+A01123,2026-10-27,Dr. Sample Eta,Lahore,General Physician,Instant VC,Completed,1700,Yes
+A01124,2026-10-25,Dr. Sample Zeta,Islamabad,Psychologist,Paid VC,Completed,1800,No
+A01125,2026-10-14,Dr. Sample Beta,Lahore,Psychologist,Physical,Completed,2500,Yes
+A01126,2026-10-28,Dr. Sample Epsilon,Islamabad,Pediatrician,Paid VC,Completed,1800,Yes
+A01127,2026-10-20,Dr. Sample Epsilon,Islamabad,Pediatrician,Paid VC,No-show,2500,
+A01128,2026-10-06,Dr. Sample Delta,Karachi,Gynecologist,Instant VC,Completed,1000,Yes
+A01129,2026-11-03,Dr. Sample Epsilon,Islamabad,Pediatrician,Paid VC,Completed,2000,Yes
+A01130,2026-10-20,Dr. Sample Beta,Lahore,Psychologist,Physical,Completed,2500,No
+A01131,2026-10-26,Dr. Sample Zeta,Islamabad,Psychologist,Paid VC,Completed,2500,Yes
+A01132,2026-11-03,Dr. Sample Alpha,Lahore,Psychologist,Instant VC,Cancelled,1700,
+A01133,2026-10-30,Dr. Sample Delta,Karachi,Gynecologist,Physical,Completed,3000,Yes
+A01134,2026-10-10,Dr. Sample Delta,Karachi,Gynecologist,Paid VC,Completed,2000,No
+A01135,2026-10-05,Dr. Sample Eta,Lahore,General Physician,Paid VC,Completed,2500,Yes
+A01136,2026-10-17,Dr. Sample Epsilon,Islamabad,Pediatrician,Instant VC,Completed,1200,No
+A01137,2026-10-13,Dr. Sample Delta,Karachi,Gynecologist,Paid VC,Completed,2000,No
+A01138,2026-10-28,Dr. Sample Theta,Rawalpindi,Dermatologist,Instant VC,Completed,1000,Yes
+A01139,2026-10-02,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,Completed,2000,Yes
+A01140,2026-11-01,Dr. Sample Alpha,Lahore,Psychologist,Lab Booking,Cancelled,1300,
+A01141,2026-10-20,Dr. Sample Beta,Lahore,Psychologist,Paid VC,Cancelled,2500,
+A01142,2026-10-06,Dr. Sample Zeta,Islamabad,Psychologist,Physical,Completed,2500,Yes
+A01143,2026-11-02,Dr. Sample Beta,Lahore,Psychologist,Instant VC,No-show,1200,
+A01144,2026-10-16,Dr. Sample Theta,Rawalpindi,Dermatologist,Physical,Completed,2500,Yes
+A01145,2026-10-16,Dr. Sample Eta,Lahore,General Physician,Physical,No-show,2500,
+A01146,2026-10-14,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,No-show,2500,
+A01147,2026-11-07,Dr. Sample Eta,Lahore,General Physician,Paid VC,Completed,2000,Yes
+A01148,2026-10-31,Dr. Sample Zeta,Islamabad,Psychologist,Instant VC,Completed,1200,Yes
+A01149,2026-10-24,Dr. Sample Zeta,Islamabad,Psychologist,Instant VC,Cancelled,1000,
+A01150,2026-10-04,Dr. Sample Alpha,Lahore,Psychologist,Physical,Completed,2500,Yes
+A01151,2026-10-24,Dr. Sample Eta,Lahore,General Physician,Paid VC,No-show,1800,
+A01152,2026-10-25,Dr. Sample Delta,Karachi,Gynecologist,Physical,Completed,3000,Yes
+A01153,2026-10-16,Dr. Sample Epsilon,Islamabad,Pediatrician,Paid VC,Completed,2000,No
+A01154,2026-11-11,Dr. Sample Zeta,Islamabad,Psychologist,Physical,Completed,2300,Yes
+A01155,2026-11-01,Dr. Sample Beta,Lahore,Psychologist,Physical,Completed,3000,Yes
+A01156,2026-10-07,Dr. Sample Eta,Lahore,General Physician,Physical,Cancelled,2500,
+A01157,2026-11-08,Dr. Sample Beta,Lahore,Psychologist,Paid VC,Completed,2000,No
+A01158,2026-11-11,Dr. Sample Alpha,Lahore,Psychologist,Physical,Completed,3000,Yes
+A01159,2026-11-10,Dr. Sample Alpha,Lahore,Psychologist,Instant VC,Completed,1000,Yes
+A01160,2026-11-11,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,Completed,2500,Yes
+A01161,2026-10-09,Dr. Sample Theta,Rawalpindi,Dermatologist,Instant VC,Completed,1200,Yes
+A01162,2026-10-24,Dr. Sample Delta,Karachi,Gynecologist,Paid VC,Completed,2500,Yes
+A01163,2026-11-05,Dr. Sample Alpha,Lahore,Psychologist,Lab Booking,Completed,1500,Yes
+A01164,2026-10-11,Dr. Sample Theta,Rawalpindi,Dermatologist,Paid VC,Completed,2500,Yes
+A01165,2026-10-24,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,Completed,1800,Yes
+A01166,2026-10-30,Dr. Sample Eta,Lahore,General Physician,Physical,Cancelled,3000,
+A01167,2026-10-14,Dr. Sample Beta,Lahore,Psychologist,Paid VC,Completed,2000,Yes
+A01168,2026-10-28,Dr. Sample Theta,Rawalpindi,Dermatologist,Paid VC,Cancelled,2000,
+A01169,2026-10-13,Dr. Sample Epsilon,Islamabad,Pediatrician,Physical,Completed,3000,Yes
+A01170,2026-10-17,Dr. Sample Alpha,Lahore,Psychologist,Paid VC,Completed,2500,Yes
+A01171,2026-11-11,Dr. Sample Zeta,Islamabad,Psychologist,Instant VC,Completed,1000,No
+A01172,2026-10-26,Dr. Sample Gamma,Karachi,Dermatologist,Physical,Completed,3000,No
+A01173,2026-11-05,Dr. Sample Epsilon,Islamabad,Pediatrician,Paid VC,Completed,2000,Yes
+A01174,2026-11-08,Dr. Sample Theta,Rawalpindi,Dermatologist,Lab Booking,No-show,1300,
+A01175,2026-11-09,Dr. Sample Alpha,Lahore,Psychologist,Paid VC,Completed,2500,Yes
+A01176,2026-11-05,Dr. Sample Gamma,Karachi,Dermatologist,Lab Booking,Completed,1500,Yes
+A01177,2026-10-22,Dr. Sample Gamma,Karachi,Dermatologist,Instant VC,Cancelled,1200,
+A01178,2026-11-03,Dr. Sample Beta,Lahore,Psychologist,Paid VC,Completed,2000,Yes
+A01179,2026-10-09,Dr. Sample Zeta,Islamabad,Psychologist,Paid VC,Completed,2000,Yes
+A01180,2026-10-17,Dr. Sample Eta,Lahore,General Physician,Paid VC,Completed,2000,Yes
+A01181,2026-10-21,Dr. Sample Eta,Lahore,General Physician,Physical,Completed,3000,Yes
+A01182,2026-10-10,Dr. Sample Theta,Rawalpindi,Dermatologist,Paid VC,Completed,2000,Yes
+A01183,2026-10-30,Dr. Sample Theta,Rawalpindi,Dermatologist,Paid VC,Completed,2500,Yes
+A01184,2026-11-05,Dr. Sample Theta,Rawalpindi,Dermatologist,Paid VC,Completed,2500,Yes
+A01185,2026-10-06,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,Completed,2000,Yes
+A01186,2026-10-18,Dr. Sample Gamma,Karachi,Dermatologist,Physical,Completed,2500,Yes
+A01187,2026-10-05,Dr. Sample Gamma,Karachi,Dermatologist,Instant VC,Completed,1700,Yes
+A01188,2026-10-08,Dr. Sample Zeta,Islamabad,Psychologist,Paid VC,Completed,1800,Yes
+A01189,2026-10-30,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,Cancelled,2500,
+A01190,2026-10-18,Dr. Sample Theta,Rawalpindi,Dermatologist,Instant VC,Completed,1000,Yes
+A01191,2026-10-29,Dr. Sample Alpha,Lahore,Psychologist,Physical,Completed,2500,Yes
+A01192,2026-10-19,Dr. Sample Alpha,Lahore,Psychologist,Physical,Completed,2300,Yes
+A01193,2026-10-17,Dr. Sample Eta,Lahore,General Physician,Paid VC,Completed,2500,Yes
+A01194,2026-10-11,Dr. Sample Alpha,Lahore,Psychologist,Physical,Completed,3000,Yes
+A01195,2026-11-01,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,Cancelled,2000,
+A01196,2026-10-07,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,Cancelled,2000,
+A01197,2026-10-25,Dr. Sample Theta,Rawalpindi,Dermatologist,Instant VC,Completed,1700,Yes
+A01198,2026-11-09,Dr. Sample Eta,Lahore,General Physician,Physical,Completed,3000,Yes
+A01199,2026-10-30,Dr. Sample Alpha,Lahore,Psychologist,Instant VC,Completed,1200,No
+A01200,2026-10-28,Dr. Sample Beta,Lahore,Psychologist,Paid VC,Completed,2500,Yes
+A01201,2026-10-20,Dr. Sample Gamma,Karachi,Dermatologist,Lab Booking,Cancelled,2000,
+A01202,2026-11-05,Dr. Sample Epsilon,Islamabad,Pediatrician,Instant VC,Completed,1000,Yes
+A01203,2026-10-30,Dr. Sample Eta,Lahore,General Physician,Instant VC,Completed,1200,Yes
+A01204,2026-11-02,Dr. Sample Epsilon,Islamabad,Pediatrician,Instant VC,Completed,1700,Yes
+A01205,2026-10-03,Dr. Sample Gamma,Karachi,Dermatologist,Physical,Completed,2500,Yes
+A01206,2026-10-29,Dr. Sample Theta,Rawalpindi,Dermatologist,Physical,Completed,2500,Yes
+A01207,2026-10-06,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,Completed,2000,Yes
+A01208,2026-10-01,Dr. Sample Eta,Lahore,General Physician,Instant VC,Completed,1000,Yes
+A01209,2026-10-26,Dr. Sample Theta,Rawalpindi,Dermatologist,Instant VC,Cancelled,1700,
+A01210,2026-11-09,Dr. Sample Epsilon,Islamabad,Pediatrician,Instant VC,Completed,1700,Yes
+A01211,2026-10-01,Dr. Sample Beta,Lahore,Psychologist,Paid VC,Completed,1800,Yes
+A01212,2026-11-11,Dr. Sample Alpha,Lahore,Psychologist,Paid VC,Completed,2000,No
+A01213,2026-10-30,Dr. Sample Delta,Karachi,Gynecologist,Paid VC,Completed,2500,Yes
+A01214,2026-10-10,Dr. Sample Beta,Lahore,Psychologist,Paid VC,Completed,2500,No
+A01215,2026-10-29,Dr. Sample Theta,Rawalpindi,Dermatologist,Paid VC,Completed,2000,Yes
+A01216,2026-10-01,Dr. Sample Eta,Lahore,General Physician,Paid VC,Completed,2500,No
+A01217,2026-11-08,Dr. Sample Theta,Rawalpindi,Dermatologist,Physical,Completed,2500,Yes
+A01218,2026-11-02,Dr. Sample Theta,Rawalpindi,Dermatologist,Paid VC,Completed,2500,Yes
+A01219,2026-10-28,Dr. Sample Alpha,Lahore,Psychologist,Instant VC,Completed,1000,Yes
+A01220,2026-10-08,Dr. Sample Eta,Lahore,General Physician,Physical,Completed,2500,No
+A01221,2026-10-19,Dr. Sample Eta,Lahore,General Physician,Paid VC,Completed,2500,Yes
+A01222,2026-10-15,Dr. Sample Theta,Rawalpindi,Dermatologist,Paid VC,Completed,2000,No
+A01223,2026-10-25,Dr. Sample Gamma,Karachi,Dermatologist,Physical,No-show,2500,
+A01224,2026-10-11,Dr. Sample Theta,Rawalpindi,Dermatologist,Physical,Completed,2500,Yes
+A01225,2026-10-13,Dr. Sample Theta,Rawalpindi,Dermatologist,Paid VC,Completed,2500,Yes
+A01226,2026-11-01,Dr. Sample Eta,Lahore,General Physician,Lab Booking,Completed,1500,Yes
+A01227,2026-10-17,Dr. Sample Alpha,Lahore,Psychologist,Paid VC,Completed,2000,Yes
+A01228,2026-10-22,Dr. Sample Alpha,Lahore,Psychologist,Physical,Completed,2500,Yes
+A01229,2026-10-22,Dr. Sample Delta,Karachi,Gynecologist,Instant VC,Cancelled,1000,
+A01230,2026-11-02,Dr. Sample Epsilon,Islamabad,Pediatrician,Physical,Completed,2300,Yes
+A01231,2026-10-08,Dr. Sample Theta,Rawalpindi,Dermatologist,Physical,No-show,2300,
+A01232,2026-10-11,Dr. Sample Alpha,Lahore,Psychologist,Instant VC,Completed,1200,Yes
+A01233,2026-10-29,Dr. Sample Gamma,Karachi,Dermatologist,Physical,Completed,3000,Yes
+A01234,2026-10-22,Dr. Sample Gamma,Karachi,Dermatologist,Instant VC,Cancelled,1000,
+A01235,2026-10-27,Dr. Sample Delta,Karachi,Gynecologist,Instant VC,Completed,1000,Yes
+A01236,2026-11-02,Dr. Sample Theta,Rawalpindi,Dermatologist,Paid VC,Completed,2000,Yes
+A01237,2026-10-16,Dr. Sample Eta,Lahore,General Physician,Paid VC,Completed,2500,Yes
+A01238,2026-10-27,Dr. Sample Gamma,Karachi,Dermatologist,Physical,No-show,3000,
+A01239,2026-10-29,Dr. Sample Zeta,Islamabad,Psychologist,Lab Booking,Completed,1300,Yes
+A01240,2026-10-26,Dr. Sample Beta,Lahore,Psychologist,Paid VC,No-show,2000,
+A01241,2026-10-03,Dr. Sample Eta,Lahore,General Physician,Paid VC,Completed,2000,Yes
+A01242,2026-11-05,Dr. Sample Epsilon,Islamabad,Pediatrician,Instant VC,Cancelled,1200,
+A01243,2026-10-18,Dr. Sample Zeta,Islamabad,Psychologist,Paid VC,No-show,2000,
+A01244,2026-10-14,Dr. Sample Eta,Lahore,General Physician,Instant VC,Cancelled,1700,
+A01245,2026-11-11,Dr. Sample Zeta,Islamabad,Psychologist,Physical,Completed,2500,Yes
+A01246,2026-10-22,Dr. Sample Beta,Lahore,Psychologist,Paid VC,Completed,2000,Yes
+A01247,2026-11-05,Dr. Sample Delta,Karachi,Gynecologist,Paid VC,Completed,2000,Yes
+A01248,2026-11-04,Dr. Sample Alpha,Lahore,Psychologist,Paid VC,Completed,2000,Yes
+A01249,2026-10-08,Dr. Sample Eta,Lahore,General Physician,Lab Booking,Completed,1500,Yes
+A01250,2026-11-11,Dr. Sample Zeta,Islamabad,Psychologist,Paid VC,No-show,2500,
+A01251,2026-10-01,Dr. Sample Epsilon,Islamabad,Pediatrician,Instant VC,Completed,1200,Yes
+A01252,2026-11-06,Dr. Sample Zeta,Islamabad,Psychologist,Paid VC,Completed,2500,Yes
+A01253,2026-11-07,Dr. Sample Beta,Lahore,Psychologist,Paid VC,Completed,2000,No
+A01254,2026-10-28,Dr. Sample Beta,Lahore,Psychologist,Paid VC,Cancelled,1800,
+A01255,2026-10-09,Dr. Sample Beta,Lahore,Psychologist,Paid VC,Completed,2500,Yes
+A01256,2026-10-26,Dr. Sample Zeta,Islamabad,Psychologist,Physical,Completed,3000,Yes
+A01257,2026-10-29,Dr. Sample Theta,Rawalpindi,Dermatologist,Instant VC,Completed,1700,No
+A01258,2026-10-09,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,Completed,2500,Yes
+A01259,2026-10-30,Dr. Sample Beta,Lahore,Psychologist,Physical,Completed,2500,Yes
+A01260,2026-10-27,Dr. Sample Beta,Lahore,Psychologist,Instant VC,Completed,1200,Yes
+A01261,2026-10-08,Dr. Sample Alpha,Lahore,Psychologist,Instant VC,Completed,1200,Yes
+A01262,2026-10-10,Dr. Sample Epsilon,Islamabad,Pediatrician,Instant VC,Completed,1700,Yes
+A01263,2026-10-14,Dr. Sample Epsilon,Islamabad,Pediatrician,Physical,Completed,3000,Yes
+A01264,2026-10-05,Dr. Sample Beta,Lahore,Psychologist,Instant VC,Cancelled,1700,
+A01265,2026-11-06,Dr. Sample Theta,Rawalpindi,Dermatologist,Instant VC,Completed,1200,No
+A01266,2026-11-08,Dr. Sample Theta,Rawalpindi,Dermatologist,Physical,Completed,2500,No
+A01267,2026-10-10,Dr. Sample Theta,Rawalpindi,Dermatologist,Physical,Cancelled,2500,
+A01268,2026-11-09,Dr. Sample Beta,Lahore,Psychologist,Physical,Completed,2500,No
+A01269,2026-10-29,Dr. Sample Zeta,Islamabad,Psychologist,Instant VC,Completed,1000,Yes
+A01270,2026-10-20,Dr. Sample Alpha,Lahore,Psychologist,Instant VC,Completed,1000,Yes
+A01271,2026-11-04,Dr. Sample Delta,Karachi,Gynecologist,Lab Booking,Completed,1300,Yes
+A01272,2026-10-02,Dr. Sample Theta,Rawalpindi,Dermatologist,Instant VC,Completed,1200,Yes
+A01273,2026-10-16,Dr. Sample Epsilon,Islamabad,Pediatrician,Physical,Cancelled,3000,
+A01274,2026-11-08,Dr. Sample Beta,Lahore,Psychologist,Physical,Completed,2300,No
+A01275,2026-10-12,Dr. Sample Alpha,Lahore,Psychologist,Paid VC,Completed,2000,No
+A01276,2026-10-07,Dr. Sample Epsilon,Islamabad,Pediatrician,Paid VC,Completed,2000,Yes
+A01277,2026-10-06,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,Completed,2500,Yes
+A01278,2026-10-21,Dr. Sample Alpha,Lahore,Psychologist,Instant VC,Completed,1000,Yes
+A01279,2026-10-10,Dr. Sample Eta,Lahore,General Physician,Paid VC,Completed,2000,Yes
+A01280,2026-10-08,Dr. Sample Eta,Lahore,General Physician,Lab Booking,Completed,1500,Yes
+A01281,2026-11-02,Dr. Sample Theta,Rawalpindi,Dermatologist,Instant VC,Completed,1000,Yes
+A01282,2026-11-05,Dr. Sample Alpha,Lahore,Psychologist,Paid VC,Completed,2500,Yes
+A01283,2026-10-02,Dr. Sample Eta,Lahore,General Physician,Instant VC,Completed,1000,Yes
+A01284,2026-10-27,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,Completed,2000,Yes
+A01285,2026-10-11,Dr. Sample Zeta,Islamabad,Psychologist,Instant VC,Cancelled,1700,
+A01286,2026-10-30,Dr. Sample Theta,Rawalpindi,Dermatologist,Paid VC,No-show,2000,
+A01287,2026-10-31,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,Completed,2000,No
+A01288,2026-10-14,Dr. Sample Zeta,Islamabad,Psychologist,Physical,Completed,2500,Yes
+A01289,2026-11-06,Dr. Sample Gamma,Karachi,Dermatologist,Physical,Completed,2300,No
+A01290,2026-11-05,Dr. Sample Beta,Lahore,Psychologist,Physical,No-show,3000,
+A01291,2026-10-21,Dr. Sample Delta,Karachi,Gynecologist,Instant VC,Cancelled,1200,
+A01292,2026-10-29,Dr. Sample Epsilon,Islamabad,Pediatrician,Lab Booking,Completed,1500,Yes
+A01293,2026-11-08,Dr. Sample Delta,Karachi,Gynecologist,Instant VC,Completed,1200,Yes
+A01294,2026-10-01,Dr. Sample Theta,Rawalpindi,Dermatologist,Paid VC,Completed,2500,No
+A01295,2026-11-11,Dr. Sample Eta,Lahore,General Physician,Instant VC,Completed,1000,No
+A01296,2026-10-25,Dr. Sample Beta,Lahore,Psychologist,Paid VC,Cancelled,2000,
+A01297,2026-10-01,Dr. Sample Eta,Lahore,General Physician,Paid VC,Completed,2000,Yes
+A01298,2026-10-02,Dr. Sample Theta,Rawalpindi,Dermatologist,Paid VC,Completed,2000,Yes
+A01299,2026-11-10,Dr. Sample Beta,Lahore,Psychologist,Physical,Completed,2500,Yes
+A01300,2026-10-03,Dr. Sample Theta,Rawalpindi,Dermatologist,Lab Booking,Completed,1500,Yes
+A01301,2026-11-10,Dr. Sample Delta,Karachi,Gynecologist,Lab Booking,Completed,1500,No
+A01302,2026-11-06,Dr. Sample Gamma,Karachi,Dermatologist,Instant VC,Completed,1200,Yes
+A01303,2026-10-09,Dr. Sample Gamma,Karachi,Dermatologist,Physical,Completed,2500,Yes
+A01304,2026-10-02,Dr. Sample Delta,Karachi,Gynecologist,Physical,No-show,2500,
+A01305,2026-10-28,Dr. Sample Theta,Rawalpindi,Dermatologist,Paid VC,Completed,1800,Yes
+A01306,2026-10-27,Dr. Sample Eta,Lahore,General Physician,Physical,Completed,3000,No
+A01307,2026-10-03,Dr. Sample Zeta,Islamabad,Psychologist,Instant VC,Cancelled,1200,
+A01308,2026-10-27,Dr. Sample Alpha,Lahore,Psychologist,Paid VC,Completed,2000,Yes
+A01309,2026-10-06,Dr. Sample Eta,Lahore,General Physician,Paid VC,Cancelled,1800,
+A01310,2026-10-28,Dr. Sample Delta,Karachi,Gynecologist,Lab Booking,No-show,1500,
+A01311,2026-10-20,Dr. Sample Delta,Karachi,Gynecologist,Paid VC,Completed,1800,Yes
+A01312,2026-10-02,Dr. Sample Theta,Rawalpindi,Dermatologist,Instant VC,Completed,1200,Yes
+A01313,2026-10-16,Dr. Sample Delta,Karachi,Gynecologist,Paid VC,No-show,1800,
+A01314,2026-10-16,Dr. Sample Zeta,Islamabad,Psychologist,Instant VC,No-show,1700,
+A01315,2026-11-07,Dr. Sample Beta,Lahore,Psychologist,Instant VC,Completed,1000,Yes
+A01316,2026-10-05,Dr. Sample Eta,Lahore,General Physician,Paid VC,Cancelled,1800,
+A01317,2026-11-09,Dr. Sample Theta,Rawalpindi,Dermatologist,Paid VC,Completed,1800,Yes
+A01318,2026-10-19,Dr. Sample Alpha,Lahore,Psychologist,Instant VC,Cancelled,1700,
+A01319,2026-10-27,Dr. Sample Beta,Lahore,Psychologist,Instant VC,Completed,1000,No
+A01320,2026-10-28,Dr. Sample Eta,Lahore,General Physician,Instant VC,Cancelled,1000,
+A01321,2026-10-02,Dr. Sample Zeta,Islamabad,Psychologist,Physical,Completed,2500,Yes
+A01322,2026-11-08,Dr. Sample Beta,Lahore,Psychologist,Paid VC,Completed,2000,Yes
+A01323,2026-10-31,Dr. Sample Epsilon,Islamabad,Pediatrician,Paid VC,Completed,2500,Yes
+A01324,2026-10-03,Dr. Sample Delta,Karachi,Gynecologist,Paid VC,Completed,2000,No
+A01325,2026-11-04,Dr. Sample Zeta,Islamabad,Psychologist,Paid VC,Completed,2000,No
+A01326,2026-10-19,Dr. Sample Epsilon,Islamabad,Pediatrician,Instant VC,Completed,1000,Yes
+A01327,2026-11-05,Dr. Sample Alpha,Lahore,Psychologist,Paid VC,Cancelled,2500,
+A01328,2026-10-13,Dr. Sample Zeta,Islamabad,Psychologist,Paid VC,Completed,2000,Yes
+A01329,2026-10-31,Dr. Sample Zeta,Islamabad,Psychologist,Paid VC,Completed,2500,Yes
+A01330,2026-10-27,Dr. Sample Zeta,Islamabad,Psychologist,Instant VC,Completed,1000,No
+A01331,2026-10-01,Dr. Sample Alpha,Lahore,Psychologist,Instant VC,Completed,1200,No
+A01332,2026-10-22,Dr. Sample Delta,Karachi,Gynecologist,Paid VC,Cancelled,2500,
+A01333,2026-10-01,Dr. Sample Delta,Karachi,Gynecologist,Instant VC,Completed,1000,Yes
+A01334,2026-10-10,Dr. Sample Alpha,Lahore,Psychologist,Instant VC,Completed,1200,Yes
+A01335,2026-10-13,Dr. Sample Alpha,Lahore,Psychologist,Lab Booking,Completed,1500,Yes
+A01336,2026-10-22,Dr. Sample Epsilon,Islamabad,Pediatrician,Physical,Cancelled,2500,
+A01337,2026-10-12,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,Cancelled,1800,
+A01338,2026-10-09,Dr. Sample Alpha,Lahore,Psychologist,Physical,Completed,2300,Yes
+A01339,2026-10-16,Dr. Sample Delta,Karachi,Gynecologist,Paid VC,Completed,2000,Yes
+A01340,2026-10-05,Dr. Sample Eta,Lahore,General Physician,Physical,Completed,2500,Yes
+A01341,2026-10-24,Dr. Sample Delta,Karachi,Gynecologist,Instant VC,Completed,1700,Yes
+A01342,2026-11-07,Dr. Sample Alpha,Lahore,Psychologist,Physical,Completed,2500,Yes
+A01343,2026-11-10,Dr. Sample Zeta,Islamabad,Psychologist,Paid VC,Cancelled,2000,
+A01344,2026-10-06,Dr. Sample Theta,Rawalpindi,Dermatologist,Paid VC,Cancelled,1800,
+A01345,2026-11-11,Dr. Sample Gamma,Karachi,Dermatologist,Instant VC,Completed,1200,No
+A01346,2026-10-24,Dr. Sample Theta,Rawalpindi,Dermatologist,Paid VC,Completed,2500,No
+A01347,2026-10-26,Dr. Sample Theta,Rawalpindi,Dermatologist,Paid VC,Completed,1800,Yes
+A01348,2026-10-29,Dr. Sample Delta,Karachi,Gynecologist,Physical,Cancelled,3000,
+A01349,2026-10-25,Dr. Sample Delta,Karachi,Gynecologist,Paid VC,Completed,2000,Yes
+A01350,2026-10-06,Dr. Sample Beta,Lahore,Psychologist,Paid VC,Completed,2000,Yes
+A01351,2026-11-09,Dr. Sample Alpha,Lahore,Psychologist,Instant VC,Completed,1700,No
+A01352,2026-11-01,Dr. Sample Eta,Lahore,General Physician,Instant VC,Completed,1700,Yes
+A01353,2026-10-17,Dr. Sample Gamma,Karachi,Dermatologist,Instant VC,Completed,1200,Yes
+A01354,2026-11-02,Dr. Sample Epsilon,Islamabad,Pediatrician,Physical,Completed,2300,Yes
+A01355,2026-10-05,Dr. Sample Delta,Karachi,Gynecologist,Paid VC,Completed,2000,Yes
+A01356,2026-10-17,Dr. Sample Delta,Karachi,Gynecologist,Physical,Completed,2500,Yes
+A01357,2026-11-04,Dr. Sample Gamma,Karachi,Dermatologist,Lab Booking,No-show,1300,
+A01358,2026-10-23,Dr. Sample Epsilon,Islamabad,Pediatrician,Paid VC,Cancelled,2500,
+A01359,2026-11-11,Dr. Sample Eta,Lahore,General Physician,Physical,Completed,2500,No
+A01360,2026-10-14,Dr. Sample Delta,Karachi,Gynecologist,Paid VC,Completed,2500,No
+A01361,2026-10-21,Dr. Sample Zeta,Islamabad,Psychologist,Physical,Cancelled,3000,
+A01362,2026-10-29,Dr. Sample Eta,Lahore,General Physician,Paid VC,Cancelled,1800,
+A01363,2026-10-09,Dr. Sample Zeta,Islamabad,Psychologist,Paid VC,Completed,1800,No
+A01364,2026-10-27,Dr. Sample Zeta,Islamabad,Psychologist,Paid VC,Completed,2500,Yes
+A01365,2026-11-06,Dr. Sample Zeta,Islamabad,Psychologist,Instant VC,Cancelled,1200,
+A01366,2026-10-22,Dr. Sample Gamma,Karachi,Dermatologist,Lab Booking,Completed,2000,No
+A01367,2026-10-05,Dr. Sample Delta,Karachi,Gynecologist,Lab Booking,Completed,1500,No
+A01368,2026-10-29,Dr. Sample Beta,Lahore,Psychologist,Paid VC,Completed,2000,Yes
+A01369,2026-11-05,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,Completed,2500,Yes
+A01370,2026-10-25,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,Completed,2000,Yes
+A01371,2026-10-24,Dr. Sample Beta,Lahore,Psychologist,Instant VC,Completed,1200,Yes
+A01372,2026-10-08,Dr. Sample Eta,Lahore,General Physician,Paid VC,Completed,2500,No
+A01373,2026-10-14,Dr. Sample Beta,Lahore,Psychologist,Paid VC,Completed,2000,Yes
+A01374,2026-10-31,Dr. Sample Eta,Lahore,General Physician,Physical,Completed,2500,Yes
+A01375,2026-10-01,Dr. Sample Theta,Rawalpindi,Dermatologist,Paid VC,No-show,2500,
+A01376,2026-11-08,Dr. Sample Beta,Lahore,Psychologist,Physical,Cancelled,2500,
+A01377,2026-11-06,Dr. Sample Theta,Rawalpindi,Dermatologist,Instant VC,Completed,1000,Yes
+A01378,2026-10-20,Dr. Sample Theta,Rawalpindi,Dermatologist,Paid VC,Completed,2000,No
+A01379,2026-11-09,Dr. Sample Delta,Karachi,Gynecologist,Paid VC,Completed,2500,No
+A01380,2026-10-07,Dr. Sample Gamma,Karachi,Dermatologist,Physical,Completed,2300,Yes
+A01381,2026-11-10,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,Completed,1800,Yes
+A01382,2026-11-05,Dr. Sample Theta,Rawalpindi,Dermatologist,Instant VC,Completed,1200,Yes
+A01383,2026-10-21,Dr. Sample Beta,Lahore,Psychologist,Instant VC,Completed,1200,Yes
+A01384,2026-10-30,Dr. Sample Delta,Karachi,Gynecologist,Instant VC,Completed,1700,No
+A01385,2026-10-13,Dr. Sample Zeta,Islamabad,Psychologist,Physical,Completed,2300,Yes
+A01386,2026-10-09,Dr. Sample Beta,Lahore,Psychologist,Physical,Completed,3000,No
+A01387,2026-11-05,Dr. Sample Theta,Rawalpindi,Dermatologist,Paid VC,Completed,2500,Yes
+A01388,2026-10-11,Dr. Sample Theta,Rawalpindi,Dermatologist,Physical,Completed,2300,Yes
+A01389,2026-11-04,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,Completed,2000,Yes
+A01390,2026-10-10,Dr. Sample Alpha,Lahore,Psychologist,Physical,Completed,2500,Yes
+A01391,2026-11-04,Dr. Sample Alpha,Lahore,Psychologist,Physical,Completed,2300,Yes
+A01392,2026-10-29,Dr. Sample Eta,Lahore,General Physician,Physical,Completed,2300,Yes
+A01393,2026-10-16,Dr. Sample Eta,Lahore,General Physician,Physical,Completed,2500,Yes
+A01394,2026-10-02,Dr. Sample Beta,Lahore,Psychologist,Paid VC,No-show,2000,
+A01395,2026-10-05,Dr. Sample Delta,Karachi,Gynecologist,Physical,Completed,2300,Yes
+A01396,2026-11-02,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,Completed,2000,Yes
+A01397,2026-11-04,Dr. Sample Delta,Karachi,Gynecologist,Instant VC,Completed,1700,Yes
+A01398,2026-10-23,Dr. Sample Delta,Karachi,Gynecologist,Paid VC,Completed,1800,No
+A01399,2026-10-14,Dr. Sample Zeta,Islamabad,Psychologist,Paid VC,Completed,1800,Yes
+A01400,2026-10-14,Dr. Sample Zeta,Islamabad,Psychologist,Paid VC,Completed,2500,Yes
+A01401,2026-10-07,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,Completed,2500,Yes
+A01402,2026-10-21,Dr. Sample Zeta,Islamabad,Psychologist,Paid VC,No-show,2500,
+A01403,2026-11-08,Dr. Sample Beta,Lahore,Psychologist,Paid VC,No-show,2500,
+A01404,2026-10-15,Dr. Sample Eta,Lahore,General Physician,Instant VC,Completed,1000,Yes
+A01405,2026-10-08,Dr. Sample Alpha,Lahore,Psychologist,Instant VC,Completed,1700,Yes
+A01406,2026-10-24,Dr. Sample Beta,Lahore,Psychologist,Paid VC,Completed,2000,Yes
+A01407,2026-10-03,Dr. Sample Eta,Lahore,General Physician,Paid VC,Completed,2500,Yes
+A01408,2026-11-11,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,Cancelled,1800,
+A01409,2026-10-19,Dr. Sample Eta,Lahore,General Physician,Instant VC,Completed,1200,Yes
+A01410,2026-11-04,Dr. Sample Zeta,Islamabad,Psychologist,Paid VC,Completed,2000,Yes
+A01411,2026-10-12,Dr. Sample Eta,Lahore,General Physician,Instant VC,Completed,1000,Yes
+A01412,2026-10-13,Dr. Sample Theta,Rawalpindi,Dermatologist,Paid VC,Completed,2000,Yes
+A01413,2026-11-07,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,Completed,2000,Yes
+A01414,2026-10-30,Dr. Sample Beta,Lahore,Psychologist,Instant VC,Completed,1200,Yes
+A01415,2026-10-16,Dr. Sample Eta,Lahore,General Physician,Paid VC,Completed,2500,Yes
+A01416,2026-10-31,Dr. Sample Epsilon,Islamabad,Pediatrician,Physical,Completed,2500,No
+A01417,2026-10-29,Dr. Sample Eta,Lahore,General Physician,Paid VC,Completed,2500,Yes
+A01418,2026-10-25,Dr. Sample Theta,Rawalpindi,Dermatologist,Paid VC,Completed,1800,Yes
+A01419,2026-10-12,Dr. Sample Gamma,Karachi,Dermatologist,Instant VC,Completed,1700,Yes
+A01420,2026-11-05,Dr. Sample Theta,Rawalpindi,Dermatologist,Paid VC,Completed,1800,Yes
+A01421,2026-10-13,Dr. Sample Gamma,Karachi,Dermatologist,Physical,Completed,2500,Yes
+A01422,2026-10-24,Dr. Sample Alpha,Lahore,Psychologist,Physical,Completed,3000,No
+A01423,2026-10-20,Dr. Sample Zeta,Islamabad,Psychologist,Paid VC,Completed,1800,No
+A01424,2026-10-08,Dr. Sample Alpha,Lahore,Psychologist,Lab Booking,Completed,1500,Yes
+A01425,2026-10-23,Dr. Sample Eta,Lahore,General Physician,Lab Booking,Completed,2000,Yes
+A01426,2026-10-28,Dr. Sample Alpha,Lahore,Psychologist,Physical,Completed,2500,No
+A01427,2026-10-24,Dr. Sample Alpha,Lahore,Psychologist,Lab Booking,Completed,1300,Yes
+A01428,2026-10-10,Dr. Sample Epsilon,Islamabad,Pediatrician,Instant VC,Completed,1200,Yes
+A01429,2026-11-11,Dr. Sample Beta,Lahore,Psychologist,Physical,Completed,3000,No
+A01430,2026-10-13,Dr. Sample Beta,Lahore,Psychologist,Instant VC,Cancelled,1200,
+A01431,2026-10-20,Dr. Sample Eta,Lahore,General Physician,Paid VC,Completed,2500,Yes
+A01432,2026-10-06,Dr. Sample Eta,Lahore,General Physician,Physical,Completed,2500,Yes
+A01433,2026-10-26,Dr. Sample Epsilon,Islamabad,Pediatrician,Physical,Completed,2300,Yes
+A01434,2026-10-05,Dr. Sample Theta,Rawalpindi,Dermatologist,Paid VC,Completed,2500,No
+A01435,2026-10-11,Dr. Sample Epsilon,Islamabad,Pediatrician,Physical,Completed,2500,Yes
+A01436,2026-11-02,Dr. Sample Delta,Karachi,Gynecologist,Instant VC,No-show,1700,
+A01437,2026-10-04,Dr. Sample Delta,Karachi,Gynecologist,Paid VC,Completed,2000,Yes
+A01438,2026-11-09,Dr. Sample Eta,Lahore,General Physician,Instant VC,Completed,1200,Yes
+A01439,2026-10-08,Dr. Sample Epsilon,Islamabad,Pediatrician,Paid VC,Completed,2000,Yes
+A01440,2026-10-07,Dr. Sample Delta,Karachi,Gynecologist,Instant VC,Completed,1200,Yes
+A01441,2026-11-03,Dr. Sample Alpha,Lahore,Psychologist,Paid VC,Cancelled,2500,
+A01442,2026-10-31,Dr. Sample Epsilon,Islamabad,Pediatrician,Lab Booking,Completed,2000,Yes
+A01443,2026-10-22,Dr. Sample Zeta,Islamabad,Psychologist,Physical,No-show,2500,
+A01444,2026-10-25,Dr. Sample Zeta,Islamabad,Psychologist,Physical,Completed,2500,Yes
+A01445,2026-10-26,Dr. Sample Beta,Lahore,Psychologist,Paid VC,Completed,2000,Yes
+A01446,2026-10-18,Dr. Sample Beta,Lahore,Psychologist,Physical,No-show,2500,
+A01447,2026-10-31,Dr. Sample Zeta,Islamabad,Psychologist,Instant VC,Completed,1200,Yes
+A01448,2026-10-24,Dr. Sample Zeta,Islamabad,Psychologist,Paid VC,Cancelled,2000,
+A01449,2026-11-01,Dr. Sample Theta,Rawalpindi,Dermatologist,Paid VC,Completed,1800,Yes
+A01450,2026-10-31,Dr. Sample Eta,Lahore,General Physician,Lab Booking,No-show,1300,
+A01451,2026-10-13,Dr. Sample Eta,Lahore,General Physician,Paid VC,Completed,1800,Yes
+A01452,2026-10-20,Dr. Sample Theta,Rawalpindi,Dermatologist,Physical,Cancelled,3000,
+A01453,2026-10-08,Dr. Sample Gamma,Karachi,Dermatologist,Physical,Completed,2500,Yes
+A01454,2026-10-06,Dr. Sample Delta,Karachi,Gynecologist,Paid VC,Completed,1800,Yes
+A01455,2026-10-18,Dr. Sample Zeta,Islamabad,Psychologist,Lab Booking,Completed,1500,No
+A01456,2026-11-04,Dr. Sample Beta,Lahore,Psychologist,Physical,Completed,3000,Yes
+A01457,2026-11-06,Dr. Sample Zeta,Islamabad,Psychologist,Physical,Completed,2300,Yes
+A01458,2026-10-25,Dr. Sample Eta,Lahore,General Physician,Lab Booking,Completed,2000,Yes
+A01459,2026-10-19,Dr. Sample Delta,Karachi,Gynecologist,Paid VC,Completed,1800,Yes
+A01460,2026-10-08,Dr. Sample Delta,Karachi,Gynecologist,Physical,Completed,2500,Yes
+A01461,2026-10-01,Dr. Sample Eta,Lahore,General Physician,Instant VC,Completed,1200,No
+A01462,2026-10-24,Dr. Sample Eta,Lahore,General Physician,Paid VC,Cancelled,2000,
+A01463,2026-10-01,Dr. Sample Delta,Karachi,Gynecologist,Paid VC,Completed,2500,Yes
+A01464,2026-10-19,Dr. Sample Gamma,Karachi,Dermatologist,Physical,Cancelled,3000,
+A01465,2026-10-19,Dr. Sample Theta,Rawalpindi,Dermatologist,Paid VC,Completed,1800,Yes
+A01466,2026-10-08,Dr. Sample Epsilon,Islamabad,Pediatrician,Instant VC,Completed,1700,Yes
+A01467,2026-10-25,Dr. Sample Theta,Rawalpindi,Dermatologist,Paid VC,Completed,2000,Yes
+A01468,2026-10-15,Dr. Sample Delta,Karachi,Gynecologist,Physical,Completed,2300,Yes
+A01469,2026-10-20,Dr. Sample Theta,Rawalpindi,Dermatologist,Physical,No-show,2500,
+A01470,2026-10-22,Dr. Sample Alpha,Lahore,Psychologist,Instant VC,Completed,1700,Yes
+A01471,2026-11-03,Dr. Sample Eta,Lahore,General Physician,Paid VC,Completed,2000,Yes
+A01472,2026-10-21,Dr. Sample Eta,Lahore,General Physician,Paid VC,Completed,1800,Yes
+A01473,2026-11-06,Dr. Sample Theta,Rawalpindi,Dermatologist,Physical,Completed,3000,Yes
+A01474,2026-10-13,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,Completed,1800,Yes
+A01475,2026-10-10,Dr. Sample Beta,Lahore,Psychologist,Physical,Completed,3000,Yes
+A01476,2026-10-31,Dr. Sample Alpha,Lahore,Psychologist,Paid VC,Completed,1800,Yes
+A01477,2026-10-10,Dr. Sample Zeta,Islamabad,Psychologist,Instant VC,Completed,1700,Yes
+A01478,2026-10-26,Dr. Sample Alpha,Lahore,Psychologist,Paid VC,Completed,2000,No
+A01479,2026-11-11,Dr. Sample Beta,Lahore,Psychologist,Physical,Completed,3000,Yes
+A01480,2026-10-06,Dr. Sample Alpha,Lahore,Psychologist,Paid VC,Completed,2000,Yes
+A01481,2026-10-07,Dr. Sample Theta,Rawalpindi,Dermatologist,Paid VC,Cancelled,2000,
+A01482,2026-11-11,Dr. Sample Eta,Lahore,General Physician,Instant VC,Completed,1200,Yes
+A01483,2026-11-04,Dr. Sample Beta,Lahore,Psychologist,Paid VC,Completed,1800,No
+A01484,2026-11-07,Dr. Sample Theta,Rawalpindi,Dermatologist,Paid VC,Completed,1800,Yes
+A01485,2026-11-08,Dr. Sample Beta,Lahore,Psychologist,Paid VC,Completed,1800,No
+A01486,2026-10-09,Dr. Sample Zeta,Islamabad,Psychologist,Paid VC,Completed,2000,Yes
+A01487,2026-10-03,Dr. Sample Epsilon,Islamabad,Pediatrician,Physical,Completed,2300,Yes
+A01488,2026-10-11,Dr. Sample Zeta,Islamabad,Psychologist,Lab Booking,Completed,1300,Yes
+A01489,2026-11-03,Dr. Sample Epsilon,Islamabad,Pediatrician,Paid VC,No-show,2000,
+A01490,2026-11-01,Dr. Sample Theta,Rawalpindi,Dermatologist,Paid VC,Completed,2000,Yes
+A01491,2026-10-03,Dr. Sample Beta,Lahore,Psychologist,Physical,Completed,2500,Yes
+A01492,2026-10-14,Dr. Sample Epsilon,Islamabad,Pediatrician,Physical,No-show,2500,
+A01493,2026-11-09,Dr. Sample Zeta,Islamabad,Psychologist,Paid VC,Completed,2000,Yes
+A01494,2026-10-11,Dr. Sample Eta,Lahore,General Physician,Instant VC,Completed,1000,Yes
+A01495,2026-10-10,Dr. Sample Eta,Lahore,General Physician,Lab Booking,Completed,1300,Yes
+A01496,2026-11-06,Dr. Sample Delta,Karachi,Gynecologist,Physical,Completed,2500,No
+A01497,2026-10-28,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,Completed,2000,Yes
+A01498,2026-10-08,Dr. Sample Epsilon,Islamabad,Pediatrician,Paid VC,Completed,2500,Yes
+A01499,2026-10-24,Dr. Sample Zeta,Islamabad,Psychologist,Instant VC,No-show,1200,
+A01500,2026-10-15,Dr. Sample Gamma,Karachi,Dermatologist,Physical,Completed,2300,No
+A01501,2026-10-07,Dr. Sample Delta,Karachi,Gynecologist,Paid VC,Cancelled,1800,
+A01502,2026-10-20,Dr. Sample Gamma,Karachi,Dermatologist,Instant VC,Completed,1700,Yes
+A01503,2026-10-19,Dr. Sample Zeta,Islamabad,Psychologist,Physical,Completed,2300,Yes
+A01504,2026-10-25,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,Completed,2500,No
+A01505,2026-11-02,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,Completed,2000,Yes
+A01506,2026-10-18,Dr. Sample Eta,Lahore,General Physician,Instant VC,Completed,1200,Yes
+A01507,2026-10-12,Dr. Sample Eta,Lahore,General Physician,Physical,Completed,2500,No
+A01508,2026-10-28,Dr. Sample Epsilon,Islamabad,Pediatrician,Paid VC,Completed,2000,Yes
+A01509,2026-10-27,Dr. Sample Beta,Lahore,Psychologist,Lab Booking,Completed,1300,Yes
+A01510,2026-10-06,Dr. Sample Beta,Lahore,Psychologist,Physical,Completed,2300,Yes
+A01511,2026-11-01,Dr. Sample Epsilon,Islamabad,Pediatrician,Instant VC,Cancelled,1000,
+A01512,2026-10-09,Dr. Sample Eta,Lahore,General Physician,Physical,Completed,2300,No
+A01513,2026-10-01,Dr. Sample Alpha,Lahore,Psychologist,Instant VC,Completed,1200,Yes
+A01514,2026-10-11,Dr. Sample Alpha,Lahore,Psychologist,Instant VC,Completed,1200,Yes
+A01515,2026-10-09,Dr. Sample Beta,Lahore,Psychologist,Paid VC,Completed,1800,No
+A01516,2026-10-24,Dr. Sample Theta,Rawalpindi,Dermatologist,Paid VC,No-show,2000,
+A01517,2026-10-08,Dr. Sample Delta,Karachi,Gynecologist,Physical,Completed,3000,Yes
+A01518,2026-11-10,Dr. Sample Epsilon,Islamabad,Pediatrician,Paid VC,Completed,2000,Yes
+A01519,2026-11-09,Dr. Sample Alpha,Lahore,Psychologist,Lab Booking,Cancelled,1300,
+A01520,2026-10-30,Dr. Sample Zeta,Islamabad,Psychologist,Paid VC,Completed,2000,Yes
+A01521,2026-10-12,Dr. Sample Alpha,Lahore,Psychologist,Paid VC,Completed,1800,Yes
+A01522,2026-10-06,Dr. Sample Eta,Lahore,General Physician,Instant VC,Completed,1200,No
+A01523,2026-10-01,Dr. Sample Beta,Lahore,Psychologist,Lab Booking,Completed,1500,Yes
+A01524,2026-10-20,Dr. Sample Theta,Rawalpindi,Dermatologist,Paid VC,Completed,2000,Yes
+A01525,2026-10-29,Dr. Sample Beta,Lahore,Psychologist,Lab Booking,Completed,1500,No
+A01526,2026-10-13,Dr. Sample Alpha,Lahore,Psychologist,Paid VC,Completed,2000,Yes
+A01527,2026-10-22,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,No-show,2000,
+A01528,2026-10-18,Dr. Sample Delta,Karachi,Gynecologist,Lab Booking,Completed,2000,No
+A01529,2026-10-26,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,Completed,2500,Yes
+A01530,2026-10-02,Dr. Sample Beta,Lahore,Psychologist,Lab Booking,Completed,1500,Yes
+A01531,2026-10-22,Dr. Sample Delta,Karachi,Gynecologist,Paid VC,Completed,1800,No
+A01532,2026-11-01,Dr. Sample Theta,Rawalpindi,Dermatologist,Paid VC,Completed,2500,Yes
+A01533,2026-10-12,Dr. Sample Gamma,Karachi,Dermatologist,Physical,Completed,2300,Yes
+A01534,2026-10-28,Dr. Sample Delta,Karachi,Gynecologist,Physical,Completed,2300,Yes
+A01535,2026-11-07,Dr. Sample Delta,Karachi,Gynecologist,Lab Booking,Completed,1500,Yes
+A01536,2026-10-03,Dr. Sample Beta,Lahore,Psychologist,Paid VC,Completed,2000,Yes
+A01537,2026-10-13,Dr. Sample Eta,Lahore,General Physician,Paid VC,Completed,1800,No
+A01538,2026-11-10,Dr. Sample Eta,Lahore,General Physician,Instant VC,No-show,1200,
+A01539,2026-10-04,Dr. Sample Zeta,Islamabad,Psychologist,Instant VC,Completed,1000,Yes
+A01540,2026-10-18,Dr. Sample Beta,Lahore,Psychologist,Paid VC,No-show,2500,
+A01541,2026-10-04,Dr. Sample Delta,Karachi,Gynecologist,Paid VC,Completed,1800,Yes
+A01542,2026-10-31,Dr. Sample Zeta,Islamabad,Psychologist,Paid VC,Completed,1800,No
+A01543,2026-11-01,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,Completed,2000,Yes
+A01544,2026-11-05,Dr. Sample Beta,Lahore,Psychologist,Physical,Completed,2500,Yes
+A01545,2026-10-24,Dr. Sample Zeta,Islamabad,Psychologist,Physical,Completed,2500,Yes
+A01546,2026-10-25,Dr. Sample Epsilon,Islamabad,Pediatrician,Paid VC,Completed,1800,Yes
+A01547,2026-11-11,Dr. Sample Beta,Lahore,Psychologist,Paid VC,Cancelled,2000,
+A01548,2026-10-05,Dr. Sample Theta,Rawalpindi,Dermatologist,Lab Booking,No-show,1500,
+A01549,2026-10-13,Dr. Sample Epsilon,Islamabad,Pediatrician,Physical,Completed,2500,Yes
+A01550,2026-11-05,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,Completed,2000,Yes
+A01551,2026-10-08,Dr. Sample Theta,Rawalpindi,Dermatologist,Instant VC,No-show,1000,
+A01552,2026-11-02,Dr. Sample Theta,Rawalpindi,Dermatologist,Instant VC,Cancelled,1200,
+A01553,2026-10-09,Dr. Sample Epsilon,Islamabad,Pediatrician,Physical,Completed,2300,Yes
+A01554,2026-11-04,Dr. Sample Eta,Lahore,General Physician,Instant VC,Cancelled,1000,
+A01555,2026-11-02,Dr. Sample Gamma,Karachi,Dermatologist,Instant VC,Completed,1700,No
+A01556,2026-10-01,Dr. Sample Epsilon,Islamabad,Pediatrician,Paid VC,Completed,2000,Yes
+A01557,2026-11-03,Dr. Sample Theta,Rawalpindi,Dermatologist,Instant VC,Completed,1200,Yes
+A01558,2026-10-11,Dr. Sample Epsilon,Islamabad,Pediatrician,Instant VC,Completed,1200,Yes
+A01559,2026-10-18,Dr. Sample Alpha,Lahore,Psychologist,Instant VC,No-show,1200,
+A01560,2026-10-16,Dr. Sample Alpha,Lahore,Psychologist,Instant VC,No-show,1200,
+A01561,2026-10-23,Dr. Sample Beta,Lahore,Psychologist,Paid VC,Completed,2000,Yes
+A01562,2026-11-05,Dr. Sample Beta,Lahore,Psychologist,Lab Booking,Completed,1500,No
+A01563,2026-10-04,Dr. Sample Epsilon,Islamabad,Pediatrician,Paid VC,Completed,1800,Yes
+A01564,2026-10-18,Dr. Sample Delta,Karachi,Gynecologist,Physical,Completed,2300,Yes
+A01565,2026-10-17,Dr. Sample Eta,Lahore,General Physician,Lab Booking,Cancelled,1500,
+A01566,2026-10-18,Dr. Sample Theta,Rawalpindi,Dermatologist,Paid VC,Completed,2500,Yes
+A01567,2026-10-28,Dr. Sample Theta,Rawalpindi,Dermatologist,Paid VC,Completed,2500,Yes
+A01568,2026-10-12,Dr. Sample Theta,Rawalpindi,Dermatologist,Paid VC,Cancelled,2000,
+A01569,2026-10-12,Dr. Sample Delta,Karachi,Gynecologist,Instant VC,Completed,1000,Yes
+A01570,2026-10-26,Dr. Sample Gamma,Karachi,Dermatologist,Physical,Completed,2500,Yes
+A01571,2026-10-16,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,Completed,2500,Yes
+A01572,2026-10-01,Dr. Sample Gamma,Karachi,Dermatologist,Physical,Completed,3000,No
+A01573,2026-10-01,Dr. Sample Alpha,Lahore,Psychologist,Paid VC,Completed,1800,Yes
+A01574,2026-10-18,Dr. Sample Delta,Karachi,Gynecologist,Physical,Completed,2300,Yes
+A01575,2026-10-22,Dr. Sample Beta,Lahore,Psychologist,Instant VC,Cancelled,1000,
+A01576,2026-11-06,Dr. Sample Delta,Karachi,Gynecologist,Paid VC,Cancelled,2000,
+A01577,2026-10-10,Dr. Sample Epsilon,Islamabad,Pediatrician,Paid VC,Completed,2000,Yes
+A01578,2026-10-07,Dr. Sample Alpha,Lahore,Psychologist,Physical,Completed,2300,No
+A01579,2026-10-15,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,Completed,2500,No
+A01580,2026-10-19,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,Completed,2500,Yes
+A01581,2026-10-08,Dr. Sample Theta,Rawalpindi,Dermatologist,Paid VC,Completed,2000,Yes
+A01582,2026-10-08,Dr. Sample Beta,Lahore,Psychologist,Instant VC,Completed,1000,Yes
+A01583,2026-11-03,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,Completed,2000,No
+A01584,2026-10-20,Dr. Sample Gamma,Karachi,Dermatologist,Physical,Completed,2500,Yes
+A01585,2026-11-01,Dr. Sample Beta,Lahore,Psychologist,Paid VC,Completed,2000,Yes
+A01586,2026-10-10,Dr. Sample Alpha,Lahore,Psychologist,Physical,Completed,2500,Yes
+A01587,2026-10-31,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,Cancelled,1800,
+A01588,2026-10-18,Dr. Sample Eta,Lahore,General Physician,Lab Booking,Completed,1500,Yes
+A01589,2026-10-23,Dr. Sample Gamma,Karachi,Dermatologist,Physical,Completed,3000,No
+A01590,2026-11-10,Dr. Sample Eta,Lahore,General Physician,Instant VC,Completed,1200,No
+A01591,2026-11-04,Dr. Sample Eta,Lahore,General Physician,Instant VC,Completed,1200,No
+A01592,2026-10-27,Dr. Sample Beta,Lahore,Psychologist,Instant VC,Completed,1200,Yes
+A01593,2026-10-14,Dr. Sample Delta,Karachi,Gynecologist,Paid VC,No-show,1800,
+A01594,2026-10-09,Dr. Sample Zeta,Islamabad,Psychologist,Instant VC,No-show,1000,
+A01595,2026-10-09,Dr. Sample Zeta,Islamabad,Psychologist,Paid VC,Completed,2000,No
+A01596,2026-10-15,Dr. Sample Delta,Karachi,Gynecologist,Paid VC,Completed,2000,Yes
+A01597,2026-10-02,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,Completed,2500,Yes
+A01598,2026-11-07,Dr. Sample Alpha,Lahore,Psychologist,Physical,Completed,2500,Yes
+A01599,2026-10-06,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,Completed,1800,No
+A01600,2026-10-31,Dr. Sample Gamma,Karachi,Dermatologist,Physical,Completed,2500,No
+A01601,2026-10-29,Dr. Sample Eta,Lahore,General Physician,Physical,Cancelled,2300,
+A01602,2026-10-04,Dr. Sample Epsilon,Islamabad,Pediatrician,Paid VC,Cancelled,1800,
+A01603,2026-10-01,Dr. Sample Gamma,Karachi,Dermatologist,Instant VC,Completed,1700,No
+A01604,2026-11-02,Dr. Sample Epsilon,Islamabad,Pediatrician,Lab Booking,Completed,1500,No
+A01605,2026-10-06,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,Completed,2000,Yes
+A01606,2026-10-15,Dr. Sample Eta,Lahore,General Physician,Instant VC,Completed,1000,No
+A01607,2026-11-11,Dr. Sample Theta,Rawalpindi,Dermatologist,Paid VC,Completed,2500,Yes
+A01608,2026-11-11,Dr. Sample Alpha,Lahore,Psychologist,Physical,Completed,2500,Yes
+A01609,2026-11-08,Dr. Sample Beta,Lahore,Psychologist,Paid VC,Completed,2000,Yes
+A01610,2026-11-04,Dr. Sample Delta,Karachi,Gynecologist,Paid VC,Completed,2000,Yes
+A01611,2026-10-13,Dr. Sample Epsilon,Islamabad,Pediatrician,Paid VC,Completed,1800,Yes
+A01612,2026-11-06,Dr. Sample Epsilon,Islamabad,Pediatrician,Paid VC,Completed,2500,Yes
+A01613,2026-10-20,Dr. Sample Alpha,Lahore,Psychologist,Paid VC,Completed,2000,Yes
+A01614,2026-10-21,Dr. Sample Eta,Lahore,General Physician,Instant VC,Completed,1200,Yes
+A01615,2026-11-02,Dr. Sample Beta,Lahore,Psychologist,Paid VC,Completed,2000,Yes
+A01616,2026-10-03,Dr. Sample Eta,Lahore,General Physician,Instant VC,Completed,1200,No
+A01617,2026-10-06,Dr. Sample Beta,Lahore,Psychologist,Physical,No-show,2500,
+A01618,2026-11-11,Dr. Sample Delta,Karachi,Gynecologist,Physical,Completed,2500,Yes
+A01619,2026-10-22,Dr. Sample Theta,Rawalpindi,Dermatologist,Physical,Completed,3000,Yes
+A01620,2026-11-09,Dr. Sample Eta,Lahore,General Physician,Paid VC,Completed,2000,No
+A01621,2026-10-10,Dr. Sample Beta,Lahore,Psychologist,Physical,Completed,2500,Yes
+A01622,2026-10-21,Dr. Sample Theta,Rawalpindi,Dermatologist,Paid VC,Completed,2000,Yes
+A01623,2026-10-24,Dr. Sample Beta,Lahore,Psychologist,Paid VC,Completed,1800,Yes
+A01624,2026-10-31,Dr. Sample Theta,Rawalpindi,Dermatologist,Paid VC,No-show,2500,
+A01625,2026-11-06,Dr. Sample Gamma,Karachi,Dermatologist,Lab Booking,Completed,1500,Yes
+A01626,2026-11-09,Dr. Sample Eta,Lahore,General Physician,Instant VC,No-show,1200,
+A01627,2026-11-09,Dr. Sample Theta,Rawalpindi,Dermatologist,Paid VC,No-show,2000,
+A01628,2026-11-02,Dr. Sample Beta,Lahore,Psychologist,Physical,Completed,2300,Yes
+A01629,2026-11-05,Dr. Sample Delta,Karachi,Gynecologist,Physical,Completed,2300,Yes
+A01630,2026-10-26,Dr. Sample Eta,Lahore,General Physician,Paid VC,Cancelled,2000,
+A01631,2026-10-06,Dr. Sample Eta,Lahore,General Physician,Physical,Completed,3000,No
+A01632,2026-10-07,Dr. Sample Beta,Lahore,Psychologist,Paid VC,No-show,2500,
+A01633,2026-10-22,Dr. Sample Eta,Lahore,General Physician,Paid VC,Completed,2000,No
+A01634,2026-10-31,Dr. Sample Delta,Karachi,Gynecologist,Physical,Completed,3000,Yes
+A01635,2026-10-10,Dr. Sample Gamma,Karachi,Dermatologist,Lab Booking,Completed,1500,Yes
+A01636,2026-10-24,Dr. Sample Eta,Lahore,General Physician,Paid VC,Cancelled,2500,
+A01637,2026-10-02,Dr. Sample Delta,Karachi,Gynecologist,Paid VC,No-show,2500,
+A01638,2026-10-12,Dr. Sample Epsilon,Islamabad,Pediatrician,Paid VC,Completed,1800,Yes
+A01639,2026-10-29,Dr. Sample Eta,Lahore,General Physician,Paid VC,Cancelled,2000,
+A01640,2026-10-04,Dr. Sample Epsilon,Islamabad,Pediatrician,Paid VC,Completed,2500,Yes
+A01641,2026-10-23,Dr. Sample Epsilon,Islamabad,Pediatrician,Paid VC,No-show,2500,
+A01642,2026-10-11,Dr. Sample Theta,Rawalpindi,Dermatologist,Instant VC,No-show,1700,
+A01643,2026-11-06,Dr. Sample Zeta,Islamabad,Psychologist,Lab Booking,Completed,1300,Yes
+A01644,2026-11-07,Dr. Sample Beta,Lahore,Psychologist,Physical,Completed,2500,Yes
+A01645,2026-10-30,Dr. Sample Alpha,Lahore,Psychologist,Paid VC,No-show,2500,
+A01646,2026-10-27,Dr. Sample Zeta,Islamabad,Psychologist,Paid VC,Completed,1800,No
+A01647,2026-11-10,Dr. Sample Gamma,Karachi,Dermatologist,Instant VC,No-show,1000,
+A01648,2026-10-13,Dr. Sample Alpha,Lahore,Psychologist,Paid VC,Completed,2000,No
+A01649,2026-10-13,Dr. Sample Delta,Karachi,Gynecologist,Paid VC,No-show,1800,
+A01650,2026-10-02,Dr. Sample Zeta,Islamabad,Psychologist,Physical,Completed,2500,Yes
+A01651,2026-10-30,Dr. Sample Theta,Rawalpindi,Dermatologist,Instant VC,Completed,1200,Yes
+A01652,2026-10-22,Dr. Sample Eta,Lahore,General Physician,Instant VC,Completed,1200,No
+A01653,2026-11-05,Dr. Sample Eta,Lahore,General Physician,Paid VC,Completed,2500,No
+A01654,2026-10-28,Dr. Sample Epsilon,Islamabad,Pediatrician,Physical,Completed,2300,Yes
+A01655,2026-10-02,Dr. Sample Beta,Lahore,Psychologist,Paid VC,Completed,2500,Yes
+A01656,2026-11-09,Dr. Sample Theta,Rawalpindi,Dermatologist,Physical,No-show,2300,
+A01657,2026-10-03,Dr. Sample Theta,Rawalpindi,Dermatologist,Instant VC,Completed,1700,Yes
+A01658,2026-11-05,Dr. Sample Delta,Karachi,Gynecologist,Physical,Completed,2500,No
+A01659,2026-10-30,Dr. Sample Beta,Lahore,Psychologist,Paid VC,Completed,2500,Yes
+A01660,2026-11-02,Dr. Sample Zeta,Islamabad,Psychologist,Physical,Completed,2500,Yes
+A01661,2026-10-01,Dr. Sample Eta,Lahore,General Physician,Physical,No-show,3000,
+A01662,2026-10-10,Dr. Sample Alpha,Lahore,Psychologist,Paid VC,Cancelled,2000,
+A01663,2026-11-06,Dr. Sample Zeta,Islamabad,Psychologist,Paid VC,No-show,2000,
+A01664,2026-11-11,Dr. Sample Eta,Lahore,General Physician,Paid VC,Completed,1800,No
+A01665,2026-10-25,Dr. Sample Gamma,Karachi,Dermatologist,Lab Booking,No-show,1500,
+A01666,2026-11-03,Dr. Sample Eta,Lahore,General Physician,Lab Booking,Completed,1500,Yes
+A01667,2026-11-10,Dr. Sample Gamma,Karachi,Dermatologist,Instant VC,Completed,1700,Yes
+A01668,2026-10-14,Dr. Sample Gamma,Karachi,Dermatologist,Lab Booking,Completed,1300,No
+A01669,2026-11-07,Dr. Sample Alpha,Lahore,Psychologist,Instant VC,Completed,1000,No
+A01670,2026-10-09,Dr. Sample Alpha,Lahore,Psychologist,Physical,No-show,2500,
+A01671,2026-10-15,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,Completed,2000,No
+A01672,2026-10-18,Dr. Sample Epsilon,Islamabad,Pediatrician,Physical,Completed,2500,Yes
+A01673,2026-11-08,Dr. Sample Beta,Lahore,Psychologist,Paid VC,Completed,2000,Yes
+A01674,2026-10-06,Dr. Sample Epsilon,Islamabad,Pediatrician,Physical,Completed,2500,Yes
+A01675,2026-10-02,Dr. Sample Eta,Lahore,General Physician,Paid VC,Completed,2500,Yes
+A01676,2026-10-25,Dr. Sample Delta,Karachi,Gynecologist,Physical,Cancelled,3000,
+A01677,2026-10-01,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,No-show,1800,
+A01678,2026-10-23,Dr. Sample Beta,Lahore,Psychologist,Lab Booking,Completed,1300,Yes
+A01679,2026-10-13,Dr. Sample Epsilon,Islamabad,Pediatrician,Lab Booking,Completed,1300,Yes
+A01680,2026-10-08,Dr. Sample Delta,Karachi,Gynecologist,Physical,Cancelled,2300,
+A01681,2026-10-06,Dr. Sample Zeta,Islamabad,Psychologist,Paid VC,Completed,2000,Yes
+A01682,2026-10-06,Dr. Sample Epsilon,Islamabad,Pediatrician,Instant VC,Completed,1200,No
+A01683,2026-10-26,Dr. Sample Theta,Rawalpindi,Dermatologist,Instant VC,No-show,1200,
+A01684,2026-10-18,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,No-show,1800,
+A01685,2026-10-14,Dr. Sample Epsilon,Islamabad,Pediatrician,Paid VC,No-show,2500,
+A01686,2026-10-28,Dr. Sample Eta,Lahore,General Physician,Physical,Completed,2500,Yes
+A01687,2026-10-28,Dr. Sample Beta,Lahore,Psychologist,Instant VC,Completed,1200,Yes
+A01688,2026-10-03,Dr. Sample Beta,Lahore,Psychologist,Instant VC,No-show,1200,
+A01689,2026-11-11,Dr. Sample Eta,Lahore,General Physician,Paid VC,No-show,2000,
+A01690,2026-10-12,Dr. Sample Eta,Lahore,General Physician,Paid VC,Cancelled,2500,
+A01691,2026-10-05,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,Completed,2000,Yes
+A01692,2026-10-08,Dr. Sample Gamma,Karachi,Dermatologist,Physical,Completed,2300,Yes
+A01693,2026-10-21,Dr. Sample Delta,Karachi,Gynecologist,Instant VC,Cancelled,1000,
+A01694,2026-10-14,Dr. Sample Eta,Lahore,General Physician,Paid VC,Completed,1800,Yes
+A01695,2026-11-11,Dr. Sample Beta,Lahore,Psychologist,Instant VC,Completed,1700,Yes
+A01696,2026-10-04,Dr. Sample Zeta,Islamabad,Psychologist,Paid VC,Cancelled,2500,
+A01697,2026-10-27,Dr. Sample Alpha,Lahore,Psychologist,Lab Booking,Completed,2000,Yes
+A01698,2026-10-16,Dr. Sample Zeta,Islamabad,Psychologist,Instant VC,Completed,1200,Yes
+A01699,2026-10-19,Dr. Sample Alpha,Lahore,Psychologist,Lab Booking,Completed,2000,Yes
+A01700,2026-10-02,Dr. Sample Alpha,Lahore,Psychologist,Paid VC,Completed,1800,No
+A01701,2026-10-23,Dr. Sample Epsilon,Islamabad,Pediatrician,Paid VC,Completed,2000,No
+A01702,2026-10-30,Dr. Sample Alpha,Lahore,Psychologist,Paid VC,Completed,1800,Yes
+A01703,2026-10-04,Dr. Sample Beta,Lahore,Psychologist,Paid VC,Cancelled,2000,
+A01704,2026-10-28,Dr. Sample Beta,Lahore,Psychologist,Lab Booking,Completed,1300,Yes
+A01705,2026-11-04,Dr. Sample Zeta,Islamabad,Psychologist,Physical,No-show,2300,
+A01706,2026-10-03,Dr. Sample Epsilon,Islamabad,Pediatrician,Physical,Completed,2500,Yes
+A01707,2026-11-09,Dr. Sample Epsilon,Islamabad,Pediatrician,Paid VC,Cancelled,2500,
+A01708,2026-10-09,Dr. Sample Epsilon,Islamabad,Pediatrician,Physical,Completed,2300,Yes
+A01709,2026-11-07,Dr. Sample Zeta,Islamabad,Psychologist,Physical,Cancelled,3000,
+A01710,2026-11-03,Dr. Sample Theta,Rawalpindi,Dermatologist,Physical,Completed,3000,No
+A01711,2026-10-31,Dr. Sample Epsilon,Islamabad,Pediatrician,Paid VC,Completed,2000,Yes
+A01712,2026-10-16,Dr. Sample Beta,Lahore,Psychologist,Paid VC,Completed,2000,Yes
+A01713,2026-10-04,Dr. Sample Beta,Lahore,Psychologist,Lab Booking,Completed,1500,No
+A01714,2026-10-07,Dr. Sample Eta,Lahore,General Physician,Paid VC,Completed,2000,Yes
+A01715,2026-11-02,Dr. Sample Theta,Rawalpindi,Dermatologist,Physical,Completed,2500,Yes
+A01716,2026-10-29,Dr. Sample Zeta,Islamabad,Psychologist,Paid VC,Cancelled,2000,
+A01717,2026-10-18,Dr. Sample Eta,Lahore,General Physician,Paid VC,Completed,2000,Yes
+A01718,2026-10-07,Dr. Sample Gamma,Karachi,Dermatologist,Instant VC,Completed,1200,Yes
+A01719,2026-10-02,Dr. Sample Theta,Rawalpindi,Dermatologist,Paid VC,Completed,2500,Yes
+A01720,2026-11-05,Dr. Sample Epsilon,Islamabad,Pediatrician,Paid VC,Completed,2500,Yes
+A01721,2026-10-28,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,Completed,1800,No
+A01722,2026-10-04,Dr. Sample Epsilon,Islamabad,Pediatrician,Paid VC,Completed,2500,Yes
+A01723,2026-10-12,Dr. Sample Epsilon,Islamabad,Pediatrician,Paid VC,Completed,2500,No
+A01724,2026-11-11,Dr. Sample Beta,Lahore,Psychologist,Physical,Completed,2300,Yes
+A01725,2026-10-03,Dr. Sample Beta,Lahore,Psychologist,Paid VC,Completed,2000,Yes
+A01726,2026-11-09,Dr. Sample Beta,Lahore,Psychologist,Paid VC,Completed,2500,No
+A01727,2026-10-18,Dr. Sample Eta,Lahore,General Physician,Paid VC,Completed,2000,Yes
+A01728,2026-11-08,Dr. Sample Zeta,Islamabad,Psychologist,Instant VC,Completed,1000,Yes
+A01729,2026-11-09,Dr. Sample Gamma,Karachi,Dermatologist,Instant VC,Completed,1200,Yes
+A01730,2026-10-05,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,Completed,2000,No
+A01731,2026-10-31,Dr. Sample Gamma,Karachi,Dermatologist,Lab Booking,Completed,1300,Yes
+A01732,2026-10-11,Dr. Sample Epsilon,Islamabad,Pediatrician,Physical,Completed,2300,Yes
+A01733,2026-11-01,Dr. Sample Theta,Rawalpindi,Dermatologist,Instant VC,Cancelled,1700,
+A01734,2026-10-02,Dr. Sample Beta,Lahore,Psychologist,Paid VC,Completed,2000,Yes
+A01735,2026-10-07,Dr. Sample Gamma,Karachi,Dermatologist,Physical,Completed,2500,No
+A01736,2026-11-04,Dr. Sample Theta,Rawalpindi,Dermatologist,Physical,Completed,3000,Yes
+A01737,2026-10-23,Dr. Sample Zeta,Islamabad,Psychologist,Instant VC,Completed,1200,No
+A01738,2026-11-03,Dr. Sample Beta,Lahore,Psychologist,Paid VC,Completed,1800,Yes
+A01739,2026-10-10,Dr. Sample Eta,Lahore,General Physician,Physical,Completed,2300,Yes
+A01740,2026-10-06,Dr. Sample Eta,Lahore,General Physician,Paid VC,Completed,2500,Yes
+A01741,2026-11-04,Dr. Sample Epsilon,Islamabad,Pediatrician,Physical,Cancelled,3000,
+A01742,2026-10-23,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,Cancelled,2500,
+A01743,2026-10-18,Dr. Sample Eta,Lahore,General Physician,Lab Booking,Completed,1300,Yes
+A01744,2026-10-30,Dr. Sample Beta,Lahore,Psychologist,Instant VC,Completed,1200,Yes
+A01745,2026-11-01,Dr. Sample Beta,Lahore,Psychologist,Lab Booking,No-show,1500,
+A01746,2026-11-03,Dr. Sample Theta,Rawalpindi,Dermatologist,Physical,No-show,2500,
+A01747,2026-10-05,Dr. Sample Epsilon,Islamabad,Pediatrician,Instant VC,Cancelled,1000,
+A01748,2026-10-19,Dr. Sample Theta,Rawalpindi,Dermatologist,Paid VC,Cancelled,1800,
+A01749,2026-10-01,Dr. Sample Alpha,Lahore,Psychologist,Instant VC,Completed,1000,Yes
+A01750,2026-10-19,Dr. Sample Epsilon,Islamabad,Pediatrician,Paid VC,Cancelled,2000,
+A01751,2026-10-10,Dr. Sample Beta,Lahore,Psychologist,Physical,No-show,2500,
+A01752,2026-10-06,Dr. Sample Eta,Lahore,General Physician,Instant VC,Completed,1000,No
+A01753,2026-11-10,Dr. Sample Zeta,Islamabad,Psychologist,Paid VC,Completed,2500,Yes
+A01754,2026-11-08,Dr. Sample Epsilon,Islamabad,Pediatrician,Lab Booking,Completed,2000,Yes
+A01755,2026-10-13,Dr. Sample Gamma,Karachi,Dermatologist,Physical,Completed,3000,Yes
+A01756,2026-10-20,Dr. Sample Epsilon,Islamabad,Pediatrician,Paid VC,Completed,2500,Yes
+A01757,2026-10-28,Dr. Sample Eta,Lahore,General Physician,Physical,Completed,3000,Yes
+A01758,2026-10-28,Dr. Sample Zeta,Islamabad,Psychologist,Instant VC,Completed,1700,No
+A01759,2026-10-02,Dr. Sample Alpha,Lahore,Psychologist,Lab Booking,No-show,2000,
+A01760,2026-11-09,Dr. Sample Beta,Lahore,Psychologist,Physical,No-show,2500,
+A01761,2026-11-04,Dr. Sample Zeta,Islamabad,Psychologist,Paid VC,Cancelled,2000,
+A01762,2026-10-26,Dr. Sample Alpha,Lahore,Psychologist,Physical,Completed,2300,No
+A01763,2026-10-06,Dr. Sample Theta,Rawalpindi,Dermatologist,Physical,Completed,2300,Yes
+A01764,2026-11-06,Dr. Sample Beta,Lahore,Psychologist,Physical,Completed,2500,Yes
+A01765,2026-11-02,Dr. Sample Beta,Lahore,Psychologist,Physical,Completed,2300,Yes
+A01766,2026-11-01,Dr. Sample Gamma,Karachi,Dermatologist,Instant VC,Completed,1200,Yes
+A01767,2026-10-01,Dr. Sample Epsilon,Islamabad,Pediatrician,Physical,Cancelled,2500,
+A01768,2026-10-10,Dr. Sample Beta,Lahore,Psychologist,Paid VC,Completed,1800,Yes
+A01769,2026-10-31,Dr. Sample Delta,Karachi,Gynecologist,Paid VC,Completed,2500,No
+A01770,2026-10-20,Dr. Sample Alpha,Lahore,Psychologist,Lab Booking,Completed,1500,Yes
+A01771,2026-10-29,Dr. Sample Epsilon,Islamabad,Pediatrician,Physical,Cancelled,2300,
+A01772,2026-10-02,Dr. Sample Eta,Lahore,General Physician,Paid VC,Completed,2000,Yes
+A01773,2026-10-19,Dr. Sample Delta,Karachi,Gynecologist,Instant VC,Completed,1000,No
+A01774,2026-10-26,Dr. Sample Zeta,Islamabad,Psychologist,Physical,Completed,2300,No
+A01775,2026-10-10,Dr. Sample Eta,Lahore,General Physician,Physical,Completed,3000,Yes
+A01776,2026-10-20,Dr. Sample Eta,Lahore,General Physician,Paid VC,Completed,2500,Yes
+A01777,2026-10-30,Dr. Sample Zeta,Islamabad,Psychologist,Lab Booking,Cancelled,2000,
+A01778,2026-10-11,Dr. Sample Epsilon,Islamabad,Pediatrician,Paid VC,Completed,2000,Yes
+A01779,2026-10-12,Dr. Sample Eta,Lahore,General Physician,Instant VC,Completed,1200,Yes
+A01780,2026-10-09,Dr. Sample Theta,Rawalpindi,Dermatologist,Physical,Completed,2500,No
+A01781,2026-11-11,Dr. Sample Beta,Lahore,Psychologist,Lab Booking,Completed,2000,Yes
+A01782,2026-10-21,Dr. Sample Epsilon,Islamabad,Pediatrician,Paid VC,Completed,2000,No
+A01783,2026-10-11,Dr. Sample Beta,Lahore,Psychologist,Paid VC,Completed,1800,No
+A01784,2026-10-15,Dr. Sample Theta,Rawalpindi,Dermatologist,Paid VC,No-show,2000,
+A01785,2026-10-12,Dr. Sample Beta,Lahore,Psychologist,Physical,Completed,3000,No
+A01786,2026-10-17,Dr. Sample Beta,Lahore,Psychologist,Paid VC,Completed,1800,No
+A01787,2026-10-02,Dr. Sample Zeta,Islamabad,Psychologist,Instant VC,No-show,1200,
+A01788,2026-10-25,Dr. Sample Beta,Lahore,Psychologist,Physical,Completed,2500,Yes
+A01789,2026-10-19,Dr. Sample Epsilon,Islamabad,Pediatrician,Instant VC,Completed,1200,No
+A01790,2026-10-02,Dr. Sample Delta,Karachi,Gynecologist,Paid VC,Completed,1800,Yes
+A01791,2026-10-01,Dr. Sample Alpha,Lahore,Psychologist,Physical,Completed,3000,Yes
+A01792,2026-11-11,Dr. Sample Zeta,Islamabad,Psychologist,Paid VC,Completed,2000,Yes
+A01793,2026-10-23,Dr. Sample Theta,Rawalpindi,Dermatologist,Instant VC,Completed,1200,Yes
+A01794,2026-10-25,Dr. Sample Theta,Rawalpindi,Dermatologist,Instant VC,Cancelled,1000,
+A01795,2026-10-20,Dr. Sample Gamma,Karachi,Dermatologist,Physical,Completed,3000,Yes
+A01796,2026-10-22,Dr. Sample Alpha,Lahore,Psychologist,Instant VC,Completed,1200,Yes
+A01797,2026-10-05,Dr. Sample Eta,Lahore,General Physician,Physical,Cancelled,2500,
+A01798,2026-11-06,Dr. Sample Epsilon,Islamabad,Pediatrician,Paid VC,Completed,2000,No
+A01799,2026-10-08,Dr. Sample Alpha,Lahore,Psychologist,Instant VC,Completed,1200,Yes
+A01800,2026-10-17,Dr. Sample Alpha,Lahore,Psychologist,Paid VC,Completed,1800,Yes
+A01801,2026-10-22,Dr. Sample Delta,Karachi,Gynecologist,Instant VC,No-show,1000,
+A01802,2026-11-06,Dr. Sample Delta,Karachi,Gynecologist,Instant VC,No-show,1000,
+A01803,2026-10-27,Dr. Sample Zeta,Islamabad,Psychologist,Lab Booking,Completed,1300,No
+A01804,2026-10-03,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,Completed,2500,Yes
+A01805,2026-10-20,Dr. Sample Zeta,Islamabad,Psychologist,Instant VC,Cancelled,1200,
+A01806,2026-10-02,Dr. Sample Alpha,Lahore,Psychologist,Lab Booking,Completed,1500,No
+A01807,2026-10-04,Dr. Sample Alpha,Lahore,Psychologist,Instant VC,Completed,1700,Yes
+A01808,2026-11-05,Dr. Sample Eta,Lahore,General Physician,Physical,Completed,3000,Yes
+A01809,2026-10-22,Dr. Sample Zeta,Islamabad,Psychologist,Paid VC,Completed,1800,Yes
+A01810,2026-10-01,Dr. Sample Delta,Karachi,Gynecologist,Paid VC,Completed,1800,Yes
+A01811,2026-10-05,Dr. Sample Delta,Karachi,Gynecologist,Physical,Completed,3000,Yes
+A01812,2026-10-23,Dr. Sample Epsilon,Islamabad,Pediatrician,Paid VC,Completed,2000,Yes
+A01813,2026-10-31,Dr. Sample Gamma,Karachi,Dermatologist,Instant VC,Completed,1000,Yes
+A01814,2026-10-14,Dr. Sample Epsilon,Islamabad,Pediatrician,Lab Booking,Completed,1500,Yes
+A01815,2026-10-24,Dr. Sample Theta,Rawalpindi,Dermatologist,Physical,Cancelled,2500,
+A01816,2026-10-18,Dr. Sample Delta,Karachi,Gynecologist,Instant VC,Completed,1000,Yes
+A01817,2026-11-09,Dr. Sample Zeta,Islamabad,Psychologist,Lab Booking,Completed,1300,Yes
+A01818,2026-11-03,Dr. Sample Gamma,Karachi,Dermatologist,Physical,Completed,2500,Yes
+A01819,2026-10-10,Dr. Sample Zeta,Islamabad,Psychologist,Physical,Completed,2500,No
+A01820,2026-10-02,Dr. Sample Theta,Rawalpindi,Dermatologist,Lab Booking,Completed,1300,Yes
+A01821,2026-10-20,Dr. Sample Epsilon,Islamabad,Pediatrician,Instant VC,Cancelled,1000,
+A01822,2026-11-09,Dr. Sample Alpha,Lahore,Psychologist,Paid VC,Completed,1800,No
+A01823,2026-10-15,Dr. Sample Eta,Lahore,General Physician,Instant VC,Completed,1200,No
+A01824,2026-10-03,Dr. Sample Alpha,Lahore,Psychologist,Physical,Completed,2500,Yes
+A01825,2026-10-17,Dr. Sample Zeta,Islamabad,Psychologist,Lab Booking,Cancelled,1500,
+A01826,2026-11-09,Dr. Sample Alpha,Lahore,Psychologist,Paid VC,Completed,2500,Yes
+A01827,2026-10-19,Dr. Sample Beta,Lahore,Psychologist,Instant VC,Cancelled,1700,
+A01828,2026-11-06,Dr. Sample Eta,Lahore,General Physician,Instant VC,Completed,1200,Yes
+A01829,2026-10-16,Dr. Sample Eta,Lahore,General Physician,Instant VC,Completed,1000,Yes
+A01830,2026-10-16,Dr. Sample Epsilon,Islamabad,Pediatrician,Paid VC,Completed,2000,Yes
+A01831,2026-10-18,Dr. Sample Eta,Lahore,General Physician,Paid VC,Completed,2000,Yes
+A01832,2026-10-21,Dr. Sample Beta,Lahore,Psychologist,Paid VC,Cancelled,2000,
+A01833,2026-10-29,Dr. Sample Theta,Rawalpindi,Dermatologist,Instant VC,Completed,1000,Yes
+A01834,2026-11-05,Dr. Sample Theta,Rawalpindi,Dermatologist,Instant VC,Completed,1000,Yes
+A01835,2026-11-05,Dr. Sample Epsilon,Islamabad,Pediatrician,Physical,Completed,2300,No
+A01836,2026-10-18,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,Completed,2500,Yes
+A01837,2026-10-10,Dr. Sample Delta,Karachi,Gynecologist,Instant VC,Cancelled,1000,
+A01838,2026-10-03,Dr. Sample Delta,Karachi,Gynecologist,Paid VC,Completed,2500,Yes
+A01839,2026-10-15,Dr. Sample Alpha,Lahore,Psychologist,Instant VC,Completed,1200,Yes
+A01840,2026-10-23,Dr. Sample Alpha,Lahore,Psychologist,Physical,Completed,2300,Yes
+A01841,2026-11-02,Dr. Sample Zeta,Islamabad,Psychologist,Paid VC,Completed,1800,Yes
+A01842,2026-10-24,Dr. Sample Delta,Karachi,Gynecologist,Paid VC,Cancelled,2500,
+A01843,2026-10-19,Dr. Sample Beta,Lahore,Psychologist,Instant VC,Completed,1200,Yes
+A01844,2026-11-11,Dr. Sample Zeta,Islamabad,Psychologist,Lab Booking,Completed,1500,Yes
+A01845,2026-10-19,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,No-show,1800,
+A01846,2026-10-21,Dr. Sample Beta,Lahore,Psychologist,Instant VC,Completed,1200,Yes
+A01847,2026-10-03,Dr. Sample Eta,Lahore,General Physician,Physical,Completed,2500,No
+A01848,2026-10-15,Dr. Sample Beta,Lahore,Psychologist,Lab Booking,Completed,2000,Yes
+A01849,2026-11-03,Dr. Sample Alpha,Lahore,Psychologist,Instant VC,Completed,1200,Yes
+A01850,2026-10-19,Dr. Sample Delta,Karachi,Gynecologist,Physical,No-show,2500,
+A01851,2026-10-24,Dr. Sample Delta,Karachi,Gynecologist,Physical,Completed,2500,Yes
+A01852,2026-10-27,Dr. Sample Delta,Karachi,Gynecologist,Instant VC,Completed,1200,Yes
+A01853,2026-11-08,Dr. Sample Zeta,Islamabad,Psychologist,Physical,Completed,3000,Yes
+A01854,2026-10-16,Dr. Sample Gamma,Karachi,Dermatologist,Lab Booking,Completed,2000,Yes
+A01855,2026-10-22,Dr. Sample Epsilon,Islamabad,Pediatrician,Physical,Completed,2300,No
+A01856,2026-10-10,Dr. Sample Eta,Lahore,General Physician,Instant VC,Completed,1200,Yes
+A01857,2026-10-08,Dr. Sample Theta,Rawalpindi,Dermatologist,Paid VC,Completed,2500,Yes
+A01858,2026-10-28,Dr. Sample Gamma,Karachi,Dermatologist,Physical,Completed,2500,Yes
+A01859,2026-11-03,Dr. Sample Gamma,Karachi,Dermatologist,Instant VC,No-show,1700,
+A01860,2026-11-05,Dr. Sample Zeta,Islamabad,Psychologist,Paid VC,Completed,2000,Yes
+A01861,2026-10-22,Dr. Sample Zeta,Islamabad,Psychologist,Physical,Completed,2300,Yes
+A01862,2026-10-23,Dr. Sample Beta,Lahore,Psychologist,Physical,No-show,3000,
+A01863,2026-10-28,Dr. Sample Theta,Rawalpindi,Dermatologist,Physical,Completed,3000,Yes
+A01864,2026-11-07,Dr. Sample Gamma,Karachi,Dermatologist,Physical,No-show,2300,
+A01865,2026-11-07,Dr. Sample Gamma,Karachi,Dermatologist,Physical,Completed,3000,No
+A01866,2026-11-02,Dr. Sample Zeta,Islamabad,Psychologist,Instant VC,Completed,1200,Yes
+A01867,2026-10-22,Dr. Sample Delta,Karachi,Gynecologist,Paid VC,Completed,2500,Yes
+A01868,2026-10-12,Dr. Sample Zeta,Islamabad,Psychologist,Paid VC,No-show,1800,
+A01869,2026-10-18,Dr. Sample Delta,Karachi,Gynecologist,Instant VC,Completed,1200,Yes
+A01870,2026-10-08,Dr. Sample Zeta,Islamabad,Psychologist,Paid VC,Completed,2500,No
+A01871,2026-10-19,Dr. Sample Delta,Karachi,Gynecologist,Physical,No-show,2500,
+A01872,2026-10-18,Dr. Sample Beta,Lahore,Psychologist,Lab Booking,Completed,1500,Yes
+A01873,2026-10-03,Dr. Sample Alpha,Lahore,Psychologist,Instant VC,No-show,1200,
+A01874,2026-10-02,Dr. Sample Alpha,Lahore,Psychologist,Instant VC,Completed,1200,No
+A01875,2026-10-30,Dr. Sample Theta,Rawalpindi,Dermatologist,Instant VC,Completed,1000,Yes
+A01876,2026-11-01,Dr. Sample Theta,Rawalpindi,Dermatologist,Physical,Completed,2500,Yes
+A01877,2026-10-06,Dr. Sample Beta,Lahore,Psychologist,Lab Booking,Completed,1500,Yes
+A01878,2026-10-22,Dr. Sample Zeta,Islamabad,Psychologist,Paid VC,Completed,1800,Yes
+A01879,2026-11-03,Dr. Sample Alpha,Lahore,Psychologist,Instant VC,Completed,1000,Yes
+A01880,2026-10-25,Dr. Sample Delta,Karachi,Gynecologist,Paid VC,Cancelled,2000,
+A01881,2026-10-10,Dr. Sample Delta,Karachi,Gynecologist,Paid VC,Completed,2000,No
+A01882,2026-11-10,Dr. Sample Epsilon,Islamabad,Pediatrician,Paid VC,Cancelled,2000,
+A01883,2026-11-01,Dr. Sample Alpha,Lahore,Psychologist,Instant VC,Completed,1200,Yes
+A01884,2026-10-17,Dr. Sample Alpha,Lahore,Psychologist,Instant VC,Completed,1200,Yes
+A01885,2026-10-12,Dr. Sample Theta,Rawalpindi,Dermatologist,Instant VC,Cancelled,1200,
+A01886,2026-11-01,Dr. Sample Epsilon,Islamabad,Pediatrician,Physical,Cancelled,3000,
+A01887,2026-10-19,Dr. Sample Zeta,Islamabad,Psychologist,Instant VC,Completed,1000,Yes
+A01888,2026-10-21,Dr. Sample Eta,Lahore,General Physician,Lab Booking,Completed,2000,Yes
+A01889,2026-10-21,Dr. Sample Gamma,Karachi,Dermatologist,Instant VC,Completed,1200,No
+A01890,2026-10-31,Dr. Sample Gamma,Karachi,Dermatologist,Physical,Cancelled,3000,
+A01891,2026-10-02,Dr. Sample Eta,Lahore,General Physician,Physical,Completed,2500,No
+A01892,2026-10-21,Dr. Sample Alpha,Lahore,Psychologist,Instant VC,Completed,1200,No
+A01893,2026-10-28,Dr. Sample Eta,Lahore,General Physician,Physical,Completed,2300,Yes
+A01894,2026-10-22,Dr. Sample Theta,Rawalpindi,Dermatologist,Physical,Completed,2300,Yes
+A01895,2026-11-06,Dr. Sample Theta,Rawalpindi,Dermatologist,Instant VC,Cancelled,1200,
+A01896,2026-11-09,Dr. Sample Beta,Lahore,Psychologist,Lab Booking,Completed,1500,Yes
+A01897,2026-10-06,Dr. Sample Alpha,Lahore,Psychologist,Physical,Cancelled,2500,
+A01898,2026-11-05,Dr. Sample Zeta,Islamabad,Psychologist,Physical,Completed,2300,Yes
+A01899,2026-10-11,Dr. Sample Zeta,Islamabad,Psychologist,Instant VC,Cancelled,1700,
+A01900,2026-10-11,Dr. Sample Delta,Karachi,Gynecologist,Paid VC,No-show,2000,
+A01901,2026-10-16,Dr. Sample Eta,Lahore,General Physician,Paid VC,No-show,1800,
+A01902,2026-11-03,Dr. Sample Alpha,Lahore,Psychologist,Physical,Completed,3000,No
+A01903,2026-10-20,Dr. Sample Alpha,Lahore,Psychologist,Paid VC,Completed,2000,Yes
+A01904,2026-10-25,Dr. Sample Epsilon,Islamabad,Pediatrician,Physical,Completed,2500,Yes
+A01905,2026-11-02,Dr. Sample Beta,Lahore,Psychologist,Paid VC,Completed,2500,Yes
+A01906,2026-11-04,Dr. Sample Alpha,Lahore,Psychologist,Physical,Completed,2500,Yes
+A01907,2026-11-08,Dr. Sample Eta,Lahore,General Physician,Paid VC,Cancelled,2000,
+A01908,2026-10-02,Dr. Sample Eta,Lahore,General Physician,Instant VC,Completed,1700,Yes
+A01909,2026-11-11,Dr. Sample Beta,Lahore,Psychologist,Paid VC,Completed,2500,Yes
+A01910,2026-10-27,Dr. Sample Eta,Lahore,General Physician,Paid VC,Completed,2500,Yes
+A01911,2026-11-01,Dr. Sample Delta,Karachi,Gynecologist,Paid VC,Completed,2000,Yes
+A01912,2026-10-02,Dr. Sample Theta,Rawalpindi,Dermatologist,Paid VC,Completed,2000,No
+A01913,2026-10-07,Dr. Sample Zeta,Islamabad,Psychologist,Instant VC,Completed,1200,Yes
+A01914,2026-10-11,Dr. Sample Beta,Lahore,Psychologist,Paid VC,Completed,2500,Yes
+A01915,2026-11-09,Dr. Sample Beta,Lahore,Psychologist,Paid VC,Cancelled,2000,
+A01916,2026-10-17,Dr. Sample Alpha,Lahore,Psychologist,Physical,Completed,2500,Yes
+A01917,2026-11-06,Dr. Sample Alpha,Lahore,Psychologist,Paid VC,Completed,1800,Yes
+A01918,2026-11-01,Dr. Sample Delta,Karachi,Gynecologist,Physical,Completed,2500,Yes
+A01919,2026-10-31,Dr. Sample Zeta,Islamabad,Psychologist,Instant VC,Completed,1000,Yes
+A01920,2026-10-25,Dr. Sample Eta,Lahore,General Physician,Physical,Completed,2300,Yes
+A01921,2026-10-29,Dr. Sample Beta,Lahore,Psychologist,Paid VC,Cancelled,1800,
+A01922,2026-11-01,Dr. Sample Alpha,Lahore,Psychologist,Physical,Completed,3000,Yes
+A01923,2026-10-19,Dr. Sample Eta,Lahore,General Physician,Paid VC,Completed,2000,Yes
+A01924,2026-10-24,Dr. Sample Zeta,Islamabad,Psychologist,Instant VC,Completed,1200,Yes
+A01925,2026-10-14,Dr. Sample Epsilon,Islamabad,Pediatrician,Instant VC,Cancelled,1200,
+A01926,2026-10-14,Dr. Sample Epsilon,Islamabad,Pediatrician,Instant VC,No-show,1200,
+A01927,2026-10-31,Dr. Sample Gamma,Karachi,Dermatologist,Instant VC,Completed,1700,Yes
+A01928,2026-10-01,Dr. Sample Gamma,Karachi,Dermatologist,Instant VC,Completed,1200,Yes
+A01929,2026-10-22,Dr. Sample Beta,Lahore,Psychologist,Instant VC,Completed,1700,Yes
+A01930,2026-11-05,Dr. Sample Beta,Lahore,Psychologist,Paid VC,Cancelled,2000,
+A01931,2026-10-18,Dr. Sample Alpha,Lahore,Psychologist,Lab Booking,Completed,2000,Yes
+A01932,2026-10-26,Dr. Sample Zeta,Islamabad,Psychologist,Instant VC,No-show,1200,
+A01933,2026-10-07,Dr. Sample Beta,Lahore,Psychologist,Instant VC,Completed,1200,Yes
+A01934,2026-10-09,Dr. Sample Epsilon,Islamabad,Pediatrician,Instant VC,Cancelled,1700,
+A01935,2026-11-07,Dr. Sample Zeta,Islamabad,Psychologist,Instant VC,Completed,1700,Yes
+A01936,2026-10-15,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,No-show,1800,
+A01937,2026-10-31,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,Cancelled,2000,
+A01938,2026-10-04,Dr. Sample Beta,Lahore,Psychologist,Physical,Completed,3000,No
+A01939,2026-11-02,Dr. Sample Theta,Rawalpindi,Dermatologist,Paid VC,Completed,2000,No
+A01940,2026-10-31,Dr. Sample Eta,Lahore,General Physician,Physical,Completed,2500,Yes
+A01941,2026-11-10,Dr. Sample Delta,Karachi,Gynecologist,Lab Booking,Cancelled,1500,
+A01942,2026-11-01,Dr. Sample Eta,Lahore,General Physician,Instant VC,Completed,1200,Yes
+A01943,2026-10-12,Dr. Sample Eta,Lahore,General Physician,Physical,Completed,2500,No
+A01944,2026-10-14,Dr. Sample Zeta,Islamabad,Psychologist,Physical,Completed,2500,No
+A01945,2026-10-01,Dr. Sample Zeta,Islamabad,Psychologist,Paid VC,Completed,2000,Yes
+A01946,2026-10-22,Dr. Sample Alpha,Lahore,Psychologist,Instant VC,Completed,1200,Yes
+A01947,2026-10-03,Dr. Sample Alpha,Lahore,Psychologist,Instant VC,Completed,1700,No
+A01948,2026-10-17,Dr. Sample Alpha,Lahore,Psychologist,Lab Booking,Completed,1300,Yes
+A01949,2026-11-10,Dr. Sample Theta,Rawalpindi,Dermatologist,Lab Booking,Completed,1500,No
+A01950,2026-10-02,Dr. Sample Beta,Lahore,Psychologist,Paid VC,Completed,2000,Yes
+A01951,2026-10-08,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,Completed,1800,Yes
+A01952,2026-10-18,Dr. Sample Beta,Lahore,Psychologist,Physical,No-show,2500,
+A01953,2026-10-21,Dr. Sample Alpha,Lahore,Psychologist,Paid VC,Cancelled,2000,
+A01954,2026-10-26,Dr. Sample Zeta,Islamabad,Psychologist,Instant VC,Completed,1000,Yes
+A01955,2026-11-02,Dr. Sample Delta,Karachi,Gynecologist,Physical,Completed,2500,Yes
+A01956,2026-10-18,Dr. Sample Gamma,Karachi,Dermatologist,Instant VC,Completed,1700,Yes
+A01957,2026-11-05,Dr. Sample Alpha,Lahore,Psychologist,Paid VC,Completed,2000,No
+A01958,2026-10-30,Dr. Sample Beta,Lahore,Psychologist,Instant VC,Completed,1000,Yes
+A01959,2026-11-07,Dr. Sample Beta,Lahore,Psychologist,Paid VC,Completed,1800,Yes
+A01960,2026-10-24,Dr. Sample Alpha,Lahore,Psychologist,Paid VC,Completed,2000,Yes
+A01961,2026-10-09,Dr. Sample Delta,Karachi,Gynecologist,Physical,Completed,3000,Yes
+A01962,2026-11-06,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,Completed,2000,Yes
+A01963,2026-10-12,Dr. Sample Epsilon,Islamabad,Pediatrician,Physical,No-show,2500,
+A01964,2026-11-01,Dr. Sample Theta,Rawalpindi,Dermatologist,Paid VC,Completed,2000,Yes
+A01965,2026-10-11,Dr. Sample Theta,Rawalpindi,Dermatologist,Physical,Completed,3000,Yes
+A01966,2026-10-28,Dr. Sample Delta,Karachi,Gynecologist,Lab Booking,Completed,1500,Yes
+A01967,2026-11-02,Dr. Sample Zeta,Islamabad,Psychologist,Physical,Completed,2500,Yes
+A01968,2026-10-30,Dr. Sample Delta,Karachi,Gynecologist,Paid VC,Completed,1800,Yes
+A01969,2026-11-07,Dr. Sample Theta,Rawalpindi,Dermatologist,Paid VC,Completed,2500,Yes
+A01970,2026-11-10,Dr. Sample Zeta,Islamabad,Psychologist,Physical,Completed,2300,Yes
+A01971,2026-10-22,Dr. Sample Eta,Lahore,General Physician,Instant VC,Completed,1000,Yes
+A01972,2026-10-30,Dr. Sample Zeta,Islamabad,Psychologist,Paid VC,Completed,1800,No
+A01973,2026-10-28,Dr. Sample Theta,Rawalpindi,Dermatologist,Instant VC,Completed,1700,Yes
+A01974,2026-11-08,Dr. Sample Epsilon,Islamabad,Pediatrician,Physical,Completed,3000,Yes
+A01975,2026-10-15,Dr. Sample Alpha,Lahore,Psychologist,Lab Booking,Completed,1300,No
+A01976,2026-11-06,Dr. Sample Eta,Lahore,General Physician,Physical,Completed,2300,Yes
+A01977,2026-11-08,Dr. Sample Gamma,Karachi,Dermatologist,Lab Booking,No-show,1500,
+A01978,2026-10-22,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,Cancelled,1800,
+A01979,2026-10-10,Dr. Sample Beta,Lahore,Psychologist,Paid VC,Cancelled,2500,
+A01980,2026-10-01,Dr. Sample Eta,Lahore,General Physician,Paid VC,Completed,2000,Yes
+A01981,2026-10-12,Dr. Sample Epsilon,Islamabad,Pediatrician,Paid VC,Completed,2000,No
+A01982,2026-10-10,Dr. Sample Beta,Lahore,Psychologist,Physical,Completed,2500,Yes
+A01983,2026-10-07,Dr. Sample Theta,Rawalpindi,Dermatologist,Paid VC,Completed,2500,Yes
+A01984,2026-10-30,Dr. Sample Theta,Rawalpindi,Dermatologist,Physical,Completed,2300,No
+A01985,2026-10-09,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,Completed,2000,Yes
+A01986,2026-11-04,Dr. Sample Eta,Lahore,General Physician,Instant VC,Completed,1700,Yes
+A01987,2026-10-12,Dr. Sample Delta,Karachi,Gynecologist,Physical,Completed,2500,Yes
+A01988,2026-10-01,Dr. Sample Zeta,Islamabad,Psychologist,Instant VC,Completed,1700,Yes
+A01989,2026-10-13,Dr. Sample Delta,Karachi,Gynecologist,Paid VC,Completed,2000,No
+A01990,2026-11-11,Dr. Sample Beta,Lahore,Psychologist,Paid VC,Completed,2000,Yes
+A01991,2026-10-31,Dr. Sample Epsilon,Islamabad,Pediatrician,Paid VC,Completed,2500,Yes
+A01992,2026-11-03,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,Cancelled,2500,
+A01993,2026-10-07,Dr. Sample Beta,Lahore,Psychologist,Paid VC,Completed,2500,Yes
+A01994,2026-11-06,Dr. Sample Gamma,Karachi,Dermatologist,Paid VC,Completed,2500,Yes
+A01995,2026-10-26,Dr. Sample Theta,Rawalpindi,Dermatologist,Physical,Completed,2300,Yes
+A01996,2026-11-10,Dr. Sample Eta,Lahore,General Physician,Paid VC,Completed,2500,Yes
+A01997,2026-11-04,Dr. Sample Theta,Rawalpindi,Dermatologist,Physical,No-show,2300,
+A01998,2026-11-04,Dr. Sample Gamma,Karachi,Dermatologist,Lab Booking,Completed,1300,Yes
+A01999,2026-11-07,Dr. Sample Alpha,Lahore,Psychologist,Paid VC,Completed,2500,No
+A02000,2026-10-03,Dr. Sample Alpha,Lahore,Psychologist,Instant VC,Completed,1700,No
